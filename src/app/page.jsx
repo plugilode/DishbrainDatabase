@@ -315,6 +315,9 @@ function MainComponent() {
   const [newsItems, setNewsItems] = React.useState([]);
   const [isLoadingNews, setIsLoadingNews] = React.useState(false);
 
+  // Add state for photo loading
+  const [isLoadingPhoto, setIsLoadingPhoto] = React.useState(false);
+
   // Initial load
   React.useEffect(() => {
     const loadInitialData = async () => {
@@ -523,6 +526,7 @@ function MainComponent() {
     setSelectedProfile(expert);
     setShowProfileModal(true);
     fetchExpertNews(expert);
+    findProfilePhoto(expert);
   };
   const handleContactCompany = (company) => {
     console.log("Kontaktiere Firma:", company);
@@ -945,6 +949,44 @@ function MainComponent() {
       console.error('Error fetching news:', error);
     } finally {
       setIsLoadingNews(false);
+    }
+  };
+
+  // Add function to find profile photo
+  const findProfilePhoto = async (expert) => {
+    if (expert?.personalInfo?.image && expert.personalInfo.image !== '/default-avatar.png') {
+      return; // Already has a custom image
+    }
+    
+    setIsLoadingPhoto(true);
+    try {
+      const response = await fetch('/api/profile-photo-finder', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          name: expert.personalInfo.fullName,
+          company: expert.currentRole?.organization || expert.institution?.name
+        })
+      });
+      
+      if (response.ok) {
+        const { imageUrl } = await response.json();
+        if (imageUrl && imageUrl !== '/default-avatar.png') {
+          setSelectedProfile(prev => ({
+            ...prev,
+            personalInfo: {
+              ...prev.personalInfo,
+              image: imageUrl
+            }
+          }));
+        }
+      }
+    } catch (error) {
+      console.error('Error finding profile photo:', error);
+    } finally {
+      setIsLoadingPhoto(false);
     }
   };
 
@@ -1836,7 +1878,9 @@ function MainComponent() {
                     <img
                       src={selectedProfile?.personalInfo?.image || '/default-avatar.png'}
                       alt={selectedProfile?.personalInfo?.fullName || 'Expert'}
-                      className="w-28 h-28 rounded-full object-cover shadow-lg"
+                      className={`w-28 h-28 rounded-full object-cover shadow-lg ${
+                        isLoadingPhoto ? 'animate-pulse' : ''
+                      }`}
                     />
                     <div>
                       <h2 className="text-3xl font-bold text-gray-800">{selectedProfile?.personalInfo?.fullName || 'Unknown Expert'}</h2>
