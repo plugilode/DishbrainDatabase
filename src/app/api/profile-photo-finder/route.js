@@ -1,32 +1,43 @@
 import { NextResponse } from 'next/server';
 import axios from 'axios';
+import crypto from 'crypto';
 
 export async function POST(request) {
   try {
-    const { name, company } = await request.json();
+    const { name, company, email } = await request.json();
     
-    // Try to get company logo/profile from Clearbit
-    const domain = company?.toLowerCase().replace(/[^a-zA-Z0-9]/g, '') + '.com';
-    const clearbitUrl = `https://logo.clearbit.com/${domain}`;
-    
-    try {
-      // Check if image exists
-      await axios.head(clearbitUrl);
-      return NextResponse.json({ imageUrl: clearbitUrl });
-    } catch (error) {
-      // If company logo not found, try LinkedIn profile URL
-      const linkedinUrl = `https://www.linkedin.com/in/${name.toLowerCase().replace(/\s+/g, '-')}`;
+    if (email) {
+      // Try Gravatar if email is available
+      const hash = crypto.createHash('md5').update(email.toLowerCase().trim()).digest('hex');
+      const gravatarUrl = `https://www.gravatar.com/avatar/${hash}?d=404&s=400`;
+      
       try {
-        const response = await axios.head(linkedinUrl);
-        return NextResponse.json({ imageUrl: linkedinUrl + '/photo' });
-      } catch (linkedinError) {
-        // Return default avatar if both attempts fail
-        return NextResponse.json({ 
-          imageUrl: '/default-avatar.png',
-          error: 'No suitable image found' 
-        });
+        await axios.head(gravatarUrl);
+        return NextResponse.json({ imageUrl: gravatarUrl });
+      } catch (error) {
+        console.log('No Gravatar found');
       }
     }
+
+    // Fallback to company logo if no profile photo found
+    if (company) {
+      const domain = company?.toLowerCase().replace(/[^a-zA-Z0-9]/g, '') + '.com';
+      const clearbitUrl = `https://logo.clearbit.com/${domain}`;
+      
+      try {
+        await axios.head(clearbitUrl);
+        return NextResponse.json({ imageUrl: clearbitUrl });
+      } catch (error) {
+        console.log('No company logo found');
+      }
+    }
+
+    // Return default avatar if no image found
+    return NextResponse.json({ 
+      imageUrl: '/default-avatar.png',
+      error: 'No suitable image found' 
+    });
+
   } catch (error) {
     console.error('Error finding profile photo:', error);
     return NextResponse.json({ 

@@ -967,7 +967,8 @@ function MainComponent() {
         },
         body: JSON.stringify({
           name: expert.personalInfo.fullName,
-          company: expert.currentRole?.organization || expert.institution?.name
+          company: expert.currentRole?.organization || expert.institution?.name,
+          email: expert.personalInfo.email // Add this line
         })
       });
       
@@ -1863,17 +1864,17 @@ function MainComponent() {
               className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50"
             >
               <div className="bg-white p-8 rounded-lg shadow-xl w-[90%] max-w-5xl max-h-[90vh] overflow-y-auto relative">
-                {/* Add the close button at the top-right corner */}
+                {/* Close button */}
                 <button 
                   onClick={() => setShowProfileModal(false)}
-                  className="absolute top-4 right-4 w-8 h-8 flex items-center justify-center rounded-full hover:bg-gray-100 transition-colors"
+                  className="absolute top-4 right-4 w-8 h-8 flex items-center justify-center rounded-full hover:bg-gray-100 transition-colors border border-gray-300"
                   aria-label="Close profile"
                 >
-                  <i className="fas fa-times text-xl text-gray-600 hover:text-gray-800"></i>
+                  <span className="text-2xl font-bold text-gray-600 hover:text-gray-800">×</span>
                 </button>
 
                 {/* Header */}
-                <div className="flex items-start mb-8">  {/* Remove justify-between since we moved the close button */}
+                <div className="flex items-start mb-8">
                   <div className="flex items-center gap-6">
                     <img
                       src={selectedProfile?.personalInfo?.image || '/default-avatar.png'}

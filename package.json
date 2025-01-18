@@ -21,6 +21,7 @@
     "linkedin-private-api": "^1.1.2",
     "lodash": "^4.17.21",
     "next": "14.0.4",
+    "node-fetch": "^3.3.2",
     "react": "^18",
     "react-dom": "^18",
     "react-error-boundary": "^5.0.0"
