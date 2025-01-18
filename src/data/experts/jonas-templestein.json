@@ -1,0 +1,49 @@
+{
+  "id": "exp202",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jonas",
+    "lastName": "Templestein",
+    "fullName": "Jonas Templestein",
+    "image": "/experts/jonas-templestein.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Nustom",
+    "position": "AI, Software Development",
+    "department": null,
+    "website": "Founder"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "AI, Software Development",
+    "organization": "Nustom",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/jonashuckestein/",
+    "company": "Founder"
+  },
+  "tags": [
+    "AI, Software Development"
+  ],
+  "source": null
+}

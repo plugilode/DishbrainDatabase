@@ -1,0 +1,49 @@
+{
+  "id": "exp047",
+  "personalInfo": {
+    "title": null,
+    "firstName": "John",
+    "lastName": "Thomson",
+    "fullName": "John Thomson",
+    "image": "/experts/john-thomson.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Head of Capabilities",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of Capabilities",
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of Capabilities"
+  ],
+  "source": null
+}

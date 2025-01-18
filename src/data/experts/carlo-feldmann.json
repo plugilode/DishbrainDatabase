@@ -1,0 +1,54 @@
+{
+  "id": "exp272",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Carlo",
+    "lastName": "Feldmann",
+    "fullName": "Carlo Feldmann",
+    "image": "/experts/carlo-feldmann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "NFT Automates GmbH",
+    "position": "Teamleitung Automation",
+    "department": null,
+    "website": "https://www.linkedin.com/in/carlo-feldmann-b7a98b260/?originalSubdomain=de"
+  },
+  "expertise": {
+    "primary": [
+      "KI und Objekterkennung"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Teamleitung Automation",
+    "organization": "NFT Automates GmbH",
+    "focus": "KI und Objekterkennung"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/carlo-feldmann-b7a98b260/",
+    "company": "https://www.linkedin.com/in/carlo-feldmann-b7a98b260/?originalSubdomain=de"
+  },
+  "tags": [
+    "KI und Objekterkennung",
+    "Teamleitung Automation"
+  ],
+  "source": "Text"
+}

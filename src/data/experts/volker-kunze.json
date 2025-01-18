@@ -1,0 +1,52 @@
+{
+  "id": "exp141",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Volker",
+    "lastName": "Kunze",
+    "fullName": "Volker Kunze",
+    "image": "/experts/volker-kunze.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Tech Innovator & Award-Winner",
+    "department": null,
+    "website": "LinkedIn-Profil"
+  },
+  "expertise": {
+    "primary": [
+      "XR & Digital Learning Innovator"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Tech Innovator & Award-Winner",
+    "organization": null,
+    "focus": "XR & Digital Learning Innovator"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "LinkedIn-Profil"
+  },
+  "tags": [
+    "XR & Digital Learning Innovator",
+    "Tech Innovator & Award-Winner"
+  ],
+  "source": null
+}

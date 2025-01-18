@@ -1,0 +1,52 @@
+{
+  "id": "exp039",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Richard",
+    "lastName": "Gutjahr",
+    "fullName": "Richard Gutjahr",
+    "image": "/experts/richard-gutjahr.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Blogger, Digitalexperte, Influencer, Moderator, Autor, Karikaturist",
+    "department": null,
+    "website": "richardgutjahr.com"
+  },
+  "expertise": {
+    "primary": [
+      "Persönlichkeit"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Blogger, Digitalexperte, Influencer, Moderator, Autor, Karikaturist",
+    "organization": null,
+    "focus": "Persönlichkeit"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/richardgutjahr/",
+    "company": "richardgutjahr.com"
+  },
+  "tags": [
+    "Persönlichkeit",
+    "Blogger, Digitalexperte, Influencer, Moderator, Autor, Karikaturist"
+  ],
+  "source": null
+}

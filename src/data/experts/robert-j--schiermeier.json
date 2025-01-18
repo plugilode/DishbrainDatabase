@@ -1,0 +1,54 @@
+{
+  "id": "exp280",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Robert",
+    "lastName": "Schiermeier",
+    "fullName": "Robert J. Schiermeier",
+    "image": "/experts/robert-j--schiermeier.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "ValueMiner",
+    "position": "CEO",
+    "department": null,
+    "website": "https://valueminer.eu/de/"
+  },
+  "expertise": {
+    "primary": [
+      "KI und Workflow-Management"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "ValueMiner",
+    "focus": "KI und Workflow-Management"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://valueminer.eu/de/"
+  },
+  "tags": [
+    "KI und Workflow-Management",
+    "CEO"
+  ],
+  "source": "Text"
+}

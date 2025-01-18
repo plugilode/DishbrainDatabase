@@ -1,0 +1,54 @@
+{
+  "id": "exp174",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Thomas",
+    "lastName": "Bergmann",
+    "fullName": "Thomas Bergmann",
+    "image": "/experts/thomas-bergmann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Senior DevOps Engineer und Cloud Architect",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Senior DevOps Engineer und Cloud Architect",
+    "organization": null,
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Technologie",
+    "Senior DevOps Engineer und Cloud Architect"
+  ],
+  "source": "Teamseite"
+}

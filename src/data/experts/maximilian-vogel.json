@@ -1,0 +1,54 @@
+{
+  "id": "exp167",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Maximilian",
+    "lastName": "Vogel",
+    "fullName": "Maximilian Vogel",
+    "image": "/experts/maximilian-vogel.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "BIG PICTURE",
+    "position": "Co-Founder und Visionär",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Co-Founder und Visionär",
+    "organization": "BIG PICTURE",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Technologie",
+    "Co-Founder und Visionär"
+  ],
+  "source": "Teamseite"
+}

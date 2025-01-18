@@ -1,0 +1,52 @@
+{
+  "id": "exp395",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Laure",
+    "lastName": "Zanna",
+    "fullName": "Laure Zanna",
+    "image": "/experts/laure-zanna.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Courant Institute, New York University",
+    "position": "Professor of Mathematics & Atmosphere/Ocean Science",
+    "department": null,
+    "website": "https://www.cims.nyu.edu"
+  },
+  "expertise": {
+    "primary": [
+      "Academia"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor of Mathematics & Atmosphere/Ocean Science",
+    "organization": "Courant Institute, New York University",
+    "focus": "Academia"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.cims.nyu.edu"
+  },
+  "tags": [
+    "Academia",
+    "Professor of Mathematics & Atmosphere/Ocean Science"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

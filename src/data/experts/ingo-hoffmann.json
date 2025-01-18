@@ -1,0 +1,52 @@
+{
+  "id": "exp298",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Ingo",
+    "lastName": "Hoffmann",
+    "fullName": "Ingo Hoffmann",
+    "image": "/experts/ingo-hoffmann.jpg",
+    "email": "https://docs.google.com/document/d/1J3p4BCSYqr6n0MMbx_htJT5wdImAVySj/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "AI.Fund",
+    "position": "Beteiligter",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Fonds"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Beteiligter",
+    "organization": "AI.Fund",
+    "focus": "Fonds"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/ingoho/",
+    "company": null
+  },
+  "tags": [
+    "Fonds",
+    "Beteiligter"
+  ],
+  "source": "Künstliche Intelligenz: Diese Investoren finanzieren Deutschlands KI-Hoffnungen (handelsblatt.com)"
+}

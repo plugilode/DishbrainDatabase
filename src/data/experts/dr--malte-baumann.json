@@ -1,0 +1,49 @@
+{
+  "id": "exp007",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Malte",
+    "lastName": "Baumann",
+    "fullName": "Dr. Malte Baumann",
+    "image": "/experts/dr--malte-baumann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Nordemann Czychowski & Partner",
+    "position": "Rechtsanwalt",
+    "department": null,
+    "website": "https://www.nordemann.de"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Rechtsanwalt",
+    "organization": "Nordemann Czychowski & Partner",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.nordemann.de"
+  },
+  "tags": [
+    "Rechtsanwalt"
+  ],
+  "source": "Bitkom"
+}

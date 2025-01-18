@@ -1,0 +1,54 @@
+{
+  "id": "exp109",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Daniel",
+    "lastName": "Hauber",
+    "fullName": "Daniel Hauber",
+    "image": "/experts/daniel-hauber.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Speaker",
+    "department": null,
+    "website": "ogcon.de"
+  },
+  "expertise": {
+    "primary": [
+      "KI Anwendung"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Speaker",
+    "organization": null,
+    "focus": "KI Anwendung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "ogcon.de"
+  },
+  "tags": [
+    "KI Anwendung",
+    "Speaker"
+  ],
+  "source": "ogcon.de"
+}

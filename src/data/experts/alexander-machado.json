@@ -1,0 +1,49 @@
+{
+  "id": "exp058",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Alexander",
+    "lastName": "Machado",
+    "fullName": "Alexander Machado",
+    "image": "/experts/alexander-machado.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Head of TrustworthyAI (COE)",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of TrustworthyAI (COE)",
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of TrustworthyAI (COE)"
+  ],
+  "source": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "exp052",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Pavel",
+    "lastName": "Sagulenko",
+    "fullName": "Dr. Pavel Sagulenko",
+    "image": "/experts/dr--pavel-sagulenko.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Head of IT",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of IT",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of IT"
+  ],
+  "source": null
+}

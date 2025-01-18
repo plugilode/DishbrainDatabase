@@ -1,0 +1,52 @@
+{
+  "id": "exp364",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Florian",
+    "lastName": "Schütz",
+    "fullName": "Dr. Florian Schütz",
+    "image": "/experts/dr--florian-sch-tz.jpg",
+    "email": "https://drive.google.com/file/d/1XfbualpqzuhaNI3t1S1JEu_d4Bb3aNC-/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "KI Park",
+    "position": "Geschäftsführer",
+    "department": null,
+    "website": "https://www.ki-park.de/"
+  },
+  "expertise": {
+    "primary": [
+      "Zukunftsforscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer",
+    "organization": "KI Park",
+    "focus": "Zukunftsforscher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.ki-park.de/"
+  },
+  "tags": [
+    "Zukunftsforscher",
+    "Geschäftsführer"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

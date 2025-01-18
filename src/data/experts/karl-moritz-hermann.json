@@ -1,0 +1,52 @@
+{
+  "id": "exp028",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Karl",
+    "lastName": "Hermann",
+    "fullName": "Karl Moritz Hermann",
+    "image": "/experts/karl-moritz-hermann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Reliant AI Inc.",
+    "position": "CEO",
+    "department": null,
+    "website": "www.karlmoritz.com"
+  },
+  "expertise": {
+    "primary": [
+      "Invetment"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "Reliant AI Inc.",
+    "focus": "Invetment"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "www.karlmoritz.com"
+  },
+  "tags": [
+    "Invetment",
+    "CEO"
+  ],
+  "source": null
+}

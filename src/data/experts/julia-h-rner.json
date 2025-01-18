@@ -1,0 +1,52 @@
+{
+  "id": "exp248",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Julia",
+    "lastName": "Hörner",
+    "fullName": "Julia Hörner",
+    "image": "/experts/julia-h-rner.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Keine spezifische Firma",
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/julia-hoerner/"
+  },
+  "expertise": {
+    "primary": [
+      "Keine spezifische Rolle"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": "Keine spezifische Firma",
+    "focus": "Keine spezifische Rolle"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/julia-hörner-59a19224b/",
+    "company": "https://www.linkedin.com/in/julia-hoerner/"
+  },
+  "tags": [
+    "Keine spezifische Rolle",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

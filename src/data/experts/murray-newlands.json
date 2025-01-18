@@ -1,0 +1,52 @@
+{
+  "id": "exp157",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Murray",
+    "lastName": "Newlands",
+    "fullName": "Murray Newlands",
+    "image": "/experts/murray-newlands.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Event-Organisator und Moderator",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Eventplanung"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Event-Organisator und Moderator",
+    "organization": null,
+    "focus": "Eventplanung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Eventplanung",
+    "Event-Organisator und Moderator"
+  ],
+  "source": null
+}

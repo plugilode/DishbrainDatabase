@@ -1,0 +1,52 @@
+{
+  "id": "exp231",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Peter",
+    "lastName": "Zellinger",
+    "fullName": "Peter Zellinger",
+    "image": "/experts/peter-zellinger.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "derstandard.at/web",
+    "position": "Redakteur",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Medien"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Redakteur",
+    "organization": "derstandard.at/web",
+    "focus": "Medien"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Medien",
+    "Redakteur"
+  ],
+  "source": "Text"
+}

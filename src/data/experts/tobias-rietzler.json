@@ -1,0 +1,52 @@
+{
+  "id": "exp228",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Tobias",
+    "lastName": "Rietzler",
+    "fullName": "Tobias Rietzler",
+    "image": "/experts/tobias-rietzler.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Robominds",
+    "position": "CEO, Gründer",
+    "department": null,
+    "website": "https://www.robco.de"
+  },
+  "expertise": {
+    "primary": [
+      "Robotik"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO, Gründer",
+    "organization": "Robominds",
+    "focus": "Robotik"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.robco.de"
+  },
+  "tags": [
+    "Robotik",
+    "CEO, Gründer"
+  ],
+  "source": "Text"
+}

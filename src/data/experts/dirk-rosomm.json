@@ -1,0 +1,52 @@
+{
+  "id": "exp242",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Dirk",
+    "lastName": "Rosomm",
+    "fullName": "Dirk Rosomm",
+    "image": "/experts/dirk-rosomm.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Transformationsexperte",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Transformation"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Transformationsexperte",
+    "organization": null,
+    "focus": "Transformation"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Transformation",
+    "Transformationsexperte"
+  ],
+  "source": "Text"
+}

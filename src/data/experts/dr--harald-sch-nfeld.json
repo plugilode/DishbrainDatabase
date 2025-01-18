@@ -1,0 +1,52 @@
+{
+  "id": "exp215",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Harald",
+    "lastName": "Schönfeld",
+    "fullName": "Dr. Harald Schönfeld",
+    "image": "/experts/dr--harald-sch-nfeld.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Butterflymanager GmbH",
+    "position": "Geschäftsführer",
+    "department": null,
+    "website": "https://www.bigdata-insider.de/ki-experte-warnt-vor-falschen-ki-beratern-a-884277/"
+  },
+  "expertise": {
+    "primary": [
+      "Beratung"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer",
+    "organization": "Butterflymanager GmbH",
+    "focus": "Beratung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.bigdata-insider.de/ki-experte-warnt-vor-falschen-ki-beratern-a-884277/"
+  },
+  "tags": [
+    "Beratung",
+    "Geschäftsführer"
+  ],
+  "source": "Text"
+}

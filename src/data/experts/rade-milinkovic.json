@@ -1,0 +1,49 @@
+{
+  "id": "exp044",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Rade",
+    "lastName": "Milinkovic",
+    "fullName": "Rade Milinkovic",
+    "image": "/experts/rade-milinkovic.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Director of Finance",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Director of Finance",
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Director of Finance"
+  ],
+  "source": null
+}

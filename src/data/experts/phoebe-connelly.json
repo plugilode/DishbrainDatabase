@@ -1,0 +1,52 @@
+{
+  "id": "exp156",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Phoebe",
+    "lastName": "Connelly",
+    "fullName": "Phoebe Connelly",
+    "image": "/experts/phoebe-connelly.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "The Washington Post",
+    "position": "Senior Editor für AI Strategy und Innovation",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Medien"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Senior Editor für AI Strategy und Innovation",
+    "organization": "The Washington Post",
+    "focus": "Medien"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/phoebe-connelly/",
+    "company": null
+  },
+  "tags": [
+    "Medien",
+    "Senior Editor für AI Strategy und Innovation"
+  ],
+  "source": "Washington Post"
+}

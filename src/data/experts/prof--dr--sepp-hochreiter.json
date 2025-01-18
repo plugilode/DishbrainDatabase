@@ -1,0 +1,52 @@
+{
+  "id": "exp310",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Sepp",
+    "lastName": "Hochreiter",
+    "fullName": "Prof. Dr. Sepp Hochreiter",
+    "image": "/experts/prof--dr--sepp-hochreiter.jpg",
+    "email": "https://drive.google.com/file/u/1/d/1v90XGyqnnEyvgpnYwyQhnQ364pmfUz-M/view?usp=drive_open",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "AI Lab, Linz Institute of Technology",
+    "position": "Professor",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor",
+    "organization": "AI Lab, Linz Institute of Technology",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Professor"
+  ],
+  "source": "https://ai-berlin.com/de/events-tiles/event/ai-symposium"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp289",
+  "personalInfo": {
+    "title": null,
+    "firstName": "David",
+    "lastName": "Kuczek",
+    "fullName": "David Kuczek",
+    "image": "/experts/david-kuczek.jpg",
+    "email": "https://docs.google.com/document/d/1pFc_ERPbcGpmcB-ivoUm8iB_IV21AIK7/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "HV Capital",
+    "position": "Partner",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "VC"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Partner",
+    "organization": "HV Capital",
+    "focus": "VC"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/david-kuczek-064104175/",
+    "company": null
+  },
+  "tags": [
+    "VC",
+    "Partner"
+  ],
+  "source": "Künstliche Intelligenz: Diese Investoren finanzieren Deutschlands KI-Hoffnungen (handelsblatt.com)"
+}

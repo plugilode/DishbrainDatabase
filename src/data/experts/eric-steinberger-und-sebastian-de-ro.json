@@ -1,0 +1,52 @@
+{
+  "id": "exp230",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Eric",
+    "lastName": "Ro",
+    "fullName": "Eric Steinberger und Sebastian De Ro",
+    "image": "/experts/eric-steinberger-und-sebastian-de-ro.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Magic.dev",
+    "position": "Gründer",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Start-up"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Gründer",
+    "organization": "Magic.dev",
+    "focus": "Start-up"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Start-up",
+    "Gründer"
+  ],
+  "source": "Text"
+}

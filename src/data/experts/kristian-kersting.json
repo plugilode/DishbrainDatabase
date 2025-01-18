@@ -1,0 +1,52 @@
+{
+  "id": "exp305",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Kristian",
+    "lastName": "Kersting",
+    "fullName": "Kristian Kersting",
+    "image": "/experts/kristian-kersting.jpg",
+    "email": "https://drive.google.com/file/u/1/d/1bb7U5Kkza6k7KnsxP-aAa2NgHN0JoDhi/view?usp=drive_open",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Professor für maschinelles Lernen",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor für maschinelles Lernen",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/kerstingaiml/",
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Professor für maschinelles Lernen"
+  ],
+  "source": "https://www.deutschland.de/de/topic/wissen/kuenstliche-intelligenz-in-deutschland-fuehrende-forscher"
+}

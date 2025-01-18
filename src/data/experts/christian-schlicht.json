@@ -1,0 +1,52 @@
+{
+  "id": "exp070",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Christian",
+    "lastName": "Schlicht",
+    "fullName": "Christian Schlicht",
+    "image": "/experts/christian-schlicht.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Landgericht Köln",
+    "position": "Judge",
+    "department": null,
+    "website": "0"
+  },
+  "expertise": {
+    "primary": [
+      "Legal"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Judge",
+    "organization": "Landgericht Köln",
+    "focus": "Legal"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "0"
+  },
+  "tags": [
+    "Legal",
+    "Judge"
+  ],
+  "source": "​​​​​​https://www.christina-maria-leeb.de/"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp261",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Maximilian",
+    "lastName": "Schneider",
+    "fullName": "Maximilian Schneider",
+    "image": "/experts/maximilian-schneider.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/maximilian-schneider-664440261/?originalSubdomain=de"
+  },
+  "expertise": {
+    "primary": [
+      "Keine spezifische Rolle"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": null,
+    "focus": "Keine spezifische Rolle"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/maximilian-schneider-ba1283320/",
+    "company": "https://www.linkedin.com/in/maximilian-schneider-664440261/?originalSubdomain=de"
+  },
+  "tags": [
+    "Keine spezifische Rolle",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "exp107",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Anna",
+    "lastName": "Graf",
+    "fullName": "Anna Graf",
+    "image": "/placeholder/expert-placeholder.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Innovation Lead Web3 und Metaverse",
+    "department": null,
+    "website": "ogcon.de"
+  },
+  "expertise": {
+    "primary": [
+      "KI Ecosystem"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Innovation Lead Web3 und Metaverse",
+    "organization": null,
+    "focus": "KI Ecosystem"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/anna-graf90/",
+    "company": "ogcon.de"
+  },
+  "tags": [
+    "KI Ecosystem",
+    "Innovation Lead Web3 und Metaverse"
+  ],
+  "source": "ogcon.de",
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:21:54.211Z"
+}

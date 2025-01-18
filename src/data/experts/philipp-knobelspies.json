@@ -1,0 +1,52 @@
+{
+  "id": "exp260",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Philipp",
+    "lastName": "Knobelspies",
+    "fullName": "Philipp Knobelspies",
+    "image": "/experts/philipp-knobelspies.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/philipp-knobelspies/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=de"
+  },
+  "expertise": {
+    "primary": [
+      "Keine spezifische Rolle"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": null,
+    "focus": "Keine spezifische Rolle"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/philipp-knobelspies/",
+    "company": "https://www.linkedin.com/in/philipp-knobelspies/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=de"
+  },
+  "tags": [
+    "Keine spezifische Rolle",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp149",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Wolfgang",
+    "lastName": "Maaß",
+    "fullName": "Professor Wolfgang Maaß",
+    "image": "/experts/professor-wolfgang-maa-.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Universität des Saarlandes/DFKI",
+    "position": "Professor",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor",
+    "organization": "Universität des Saarlandes/DFKI",
+    "focus": "Wissenschaft"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Wissenschaft",
+    "Professor"
+  ],
+  "source": null
+}

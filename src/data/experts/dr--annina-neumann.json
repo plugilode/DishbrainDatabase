@@ -1,0 +1,54 @@
+{
+  "id": "exp275",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Annina",
+    "lastName": "Neumann",
+    "fullName": "Dr. Annina Neumann",
+    "image": "/experts/dr--annina-neumann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Hochschule Flensburg",
+    "position": "Professorin für KI und Software Engineering",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Bildung"
+    ],
+    "secondary": [],
+    "industries": [
+      "Education"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professorin für KI und Software Engineering",
+    "organization": "Hochschule Flensburg",
+    "focus": "Bildung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Bildung",
+    "Professorin für KI und Software Engineering"
+  ],
+  "source": "Text"
+}

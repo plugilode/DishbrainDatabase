@@ -1,0 +1,52 @@
+{
+  "id": "exp037",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Daniel",
+    "lastName": "Katz",
+    "fullName": "Daniel Katz",
+    "image": "/experts/daniel-katz.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Professor, co-founder of LexPredict",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [
+      "Akademiker"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor, co-founder of LexPredict",
+    "organization": null,
+    "focus": "Akademiker"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Akademiker",
+    "Professor, co-founder of LexPredict"
+  ],
+  "source": null
+}

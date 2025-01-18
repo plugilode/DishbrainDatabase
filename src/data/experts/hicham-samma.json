@@ -1,0 +1,49 @@
+{
+  "id": "exp063",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Hicham",
+    "lastName": "Samma",
+    "fullName": "Hicham Samma",
+    "image": "/experts/hicham-samma.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Senior People & Culture Specialist",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Senior People & Culture Specialist",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/hicham-samma/",
+    "company": "N/A"
+  },
+  "tags": [
+    "Senior People & Culture Specialist"
+  ],
+  "source": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp246",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Kim",
+    "lastName": "Scheurenbrand",
+    "fullName": "Kim M. Scheurenbrand",
+    "image": "/experts/kim-m--scheurenbrand.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Selbstständig",
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/kim-m-scheurenbrand-a29658225/"
+  },
+  "expertise": {
+    "primary": [
+      "Selbstständig"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": "Selbstständig",
+    "focus": "Selbstständig"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.linkedin.com/in/kim-m-scheurenbrand-a29658225/"
+  },
+  "tags": [
+    "Selbstständig",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

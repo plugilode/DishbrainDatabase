@@ -1,0 +1,52 @@
+{
+  "id": "exp404",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Prem",
+    "lastName": "Natarajan",
+    "fullName": "Prem Natarajan",
+    "image": "/experts/prem-natarajan.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Capital One",
+    "position": "Executive Vice President, Chief Scientist and Head of Enterprise AI",
+    "department": null,
+    "website": "https://www.capitalone.com"
+  },
+  "expertise": {
+    "primary": [
+      "Finance"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Executive Vice President, Chief Scientist and Head of Enterprise AI",
+    "organization": "Capital One",
+    "focus": "Finance"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.capitalone.com"
+  },
+  "tags": [
+    "Finance",
+    "Executive Vice President, Chief Scientist and Head of Enterprise AI"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "exp057",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Thiemo",
+    "lastName": "Scherle",
+    "fullName": "Dr. Thiemo Scherle",
+    "image": "/experts/dr--thiemo-scherle.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Head of Product",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of Product",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of Product"
+  ],
+  "source": null
+}

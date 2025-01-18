@@ -1,0 +1,58 @@
+{
+  "id": "exp087",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Kim",
+    "lastName": "Komando",
+    "fullName": "Kim Komando",
+    "image": "/experts/kim-komando.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Phoenix",
+    "position": "Radiomoderatorin",
+    "department": null,
+    "website": "komando.com"
+  },
+  "expertise": {
+    "primary": [
+      "Unterhaltungselektronik",
+      "Sicherheit",
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Radiomoderatorin",
+    "organization": "Phoenix",
+    "focus": "Unterhaltungselektronik, Sicherheit, Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "komando.com"
+  },
+  "tags": [
+    "Unterhaltungselektronik",
+    "Sicherheit",
+    "Technologie",
+    "Radiomoderatorin"
+  ],
+  "source": null
+}

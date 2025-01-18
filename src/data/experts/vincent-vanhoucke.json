@@ -1,0 +1,54 @@
+{
+  "id": "exp371",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Vincent",
+    "lastName": "Vanhoucke",
+    "fullName": "Vincent Vanhoucke",
+    "image": "/experts/vincent-vanhoucke.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Distinguished Scientist and Senior Director of Robotics",
+    "department": null,
+    "website": "https://deepmind.com"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Distinguished Scientist and Senior Director of Robotics",
+    "organization": null,
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://deepmind.com"
+  },
+  "tags": [
+    "Tech",
+    "Distinguished Scientist and Senior Director of Robotics"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp083",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Luisa",
+    "lastName": "Lorenz",
+    "fullName": "Luisa Lorenz",
+    "image": "/experts/luisa-lorenz.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "0",
+    "department": null,
+    "website": "0"
+  },
+  "expertise": {
+    "primary": [
+      "Legal"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": null,
+    "focus": "Legal"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "0"
+  },
+  "tags": [
+    "Legal",
+    "0"
+  ],
+  "source": "​​​​​​https://www.christina-maria-leeb.de/"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "exp106",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Benno",
+    "lastName": "Siebern",
+    "fullName": "Benno Siebern",
+    "image": "/experts/benno-siebern.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "OGverse / OGcon",
+    "position": "Speaker",
+    "department": null,
+    "website": "ogcon.de"
+  },
+  "expertise": {
+    "primary": [
+      "KI Ecosystem"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Speaker",
+    "organization": "OGverse / OGcon",
+    "focus": "KI Ecosystem"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "ogcon.de"
+  },
+  "tags": [
+    "KI Ecosystem",
+    "Speaker"
+  ],
+  "source": "ogcon.de"
+}

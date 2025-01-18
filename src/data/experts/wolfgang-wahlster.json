@@ -1,0 +1,52 @@
+{
+  "id": "exp336",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Wolfgang",
+    "lastName": "Wahlster",
+    "fullName": "Wolfgang Wahlster",
+    "image": "/experts/wolfgang-wahlster.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1bqrSStwTLH9AQgzhWnSqgPUTJIYYcgPp/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Mensch-Maschine-Interaktion/Dialogsysteme",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Mensch-Maschine-Interaktion/Dialogsysteme",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/wolfgang-wahlster-2b92a5216/",
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Mensch-Maschine-Interaktion/Dialogsysteme"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt"
+}

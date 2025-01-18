@@ -1,0 +1,52 @@
+{
+  "id": "exp102",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Ruppert",
+    "lastName": "Bodmeier",
+    "fullName": "Ruppert Bodmeier",
+    "image": "/experts/ruppert-bodmeier.jpg",
+    "email": "info@keynotespeakers.eu",
+    "phone": "0175 566 4329",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "disrooptive.com",
+    "position": "Gründer und Geschäftsführer",
+    "department": null,
+    "website": "Not Provided"
+  },
+  "expertise": {
+    "primary": [
+      "Disruptive Innovation"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Gründer und Geschäftsführer",
+    "organization": "disrooptive.com",
+    "focus": "Disruptive Innovation"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/ruppert-bodmeier/",
+    "company": "Not Provided"
+  },
+  "tags": [
+    "Disruptive Innovation",
+    "Gründer und Geschäftsführer"
+  ],
+  "source": "keynotespeakers.eu"
+}

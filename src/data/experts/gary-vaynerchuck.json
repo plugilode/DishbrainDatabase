@@ -1,0 +1,52 @@
+{
+  "id": "exp112",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Gary",
+    "lastName": "Vaynerchuck",
+    "fullName": "Gary Vaynerchuck",
+    "image": "/experts/gary-vaynerchuck.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Special Guest",
+    "department": null,
+    "website": "ogcon.de"
+  },
+  "expertise": {
+    "primary": [
+      "Special Event"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Special Guest",
+    "organization": null,
+    "focus": "Special Event"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "ogcon.de"
+  },
+  "tags": [
+    "Special Event",
+    "Special Guest"
+  ],
+  "source": "ogcon.de"
+}

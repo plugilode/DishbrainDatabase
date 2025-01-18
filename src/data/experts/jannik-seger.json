@@ -1,0 +1,49 @@
+{
+  "id": "exp059",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jannik",
+    "lastName": "Seger",
+    "fullName": "Jannik Seger",
+    "image": "/experts/jannik-seger.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Head of AI Operating Model",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of AI Operating Model",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/jannik-seger/",
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of AI Operating Model"
+  ],
+  "source": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "exp287",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Thomas",
+    "lastName": "Langkabel",
+    "fullName": "Thomas Langkabel",
+    "image": "/experts/thomas-langkabel.jpg",
+    "email": "https://drive.google.com/file/d/1R_eetgDx1YBp1ocDP5X5a1iae6BBZ5Qs/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Microsoft Deutschland",
+    "position": "National Technology Officer",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "National Technology Officer",
+    "organization": "Microsoft Deutschland",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "National Technology Officer"
+  ],
+  "source": "https://www.burda.com/de/news/wie-ki-unser-leben-beeinflusst-interdisziplinarer/"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "exp368",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jerry",
+    "lastName": "Yue",
+    "fullName": "Jerry Yue",
+    "image": "/experts/jerry-yue.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1jWUYBT4c0UZifngO6-U0D5bg8zgL-Piz/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": null,
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": null,
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/jerry-sheng-yue/",
+    "company": null
+  },
+  "tags": [],
+  "source": null
+}

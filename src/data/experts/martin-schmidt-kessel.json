@@ -1,0 +1,52 @@
+{
+  "id": "exp072",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Martin",
+    "lastName": "Schmidt-Kessel",
+    "fullName": "Martin Schmidt-Kessel",
+    "image": "/experts/martin-schmidt-kessel.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Professor",
+    "department": null,
+    "website": "0"
+  },
+  "expertise": {
+    "primary": [
+      "Legal"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor",
+    "organization": null,
+    "focus": "Legal"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "0"
+  },
+  "tags": [
+    "Legal",
+    "Professor"
+  ],
+  "source": "​​​​​​https://www.christina-maria-leeb.de/"
+}

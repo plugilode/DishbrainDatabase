@@ -1,0 +1,54 @@
+{
+  "id": "exp354",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Jürgen",
+    "lastName": "Schmidhuber",
+    "fullName": "Prof. Dr. Jürgen Schmidhuber",
+    "image": "/experts/prof--dr--j-rgen-schmidhuber.jpg",
+    "email": "https://docs.google.com/document/d/1k-1ryjC3aJJNvdouG5jqPnSPoXU4F1X0/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "KAUST, NNAISENSE, Swiss AI Lab IDSIA",
+    "position": "Director, Co-Founder & Chief Scientist, Scientific Director",
+    "department": null,
+    "website": "https://www.idsia.ch/, https://www.nnaisense.com/"
+  },
+  "expertise": {
+    "primary": [
+      "Forscher",
+      "Kultfigur"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Director, Co-Founder & Chief Scientist, Scientific Director",
+    "organization": "KAUST, NNAISENSE, Swiss AI Lab IDSIA",
+    "focus": "Forscher, Kultfigur"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.idsia.ch/, https://www.nnaisense.com/"
+  },
+  "tags": [
+    "Forscher",
+    "Kultfigur",
+    "Director, Co-Founder & Chief Scientist, Scientific Director"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

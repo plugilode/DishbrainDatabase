@@ -1,0 +1,52 @@
+{
+  "id": "exp340",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Christine",
+    "lastName": "Regitz",
+    "fullName": "Christine Regitz",
+    "image": "/experts/christine-regitz.jpg",
+    "email": "https://docs.google.com/document/d/1ICFCf1yyJTLAOfudOQfGkkrU4_3q-DZt/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Vizepräsidentin und Jurymitglied",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vizepräsidentin und Jurymitglied",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Vizepräsidentin und Jurymitglied"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt"
+}

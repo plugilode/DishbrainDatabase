@@ -1,0 +1,56 @@
+{
+  "id": "exp103",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Janet",
+    "lastName": "Zentel",
+    "fullName": "Janet Zentel",
+    "image": "/experts/janet-zentel.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "ki-frauenpower.de",
+    "department": null,
+    "website": "KI Frauenpower"
+  },
+  "expertise": {
+    "primary": [
+      "Autorin",
+      "Coach",
+      "Unternehmerin"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "ki-frauenpower.de",
+    "organization": null,
+    "focus": "Autorin, Coach, Unternehmerin"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/janetzentel/",
+    "company": "KI Frauenpower"
+  },
+  "tags": [
+    "Autorin",
+    "Coach",
+    "Unternehmerin",
+    "ki-frauenpower.de"
+  ],
+  "source": "Künstliche Intelligenz"
+}

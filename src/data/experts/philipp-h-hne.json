@@ -1,0 +1,52 @@
+{
+  "id": "exp100",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Philipp",
+    "lastName": "Hühne",
+    "fullName": "Philipp Hühne",
+    "image": "/experts/philipp-h-hne.jpg",
+    "email": "philipp_huehne@mckinsey.com",
+    "phone": "491753184486",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "McKinsey",
+    "position": "Digital Communication Specialist",
+    "department": null,
+    "website": "mckinsey.de"
+  },
+  "expertise": {
+    "primary": [
+      "Unternehmensberatung"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Digital Communication Specialist",
+    "organization": "McKinsey",
+    "focus": "Unternehmensberatung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "mckinsey.de"
+  },
+  "tags": [
+    "Unternehmensberatung",
+    "Digital Communication Specialist"
+  ],
+  "source": "kom.de​ (KOM - Magazin für Kommunikation | kom.de)​"
+}

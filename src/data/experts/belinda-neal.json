@@ -1,0 +1,52 @@
+{
+  "id": "exp392",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Belinda",
+    "lastName": "Neal",
+    "fullName": "Belinda Neal",
+    "image": "/experts/belinda-neal.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Goldman Sachs",
+    "position": "Chief Operating Officer for Core Engineering and Head of Engineering Partnerships",
+    "department": null,
+    "website": "https://www.goldmansachs.com"
+  },
+  "expertise": {
+    "primary": [
+      "Finance"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Chief Operating Officer for Core Engineering and Head of Engineering Partnerships",
+    "organization": "Goldman Sachs",
+    "focus": "Finance"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.goldmansachs.com"
+  },
+  "tags": [
+    "Finance",
+    "Chief Operating Officer for Core Engineering and Head of Engineering Partnerships"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

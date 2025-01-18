@@ -1,0 +1,52 @@
+{
+  "id": "exp309",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Verena",
+    "lastName": "Hafner",
+    "fullName": "Verena Hafner",
+    "image": "/experts/verena-hafner.jpg",
+    "email": "https://drive.google.com/file/d/1pkF1qSfuwfTddMKQtI1P30MPsa7TdXtE/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Humboldt-Universität zu Berlin",
+    "position": "Professorin für Adaptive Systeme",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professorin für Adaptive Systeme",
+    "organization": "Humboldt-Universität zu Berlin",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Professorin für Adaptive Systeme"
+  ],
+  "source": "https://www.deutschland.de/de/topic/wissen/kuenstliche-intelligenz-in-deutschland-fuehrende-forscher"
+}

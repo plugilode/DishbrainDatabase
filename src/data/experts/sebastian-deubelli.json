@@ -1,0 +1,54 @@
+{
+  "id": "exp186",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Sebastian",
+    "lastName": "Deubelli",
+    "fullName": "Sebastian Deubelli",
+    "image": "/experts/sebastian-deubelli.jpg",
+    "email": "kanzlei@sld-ip.com",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Kanzlei aus Landshut",
+    "position": "Partner, Fachanwalt für Urheber- und Medienrecht",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Rechtsanwalt"
+    ],
+    "secondary": [],
+    "industries": [
+      "Legal"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Partner, Fachanwalt für Urheber- und Medienrecht",
+    "organization": "Kanzlei aus Landshut",
+    "focus": "Rechtsanwalt"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/sebastian-deubelli-bb24667a/",
+    "company": null
+  },
+  "tags": [
+    "Rechtsanwalt",
+    "Partner, Fachanwalt für Urheber- und Medienrecht"
+  ],
+  "source": null
+}

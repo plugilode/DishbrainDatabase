@@ -1,0 +1,54 @@
+{
+  "id": "exp147",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Hannah",
+    "lastName": "Stein",
+    "fullName": "Hannah Stein",
+    "image": "/experts/hannah-stein.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Universität des Saarlandes / DFKI",
+    "position": "Wissenschaftliche Mitarbeiterin",
+    "department": null,
+    "website": "DFKI"
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft / KI und Quantensimulation"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Wissenschaftliche Mitarbeiterin",
+    "organization": "Universität des Saarlandes / DFKI",
+    "focus": "Wissenschaft / KI und Quantensimulation"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/hannah-stein-ba571ba9/",
+    "company": "DFKI"
+  },
+  "tags": [
+    "Wissenschaft / KI und Quantensimulation",
+    "Wissenschaftliche Mitarbeiterin"
+  ],
+  "source": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "exp281",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Andreas",
+    "lastName": "Preisser",
+    "fullName": "Andreas Preisser",
+    "image": "/experts/andreas-preisser.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.bayern-innovativ.de/de/kontakt/andreas-preisser"
+  },
+  "expertise": {
+    "primary": [
+      "Innovation"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": null,
+    "focus": "Innovation"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/andreas-preisser/",
+    "company": "https://www.bayern-innovativ.de/de/kontakt/andreas-preisser"
+  },
+  "tags": [
+    "Innovation",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text",
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:21:44.581Z"
+}

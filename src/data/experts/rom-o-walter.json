@@ -1,0 +1,52 @@
+{
+  "id": "exp033",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Roméo",
+    "lastName": "Walter",
+    "fullName": "Roméo Walter",
+    "image": "/experts/rom-o-walter.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Fly Ventures",
+    "position": "Associate",
+    "department": null,
+    "website": "www.fly.vc"
+  },
+  "expertise": {
+    "primary": [
+      "Invetment"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Associate",
+    "organization": "Fly Ventures",
+    "focus": "Invetment"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/romeo-walter/",
+    "company": "www.fly.vc"
+  },
+  "tags": [
+    "Invetment",
+    "Associate"
+  ],
+  "source": "https://craft.co/fly-ventures"
+}

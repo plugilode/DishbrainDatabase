@@ -1,0 +1,52 @@
+{
+  "id": "exp386",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Asmita",
+    "lastName": "Dubey",
+    "fullName": "Asmita Dubey",
+    "image": "/experts/asmita-dubey.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "L’Oreal",
+    "position": "Chief Digital and Marketing Officer",
+    "department": null,
+    "website": "https://www.loreal.com"
+  },
+  "expertise": {
+    "primary": [
+      "Beauty"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Chief Digital and Marketing Officer",
+    "organization": "L’Oreal",
+    "focus": "Beauty"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.loreal.com"
+  },
+  "tags": [
+    "Beauty",
+    "Chief Digital and Marketing Officer"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

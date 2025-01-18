@@ -1,0 +1,54 @@
+{
+  "id": "exp389",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Noam",
+    "lastName": "Shazeer",
+    "fullName": "Noam Shazeer",
+    "image": "/experts/noam-shazeer.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Chief Executive Officer and Co-Founder",
+    "department": null,
+    "website": "https://www.character.ai"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Chief Executive Officer and Co-Founder",
+    "organization": null,
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.character.ai"
+  },
+  "tags": [
+    "Tech",
+    "Chief Executive Officer and Co-Founder"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

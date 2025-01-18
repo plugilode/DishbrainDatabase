@@ -1,0 +1,55 @@
+{
+  "id": "exp143",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Simon",
+    "lastName": "Graff",
+    "fullName": "Simon Graff",
+    "image": "/experts/simon-graff.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Emerging Tech Educator / Founder / President",
+    "department": null,
+    "website": "LinkedIn-Profil"
+  },
+  "expertise": {
+    "primary": [
+      "Technologiebildung und Innovation"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology",
+      "Education"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Emerging Tech Educator / Founder / President",
+    "organization": null,
+    "focus": "Technologiebildung und Innovation"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/simon-graff/",
+    "company": "LinkedIn-Profil"
+  },
+  "tags": [
+    "Technologiebildung und Innovation",
+    "Emerging Tech Educator / Founder / President"
+  ],
+  "source": null
+}

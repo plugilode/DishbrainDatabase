@@ -1,0 +1,52 @@
+{
+  "id": "exp367",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Matthias",
+    "lastName": "Plaue",
+    "fullName": "Dr. Matthias Plaue",
+    "image": "/experts/dr--matthias-plaue.jpg",
+    "email": "https://drive.google.com/file/d/1rt1Pnd63vQNpHJY8gGKmFisWycGPYuaU/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Mapegy",
+    "position": "Chief Data Scientist",
+    "department": null,
+    "website": "https://www.mapegy.com/"
+  },
+  "expertise": {
+    "primary": [
+      "Forscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Chief Data Scientist",
+    "organization": "Mapegy",
+    "focus": "Forscher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.mapegy.com/"
+  },
+  "tags": [
+    "Forscher",
+    "Chief Data Scientist"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp270",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Pascal",
+    "lastName": "Pöhler",
+    "fullName": "Pascal Pöhler",
+    "image": "/experts/pascal-p-hler.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Josef Schulte GmbH",
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.nw.de/lokal/kreis_paderborn/delbrueck/23683261_KI-soll-Delbruecker-Betrieb-das-Leben-leichter-machen.html"
+  },
+  "expertise": {
+    "primary": [
+      "Mittelstand"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": "Josef Schulte GmbH",
+    "focus": "Mittelstand"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/pascal-pöhler-a59482172/",
+    "company": "https://www.nw.de/lokal/kreis_paderborn/delbrueck/23683261_KI-soll-Delbruecker-Betrieb-das-Leben-leichter-machen.html"
+  },
+  "tags": [
+    "Mittelstand",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp001",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Rodion",
+    "lastName": "Trappe",
+    "fullName": "Rodion (Rodja) Trappe",
+    "image": "/experts/rodion--rodja--trappe.jpg",
+    "email": "info@zauberzeug.com",
+    "phone": "00 49 2507 3817",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "zauberzeug",
+    "position": "Geschäftsführer",
+    "department": null,
+    "website": "https://zauberzeug.com/"
+  },
+  "expertise": {
+    "primary": [
+      "Handwerk"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer",
+    "organization": "zauberzeug",
+    "focus": "Handwerk"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://zauberzeug.com/"
+  },
+  "tags": [
+    "Handwerk",
+    "Geschäftsführer"
+  ],
+  "source": null
+}

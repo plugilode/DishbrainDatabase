@@ -1,0 +1,52 @@
+{
+  "id": "exp180",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Tobias",
+    "lastName": "Keber",
+    "fullName": "Prof. Dr. Tobias Keber",
+    "image": "/experts/prof--dr--tobias-keber.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Landesbeauftragter Baden-Württemberg",
+    "position": "Landesbeauftragter für Datenschutz",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Datenschutzexperte"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Landesbeauftragter für Datenschutz",
+    "organization": "Landesbeauftragter Baden-Württemberg",
+    "focus": "Datenschutzexperte"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Datenschutzexperte",
+    "Landesbeauftragter für Datenschutz"
+  ],
+  "source": null
+}

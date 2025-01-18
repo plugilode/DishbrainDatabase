@@ -1,0 +1,56 @@
+{
+  "id": "exp333",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Bernhard",
+    "lastName": "Nebel",
+    "fullName": "Bernhard Nebel",
+    "image": "/experts/bernhard-nebel.jpg",
+    "email": "https://drive.google.com/file/d/1EWK_NMorvxhJfZcrk2cDx8rYLMWTxlRt/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Wissensrepräsentation und Schlussfolgern/Planen",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Wissensrepräsentation und Schlussfolgern/Planen",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/bernhard-nebel-1121a1146/",
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Wissensrepräsentation und Schlussfolgern/Planen"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt",
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:22:24.702Z"
+}

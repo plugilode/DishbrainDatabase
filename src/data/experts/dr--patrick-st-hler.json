@@ -1,0 +1,52 @@
+{
+  "id": "exp324",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Patrick",
+    "lastName": "Stähler",
+    "fullName": "Dr. Patrick Stähler",
+    "image": "/experts/dr--patrick-st-hler.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1qZYGHRT7Sws7KyylV6viCIZt25FH6Wfb/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Think Tank „Fluid Minds“",
+    "position": "Partner, Autor",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Wirtschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Partner, Autor",
+    "organization": "Think Tank „Fluid Minds“",
+    "focus": "Wirtschaft"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Wirtschaft",
+    "Partner, Autor"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

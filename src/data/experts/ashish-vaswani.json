@@ -1,0 +1,54 @@
+{
+  "id": "exp417",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Ashish",
+    "lastName": "Vaswani",
+    "fullName": "Ashish Vaswani",
+    "image": "/experts/ashish-vaswani.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Essential AI",
+    "position": "Co-Founder and CEO",
+    "department": null,
+    "website": "Not Available"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Co-Founder and CEO",
+    "organization": "Essential AI",
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Not Available"
+  },
+  "tags": [
+    "Tech",
+    "Co-Founder and CEO"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

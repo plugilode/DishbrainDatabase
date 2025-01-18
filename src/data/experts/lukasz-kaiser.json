@@ -1,0 +1,54 @@
+{
+  "id": "exp420",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Lukasz",
+    "lastName": "Kaiser",
+    "fullName": "Lukasz Kaiser",
+    "image": "/experts/lukasz-kaiser.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "OpenAI",
+    "position": "Member of Technical Staff",
+    "department": null,
+    "website": "https://openai.com"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Member of Technical Staff",
+    "organization": "OpenAI",
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://openai.com"
+  },
+  "tags": [
+    "Tech",
+    "Member of Technical Staff"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp163",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Sepp",
+    "lastName": "Hochreiter",
+    "fullName": "Univ.-Prof. Dr. Sepp Hochreiter",
+    "image": "/experts/univ--prof--dr--sepp-hochreiter.jpg",
+    "email": "hochreit@ml.jku.at",
+    "phone": "+43 732 2468 4521",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Johannes Kepler Universität Linz",
+    "position": "Leiter des Instituts für Machine Learning",
+    "department": null,
+    "website": "https://ml.jku.at"
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Leiter des Instituts für Machine Learning",
+    "organization": "Johannes Kepler Universität Linz",
+    "focus": "Wissenschaft"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://ml.jku.at"
+  },
+  "tags": [
+    "Wissenschaft",
+    "Leiter des Instituts für Machine Learning"
+  ],
+  "source": null
+}

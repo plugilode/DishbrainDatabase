@@ -1,0 +1,52 @@
+{
+  "id": "exp328",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Elisabeth",
+    "lastName": "André",
+    "fullName": "Elisabeth André",
+    "image": "/experts/elisabeth-andr-.jpg",
+    "email": "https://drive.google.com/file/d/14yinbLtrXz9tzKqT7K5e718O16lS9iEq/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Mensch-Maschine-Interaktion, Multiagentensysteme",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Mensch-Maschine-Interaktion, Multiagentensysteme",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Mensch-Maschine-Interaktion, Multiagentensysteme"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt"
+}

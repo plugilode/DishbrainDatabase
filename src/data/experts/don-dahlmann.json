@@ -1,0 +1,52 @@
+{
+  "id": "exp323",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Don",
+    "lastName": "Dahlmann",
+    "fullName": "Don Dahlmann",
+    "image": "/experts/don-dahlmann.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1Gs9AHrqdT8YTvY1OWlr9JcUHlNLXcH1o/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Journalist",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Medien"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Journalist",
+    "organization": null,
+    "focus": "Medien"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/dondahlmann/",
+    "company": null
+  },
+  "tags": [
+    "Medien",
+    "Journalist"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

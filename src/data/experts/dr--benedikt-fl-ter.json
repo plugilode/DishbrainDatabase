@@ -1,0 +1,49 @@
+{
+  "id": "exp011",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Benedikt",
+    "lastName": "Flöter",
+    "fullName": "Dr. Benedikt Flöter",
+    "image": "/experts/dr--benedikt-fl-ter.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "YPOG",
+    "position": "Rechtsanwalt und Steuerberater",
+    "department": null,
+    "website": "https://www.ypog.law"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Rechtsanwalt und Steuerberater",
+    "organization": "YPOG",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://docs.google.com/spreadsheets/d/1DL9m_t4GxXaWQkly78OkDWB3yUlXNhbyeOjG4jeB3hc/edit?gid=1953086445#gid=1953086445",
+    "company": "https://www.ypog.law"
+  },
+  "tags": [
+    "Rechtsanwalt und Steuerberater"
+  ],
+  "source": "Bitkom"
+}

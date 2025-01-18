@@ -1,0 +1,52 @@
+{
+  "id": "exp127",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Gerard",
+    "lastName": "Melo",
+    "fullName": "Prof. Dr. Gerard de Melo",
+    "image": "/experts/prof--dr--gerard-de-melo.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Hasso-Plattner-Institut",
+    "position": "Professor",
+    "department": null,
+    "website": "Hasso-Plattner-Institut"
+  },
+  "expertise": {
+    "primary": [
+      "Universität"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor",
+    "organization": "Hasso-Plattner-Institut",
+    "focus": "Universität"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Hasso-Plattner-Institut"
+  },
+  "tags": [
+    "Universität",
+    "Professor"
+  ],
+  "source": null
+}

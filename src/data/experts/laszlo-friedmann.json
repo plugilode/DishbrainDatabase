@@ -1,0 +1,52 @@
+{
+  "id": "exp345",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Laszlo",
+    "lastName": "Friedmann",
+    "fullName": "Laszlo Friedmann",
+    "image": "/experts/laszlo-friedmann.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1JYUt6kc39cBWbSF2bUh8WdIPIJ2RLMZW/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "KI-Forscher",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "KI-Forscher",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/laszlo-friedmann/",
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "KI-Forscher"
+  ],
+  "source": "https://www.handelsblatt.com/technik/ki/insight-innovation-chipmangel-buerokratie-warum-deutsche-ki-forscher-nicht-mithalten-koennen/100011263.html"
+}

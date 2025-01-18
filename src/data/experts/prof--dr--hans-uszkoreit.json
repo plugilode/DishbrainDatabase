@@ -1,0 +1,52 @@
+{
+  "id": "exp356",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Hans",
+    "lastName": "Uszkoreit",
+    "fullName": "Prof. Dr. Hans Uszkoreit",
+    "image": "/experts/prof--dr--hans-uszkoreit.jpg",
+    "email": "https://drive.google.com/file/d/1bjpEwTqXA-iTOcEycsUIn1Ge1FhsrxpQ/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "nyonic, DFKI",
+    "position": "CSO und Wissenschaftlicher Direktor",
+    "department": null,
+    "website": "https://www.nyonic.com/, https://www.dfki.de/"
+  },
+  "expertise": {
+    "primary": [
+      "Forscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CSO und Wissenschaftlicher Direktor",
+    "organization": "nyonic, DFKI",
+    "focus": "Forscher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.nyonic.com/, https://www.dfki.de/"
+  },
+  "tags": [
+    "Forscher",
+    "CSO und Wissenschaftlicher Direktor"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

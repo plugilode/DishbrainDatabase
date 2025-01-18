@@ -1,0 +1,54 @@
+{
+  "id": "exp118",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Hendrik",
+    "lastName": "Haverkamp",
+    "fullName": "Hendrik Haverkamp",
+    "image": "/experts/hendrik-haverkamp.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Evangelisch Stiftisches Gymnasium",
+    "position": "Digital Coordinator",
+    "department": null,
+    "website": "Not Provided"
+  },
+  "expertise": {
+    "primary": [
+      "Bildung"
+    ],
+    "secondary": [],
+    "industries": [
+      "Education"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Digital Coordinator",
+    "organization": "Evangelisch Stiftisches Gymnasium",
+    "focus": "Bildung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Not Provided"
+  },
+  "tags": [
+    "Bildung",
+    "Digital Coordinator"
+  ],
+  "source": "The Decoder, Goethe-Institut"
+}

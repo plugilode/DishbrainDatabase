@@ -1,0 +1,54 @@
+{
+  "id": "exp360",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Rasmus",
+    "lastName": "Rothe",
+    "fullName": "Dr. Rasmus Rothe",
+    "image": "/experts/dr--rasmus-rothe.jpg",
+    "email": "https://docs.google.com/document/d/1Jcrh3V400tCtRms0JM-2K1iejAN2Qa8s/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Merantix AG, AI Campus Berlin",
+    "position": "Gründer, Co-Founder",
+    "department": null,
+    "website": "https://www.merantix.com/, https://www.ai-campus.org/"
+  },
+  "expertise": {
+    "primary": [
+      "Unternehmenssprecher",
+      "Zukunftsforscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Gründer, Co-Founder",
+    "organization": "Merantix AG, AI Campus Berlin",
+    "focus": "Unternehmenssprecher, Zukunftsforscher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.merantix.com/, https://www.ai-campus.org/"
+  },
+  "tags": [
+    "Unternehmenssprecher",
+    "Zukunftsforscher",
+    "Gründer, Co-Founder"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp104",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Viktor",
+    "lastName": "Foos",
+    "fullName": "Viktor Foos",
+    "image": "/experts/viktor-foos.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Content Creator, Videograf, Cutter",
+    "department": null,
+    "website": "ogcon.de"
+  },
+  "expertise": {
+    "primary": [
+      "Chat GPT"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Content Creator, Videograf, Cutter",
+    "organization": null,
+    "focus": "Chat GPT"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "ogcon.de"
+  },
+  "tags": [
+    "Chat GPT",
+    "Content Creator, Videograf, Cutter"
+  ],
+  "source": "ogcon.de"
+}

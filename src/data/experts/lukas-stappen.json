@@ -1,0 +1,52 @@
+{
+  "id": "exp247",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Lukas",
+    "lastName": "Stappen",
+    "fullName": "Lukas Stappen",
+    "image": "/experts/lukas-stappen.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/lukasstappen/"
+  },
+  "expertise": {
+    "primary": [
+      "Keine spezifische Rolle"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": null,
+    "focus": "Keine spezifische Rolle"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.linkedin.com/in/lukasstappen/"
+  },
+  "tags": [
+    "Keine spezifische Rolle",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp362",
+  "personalInfo": {
+    "title": "Prof.",
+    "firstName": "Robin",
+    "lastName": "Hanson",
+    "fullName": "Prof. Robin Hanson",
+    "image": "/experts/prof--robin-hanson.jpg",
+    "email": "https://docs.google.com/document/d/1beV3tBucbmDOnCkucjvoIOktdvZ6OpRb/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "George Mason University",
+    "position": "Associate Professor für Wirtschaft",
+    "department": null,
+    "website": "https://www.gmu.edu/"
+  },
+  "expertise": {
+    "primary": [
+      "Forscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Associate Professor für Wirtschaft",
+    "organization": "George Mason University",
+    "focus": "Forscher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.gmu.edu/"
+  },
+  "tags": [
+    "Forscher",
+    "Associate Professor für Wirtschaft"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

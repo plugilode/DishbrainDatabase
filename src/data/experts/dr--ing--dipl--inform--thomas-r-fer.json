@@ -1,0 +1,52 @@
+{
+  "id": "exp152",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Dipl.-Inform.",
+    "lastName": "Röfer",
+    "fullName": "Dr.-Ing. Dipl.-Inform. Thomas Röfer",
+    "image": "/experts/dr--ing--dipl--inform--thomas-r-fer.jpg",
+    "email": null,
+    "phone": "Thomas.Roefer@dfki.de",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "position": "Organisationsleiter für Cyber-Physical Systems",
+    "department": null,
+    "website": "https://dfki.de"
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Organisationsleiter für Cyber-Physical Systems",
+    "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "focus": "Wissenschaft"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://dfki.de"
+  },
+  "tags": [
+    "Wissenschaft",
+    "Organisationsleiter für Cyber-Physical Systems"
+  ],
+  "source": null
+}

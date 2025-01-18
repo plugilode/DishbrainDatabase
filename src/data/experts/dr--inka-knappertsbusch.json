@@ -1,0 +1,49 @@
+{
+  "id": "exp014",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Inka",
+    "lastName": "Knappertsbusch",
+    "fullName": "Dr. Inka Knappertsbusch",
+    "image": "/experts/dr--inka-knappertsbusch.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "CMS Hasche Sigle",
+    "position": "Rechtsanwalt und Steuerberater",
+    "department": null,
+    "website": "https://cms.law"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Rechtsanwalt und Steuerberater",
+    "organization": "CMS Hasche Sigle",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://cms.law"
+  },
+  "tags": [
+    "Rechtsanwalt und Steuerberater"
+  ],
+  "source": "Bitkom"
+}

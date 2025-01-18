@@ -1,0 +1,52 @@
+{
+  "id": "exp233",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Joshua",
+    "lastName": "Bolte",
+    "fullName": "Joshua Bolte",
+    "image": "/experts/joshua-bolte.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "KI-Experte",
+    "department": null,
+    "website": "https://lnkd.in/eK2nbZfW"
+  },
+  "expertise": {
+    "primary": [
+      "Podcast"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "KI-Experte",
+    "organization": null,
+    "focus": "Podcast"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://lnkd.in/eK2nbZfW"
+  },
+  "tags": [
+    "Podcast",
+    "KI-Experte"
+  ],
+  "source": "Text"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp337",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Stefan",
+    "lastName": "Wrobel",
+    "fullName": "Stefan Wrobel",
+    "image": "/experts/stefan-wrobel.jpg",
+    "email": "https://drive.google.com/file/d/1D2DfmpHyhWvrZrdytUx6qNzUJGO_tXmA/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Maschinelles Lernen",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Maschinelles Lernen",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/stefanwrobel/",
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Maschinelles Lernen"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt"
+}

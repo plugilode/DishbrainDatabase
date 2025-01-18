@@ -1,0 +1,56 @@
+{
+  "id": "exp293",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Andre",
+    "lastName": "Retterath",
+    "fullName": "Andre Retterath",
+    "image": "/experts/andre-retterath.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1Exe67ChJUdm7-Ms4zQYbDaUQjaHX4Oo0/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Earlybird",
+    "position": "Partner",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "VC"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Partner",
+    "organization": "Earlybird",
+    "focus": "VC"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/andreretterath/",
+    "company": null
+  },
+  "tags": [
+    "VC",
+    "Partner"
+  ],
+  "source": "Künstliche Intelligenz: Diese Investoren finanzieren Deutschlands KI-Hoffnungen (handelsblatt.com)",
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:21:29.247Z"
+}

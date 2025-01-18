@@ -1,0 +1,52 @@
+{
+  "id": "exp155",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Tanja",
+    "lastName": "Schneeberger",
+    "fullName": "Tanja Schneeberger",
+    "image": "/experts/tanja-schneeberger.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "position": "Forscherin in der Gruppe \"Affective Computing\"",
+    "department": null,
+    "website": "https://dfki.de"
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Forscherin in der Gruppe \"Affective Computing\"",
+    "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "focus": "Wissenschaft"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/tanja-schneeberger-a89a88122/",
+    "company": "https://dfki.de"
+  },
+  "tags": [
+    "Wissenschaft",
+    "Forscherin in der Gruppe \"Affective Computing\""
+  ],
+  "source": null
+}

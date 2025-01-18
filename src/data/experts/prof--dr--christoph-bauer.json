@@ -1,0 +1,49 @@
+{
+  "id": "exp004",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Christoph",
+    "lastName": "Bauer",
+    "fullName": "Prof. Dr. Christoph Bauer",
+    "image": "/experts/prof--dr--christoph-bauer.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "ePrivacy GmbH",
+    "position": "0",
+    "department": null,
+    "website": "https://www.eprivacy.eu"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "ePrivacy GmbH",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.eprivacy.eu"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

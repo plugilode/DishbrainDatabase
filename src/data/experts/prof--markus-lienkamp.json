@@ -1,0 +1,54 @@
+{
+  "id": "exp188",
+  "personalInfo": {
+    "title": "Prof.",
+    "firstName": "Markus",
+    "lastName": "Lienkamp",
+    "fullName": "Prof. Markus Lienkamp",
+    "image": "/experts/prof--markus-lienkamp.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technical University of Munich",
+    "position": "Autonomous Driving",
+    "department": null,
+    "website": "Professor, Chair of Automotive Engineering"
+  },
+  "expertise": {
+    "primary": [
+      "Tel: +49 89 289 15353",
+      "Email: sekretariat.ftm@ed.tum.de"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Autonomous Driving",
+    "organization": "Technical University of Munich",
+    "focus": "Tel: +49 89 289 15353, Email: sekretariat.ftm@ed.tum.de"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Professor, Chair of Automotive Engineering"
+  },
+  "tags": [
+    "Tel: +49 89 289 15353",
+    "Email: sekretariat.ftm@ed.tum.de",
+    "Autonomous Driving"
+  ],
+  "source": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp339",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Matthias",
+    "lastName": "Klusch",
+    "fullName": "Dr. Matthias Klusch",
+    "image": "/experts/dr--matthias-klusch.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1wXz81k8CQPGoZa_VFh9l2tOyIgkFtDwJ/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "GI-Fachbereich Künstliche Intelligenz (FBKI)",
+    "position": "Sprecher",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Sprecher",
+    "organization": "GI-Fachbereich Künstliche Intelligenz (FBKI)",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Sprecher"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt"
+}

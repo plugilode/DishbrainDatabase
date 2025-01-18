@@ -1,0 +1,59 @@
+{
+  "id": "exp093",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Mina",
+    "lastName": "Saidze",
+    "fullName": "Mina Saidze",
+    "image": "/experts/mina-saidze.jpg",
+    "email": "mail@minasaidze.com",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Inclusive Tech",
+    "position": "Gründerin, Data & AI Lead, Autorin",
+    "department": null,
+    "website": "minasaidze.com"
+  },
+  "expertise": {
+    "primary": [
+      "Daten- und KI-Expertin",
+      "Diversität im Tech-Sektor",
+      "KI-Ethik"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI",
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Gründerin, Data & AI Lead, Autorin",
+    "organization": "Inclusive Tech",
+    "focus": "Daten- und KI-Expertin, Diversität im Tech-Sektor, KI-Ethik"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "minasaidze.com"
+  },
+  "tags": [
+    "Daten- und KI-Expertin",
+    "Diversität im Tech-Sektor",
+    "KI-Ethik",
+    "Gründerin, Data & AI Lead, Autorin"
+  ],
+  "source": "Mina Saidze | turi2"
+}

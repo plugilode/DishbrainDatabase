@@ -1,0 +1,49 @@
+{
+  "id": "exp010",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jonas",
+    "lastName": "Dall’Armi",
+    "fullName": "Jonas von Dall’Armi",
+    "image": "/experts/jonas-von-dall-armi.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Giesecke+Devrient GmbH",
+    "position": "0",
+    "department": null,
+    "website": "https://www.gi-de.com"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "Giesecke+Devrient GmbH",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.gi-de.com"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

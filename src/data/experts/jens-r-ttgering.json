@@ -1,0 +1,54 @@
+{
+  "id": "exp271",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jens",
+    "lastName": "Röttgering",
+    "fullName": "Jens Röttgering",
+    "image": "/experts/jens-r-ttgering.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Hengst SE",
+    "position": "Inhaber und Vorsitzender des Verwaltungsrates",
+    "department": null,
+    "website": "https://www.hengst.com/de/unternehmen/ueber-uns"
+  },
+  "expertise": {
+    "primary": [
+      "KI-gestützte Objekterkennung"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Inhaber und Vorsitzender des Verwaltungsrates",
+    "organization": "Hengst SE",
+    "focus": "KI-gestützte Objekterkennung"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/jens-röttgering-20b89121/",
+    "company": "https://www.hengst.com/de/unternehmen/ueber-uns"
+  },
+  "tags": [
+    "KI-gestützte Objekterkennung",
+    "Inhaber und Vorsitzender des Verwaltungsrates"
+  ],
+  "source": "Text"
+}

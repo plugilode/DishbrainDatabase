@@ -1,0 +1,52 @@
+{
+  "id": "exp238",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Céline",
+    "lastName": "Titz",
+    "fullName": "Céline Isabel Titz",
+    "image": "/experts/c-line-isabel-titz.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Nicht verfügbar",
+    "position": "AI und Task Management Expertin",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Task Management"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "AI und Task Management Expertin",
+    "organization": "Nicht verfügbar",
+    "focus": "Task Management"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Task Management",
+    "AI und Task Management Expertin"
+  ],
+  "source": "Text"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp038",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Katie",
+    "lastName": "Atkinson",
+    "fullName": "Katie Atkinson",
+    "image": "/experts/katie-atkinson.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "University of Liverpool",
+    "position": "Professor, researcher in AI and legal informatics",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [
+      "Akademiker"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor, researcher in AI and legal informatics",
+    "organization": "University of Liverpool",
+    "focus": "Akademiker"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Akademiker",
+    "Professor, researcher in AI and legal informatics"
+  ],
+  "source": null
+}

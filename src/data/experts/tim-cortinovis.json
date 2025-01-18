@@ -1,0 +1,52 @@
+{
+  "id": "exp316",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Tim",
+    "lastName": "Cortinovis",
+    "fullName": "Tim Cortinovis",
+    "image": "/experts/tim-cortinovis.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1Hg8CQLr91-_rQxMya8YA3tT9WnnN6cBc/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keynote Speaker, Autor",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Sprecher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keynote Speaker, Autor",
+    "organization": null,
+    "focus": "Sprecher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Sprecher",
+    "Keynote Speaker, Autor"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

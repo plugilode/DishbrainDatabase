@@ -1,0 +1,54 @@
+{
+  "id": "exp383",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Yoav",
+    "lastName": "Shoham",
+    "fullName": "Yoav Shoham",
+    "image": "/experts/yoav-shoham.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "AI21 Labs",
+    "position": "Co-Founder and Co-CEO",
+    "department": null,
+    "website": "https://www.ai21.com"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Co-Founder and Co-CEO",
+    "organization": "AI21 Labs",
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.ai21.com"
+  },
+  "tags": [
+    "Tech",
+    "Co-Founder and Co-CEO"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

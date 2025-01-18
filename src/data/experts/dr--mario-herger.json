@@ -1,0 +1,54 @@
+{
+  "id": "exp254",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Mario",
+    "lastName": "Herger",
+    "fullName": "Dr. Mario Herger",
+    "image": "/experts/dr--mario-herger.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Nicht verfügbar",
+    "position": "Zukunftsforscher",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Zukunftsforscher",
+    "organization": "Nicht verfügbar",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Technologie",
+    "Zukunftsforscher"
+  ],
+  "source": "Bild (unnamed.jpg)"
+}

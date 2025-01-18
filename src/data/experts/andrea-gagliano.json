@@ -1,0 +1,52 @@
+{
+  "id": "exp410",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Andrea",
+    "lastName": "Gagliano",
+    "fullName": "Andrea Gagliano",
+    "image": "/experts/andrea-gagliano.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Getty Images",
+    "position": "Sr. Director of Data Science, AI/ML",
+    "department": null,
+    "website": "https://www.gettyimages.com"
+  },
+  "expertise": {
+    "primary": [
+      "Media"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Sr. Director of Data Science, AI/ML",
+    "organization": "Getty Images",
+    "focus": "Media"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.gettyimages.com"
+  },
+  "tags": [
+    "Media",
+    "Sr. Director of Data Science, AI/ML"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

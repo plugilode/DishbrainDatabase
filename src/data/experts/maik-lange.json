@@ -1,0 +1,54 @@
+{
+  "id": "exp223",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Maik",
+    "lastName": "Lange",
+    "fullName": "Maik Lange",
+    "image": "/experts/maik-lange.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Bayer AG",
+    "position": "Vortragender bei Fachkonferenz",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "IT & KI"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vortragender bei Fachkonferenz",
+    "organization": "Bayer AG",
+    "focus": "IT & KI"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/webjets/",
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "IT & KI",
+    "Vortragender bei Fachkonferenz"
+  ],
+  "source": "Bild"
+}

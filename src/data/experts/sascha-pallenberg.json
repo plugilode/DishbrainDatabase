@@ -1,0 +1,54 @@
+{
+  "id": "exp142",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Sascha",
+    "lastName": "Pallenberg",
+    "fullName": "Sascha Pallenberg",
+    "image": "/experts/sascha-pallenberg.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Head of Digital Transformation / Chief Awareness Officer",
+    "department": null,
+    "website": "Nicht angegeben"
+  },
+  "expertise": {
+    "primary": [
+      "Technologieblogging / Nachhaltigkeit"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of Digital Transformation / Chief Awareness Officer",
+    "organization": null,
+    "focus": "Technologieblogging / Nachhaltigkeit"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/saschapallenberg/",
+    "company": "Nicht angegeben"
+  },
+  "tags": [
+    "Technologieblogging / Nachhaltigkeit",
+    "Head of Digital Transformation / Chief Awareness Officer"
+  ],
+  "source": null
+}

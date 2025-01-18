@@ -1,0 +1,52 @@
+{
+  "id": "exp326",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Ralf",
+    "lastName": "Belusa",
+    "fullName": "Dr. Ralf Belusa",
+    "image": "/experts/dr--ralf-belusa.jpg",
+    "email": "https://docs.google.com/document/u/1/d/12mut9CvF8EEPsxG85M52mHwzWisFAnfc/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Digital Manager",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Wirtschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Digital Manager",
+    "organization": null,
+    "focus": "Wirtschaft"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Wirtschaft",
+    "Digital Manager"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

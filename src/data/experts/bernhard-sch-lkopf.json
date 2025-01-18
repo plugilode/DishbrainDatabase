@@ -1,0 +1,52 @@
+{
+  "id": "exp307",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Bernhard",
+    "lastName": "Schölkopf",
+    "fullName": "Bernhard Schölkopf",
+    "image": "/experts/bernhard-sch-lkopf.jpg",
+    "email": "https://drive.google.com/file/d/1CtHQ8DSfXmgWw9sOzQSsHf5IAGJPS0mK/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme (MPI-IS)",
+    "position": "Direktor",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Direktor",
+    "organization": "Max-Planck-Institut für Intelligente Systeme (MPI-IS)",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/bernhard-schölkopf-732969238/",
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Direktor"
+  ],
+  "source": "https://www.deutschland.de/de/topic/wissen/kuenstliche-intelligenz-in-deutschland-fuehrende-forscher"
+}

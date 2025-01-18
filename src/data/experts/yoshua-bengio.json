@@ -1,0 +1,49 @@
+{
+  "id": "exp213",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Yoshua",
+    "lastName": "Bengio",
+    "fullName": "Yoshua Bengio",
+    "image": "/experts/yoshua-bengio.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Deep Learning, Artificial Intelligence",
+    "department": null,
+    "website": "Professor, AI Researcher"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Deep Learning, Artificial Intelligence",
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Professor, AI Researcher"
+  },
+  "tags": [
+    "Deep Learning, Artificial Intelligence"
+  ],
+  "source": null
+}

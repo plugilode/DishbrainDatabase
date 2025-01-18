@@ -1,0 +1,52 @@
+{
+  "id": "exp116",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Gregor",
+    "lastName": "Schmalzried",
+    "fullName": "Gregor Schmalzried",
+    "image": "/experts/gregor-schmalzried.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Netzjournalist, Podcaster",
+    "department": null,
+    "website": "Not Provided"
+  },
+  "expertise": {
+    "primary": [
+      "Digitale Medien"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Netzjournalist, Podcaster",
+    "organization": null,
+    "focus": "Digitale Medien"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Not Provided"
+  },
+  "tags": [
+    "Digitale Medien",
+    "Netzjournalist, Podcaster"
+  ],
+  "source": "https://rundfunk.evangelisch.de/personen/gregor-schmalzried-13782"
+}

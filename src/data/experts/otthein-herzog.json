@@ -1,0 +1,52 @@
+{
+  "id": "exp332",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Otthein",
+    "lastName": "Herzog",
+    "fullName": "Otthein Herzog",
+    "image": "/experts/otthein-herzog.jpg",
+    "email": "https://drive.google.com/file/d/1ZIW237XV65dKx_038N5bqIYexE9pJcoJ/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "IBM, Uni Bremen",
+    "position": "Multiagentensysteme/Bildverstehen/Anwendungen",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Multiagentensysteme/Bildverstehen/Anwendungen",
+    "organization": "IBM, Uni Bremen",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/ottheinherzog/",
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Multiagentensysteme/Bildverstehen/Anwendungen"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "exp358",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Benjamin",
+    "lastName": "Goertzel",
+    "fullName": "Dr. Benjamin Goertzel",
+    "image": "/experts/dr--benjamin-goertzel.jpg",
+    "email": "https://drive.google.com/file/d/1XJhl4puMKXRfXvj7-vSPgLNkQgWi94Vr/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "SingularityNET Foundation",
+    "position": "CEO",
+    "department": null,
+    "website": "https://singularitynet.io/"
+  },
+  "expertise": {
+    "primary": [
+      "Forscher",
+      "Kultfigur"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "SingularityNET Foundation",
+    "focus": "Forscher, Kultfigur"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://singularitynet.io/"
+  },
+  "tags": [
+    "Forscher",
+    "Kultfigur",
+    "CEO"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

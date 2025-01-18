@@ -1,0 +1,52 @@
+{
+  "id": "exp252",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Uli",
+    "lastName": "Köppen",
+    "fullName": "Uli Köppen",
+    "image": "/experts/uli-k-ppen.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Keine spezifische Firma",
+    "position": "LinkedIn",
+    "department": null,
+    "website": "(6) Uli Köppen"
+  },
+  "expertise": {
+    "primary": [
+      "Keine spezifische Rolle genannt"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "LinkedIn",
+    "organization": "Keine spezifische Firma",
+    "focus": "Keine spezifische Rolle genannt"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "(6) Uli Köppen"
+  },
+  "tags": [
+    "Keine spezifische Rolle genannt",
+    "LinkedIn"
+  ],
+  "source": "Keine spezifische Rolle"
+}

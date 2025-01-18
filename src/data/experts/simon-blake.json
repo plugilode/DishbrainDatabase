@@ -1,0 +1,52 @@
+{
+  "id": "exp122",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Simon",
+    "lastName": "Blake",
+    "fullName": "Simon Blake",
+    "image": "/experts/simon-blake.jpg",
+    "email": "hello@launchlabs.de",
+    "phone": "N/A",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "launchlabs GmbH",
+    "position": "Geschäftsführer",
+    "department": null,
+    "website": "launchlabs.de"
+  },
+  "expertise": {
+    "primary": [
+      "Innovationsberatung"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer",
+    "organization": "launchlabs GmbH",
+    "focus": "Innovationsberatung"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/simonblake1/",
+    "company": "launchlabs.de"
+  },
+  "tags": [
+    "Innovationsberatung",
+    "Geschäftsführer"
+  ],
+  "source": "​ (launchlabs)​"
+}

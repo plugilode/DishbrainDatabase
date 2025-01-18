@@ -1,0 +1,52 @@
+{
+  "id": "exp031",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Marie",
+    "lastName": "Brayer",
+    "fullName": "Marie Brayer",
+    "image": "/experts/marie-brayer.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Fly Ventures",
+    "position": "Partner",
+    "department": null,
+    "website": "www.fly.vc"
+  },
+  "expertise": {
+    "primary": [
+      "Invetment"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Partner",
+    "organization": "Fly Ventures",
+    "focus": "Invetment"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "www.fly.vc"
+  },
+  "tags": [
+    "Invetment",
+    "Partner"
+  ],
+  "source": "https://craft.co/fly-ventures"
+}

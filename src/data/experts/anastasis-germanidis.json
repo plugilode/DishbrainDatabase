@@ -1,0 +1,54 @@
+{
+  "id": "exp393",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Anastasis",
+    "lastName": "Germanidis",
+    "fullName": "Anastasis Germanidis",
+    "image": "/experts/anastasis-germanidis.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "RunwayML",
+    "position": "Chief Technology Officer",
+    "department": null,
+    "website": "https://runwayml.com"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Chief Technology Officer",
+    "organization": "RunwayML",
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://runwayml.com"
+  },
+  "tags": [
+    "Tech",
+    "Chief Technology Officer"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

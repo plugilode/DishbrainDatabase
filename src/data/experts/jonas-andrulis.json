@@ -1,0 +1,54 @@
+{
+  "id": "exp234",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jonas",
+    "lastName": "Andrulis",
+    "fullName": "Jonas Andrulis",
+    "image": "/experts/jonas-andrulis.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Aleph Alpha",
+    "position": "CEO",
+    "department": null,
+    "website": "https://www.deutschland.de/de/topic/wirtschaft/jonas-andrulis-von-aleph-alpha-im-portraet"
+  },
+  "expertise": {
+    "primary": [
+      "KI-Start-up"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "Aleph Alpha",
+    "focus": "KI-Start-up"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/jonasandrulis/",
+    "company": "https://www.deutschland.de/de/topic/wirtschaft/jonas-andrulis-von-aleph-alpha-im-portraet"
+  },
+  "tags": [
+    "KI-Start-up",
+    "CEO"
+  ],
+  "source": "Text"
+}

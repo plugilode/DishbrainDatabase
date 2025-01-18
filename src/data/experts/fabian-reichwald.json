@@ -1,0 +1,54 @@
+{
+  "id": "exp273",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Fabian",
+    "lastName": "Reichwald",
+    "fullName": "Fabian Reichwald",
+    "image": "/experts/fabian-reichwald.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Kognitionswissenschaftler",
+    "department": null,
+    "website": "https://www.linkedin.com/in/fabian-reichwald-8a7604275/?originalSubdomain=de"
+  },
+  "expertise": {
+    "primary": [
+      "KI und Nachhaltigkeit"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Kognitionswissenschaftler",
+    "organization": null,
+    "focus": "KI und Nachhaltigkeit"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/fabian-reichwald-8a7604275/",
+    "company": "https://www.linkedin.com/in/fabian-reichwald-8a7604275/?originalSubdomain=de"
+  },
+  "tags": [
+    "KI und Nachhaltigkeit",
+    "Kognitionswissenschaftler"
+  ],
+  "source": "Text"
+}

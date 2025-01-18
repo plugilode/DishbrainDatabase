@@ -1,0 +1,54 @@
+{
+  "id": "exp369",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Joelle",
+    "lastName": "Pineau",
+    "fullName": "Joelle Pineau",
+    "image": "/experts/joelle-pineau.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Meta",
+    "position": "VP of AI Research",
+    "department": null,
+    "website": "https://about.fb.com"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "VP of AI Research",
+    "organization": "Meta",
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://about.fb.com"
+  },
+  "tags": [
+    "Tech",
+    "VP of AI Research"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

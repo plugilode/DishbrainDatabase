@@ -1,0 +1,60 @@
+{
+  "id": "exp094",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Alena",
+    "lastName": "Buyx",
+    "fullName": "Alena Buyx",
+    "image": "/experts/alena-buyx.jpg",
+    "email": "presse@ethikrat.org",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Vorsitzende, Professorin für Ethik der Medizin und Gesundheitstechnologien",
+    "department": null,
+    "website": "ethikrat.org"
+  },
+  "expertise": {
+    "primary": [
+      "Ärztin",
+      "Medizinethiker"
+    ],
+    "secondary": [],
+    "industries": [
+      "Healthcare"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vorsitzende, Professorin für Ethik der Medizin und Gesundheitstechnologien",
+    "organization": null,
+    "focus": "Ärztin, Medizinethiker"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/alena-buyx-4357b415/",
+    "company": "ethikrat.org"
+  },
+  "tags": [
+    "Ärztin",
+    "Medizinethiker",
+    "Vorsitzende, Professorin für Ethik der Medizin und Gesundheitstechnologien"
+  ],
+  "source": "Alena Buyx | turi2",
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:21:14.360Z"
+}

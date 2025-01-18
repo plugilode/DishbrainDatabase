@@ -1,0 +1,49 @@
+{
+  "id": "exp065",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Juliane",
+    "lastName": "Haspel",
+    "fullName": "Juliane Haspel",
+    "image": "/experts/juliane-haspel.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Senior People & Culture Specialist",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Senior People & Culture Specialist",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Senior People & Culture Specialist"
+  ],
+  "source": null
+}

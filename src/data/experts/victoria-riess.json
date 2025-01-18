@@ -1,0 +1,54 @@
+{
+  "id": "exp325",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Victoria",
+    "lastName": "Riess",
+    "fullName": "Victoria Riess",
+    "image": "/experts/victoria-riess.jpg",
+    "email": "https://drive.google.com/file/u/1/d/11XrfZUcnnlPcdRrbqKkYgxZWZ61Bu-Ye/view?usp=drive_open",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keynote Speakerin, Tech-Expertin",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keynote Speakerin, Tech-Expertin",
+    "organization": null,
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Technologie",
+    "Keynote Speakerin, Tech-Expertin"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

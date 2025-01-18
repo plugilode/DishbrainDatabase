@@ -1,0 +1,54 @@
+{
+  "id": "exp162",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Iwan",
+    "lastName": "Lappo-Danilewski",
+    "fullName": "Iwan Lappo-Danilewski",
+    "image": "/experts/iwan-lappo-danilewski.jpg",
+    "email": "hi@aaron.ai",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Aaron GmbH",
+    "position": "Geschäftsführer",
+    "department": null,
+    "website": "https://aaron.ai"
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer",
+    "organization": "Aaron GmbH",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/iwan-lappo-danilewski-9b667b40/",
+    "company": "https://aaron.ai"
+  },
+  "tags": [
+    "Technologie",
+    "Geschäftsführer"
+  ],
+  "source": "Impressum"
+}

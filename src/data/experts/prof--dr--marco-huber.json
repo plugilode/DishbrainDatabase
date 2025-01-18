@@ -1,0 +1,52 @@
+{
+  "id": "exp214",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Marco",
+    "lastName": "Huber",
+    "fullName": "Prof. Dr. Marco Huber",
+    "image": "/experts/prof--dr--marco-huber.jpg",
+    "email": "info@uni-stuttgart.de",
+    "phone": "+49 711 970-1960",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Universität Stuttgart",
+    "position": "Professor für kognitive Produktionssysteme",
+    "department": null,
+    "website": "https://www.uni-stuttgart.de"
+  },
+  "expertise": {
+    "primary": [
+      "Forscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor für kognitive Produktionssysteme",
+    "organization": "Universität Stuttgart",
+    "focus": "Forscher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.uni-stuttgart.de"
+  },
+  "tags": [
+    "Forscher",
+    "Professor für kognitive Produktionssysteme"
+  ],
+  "source": "Bild"
+}

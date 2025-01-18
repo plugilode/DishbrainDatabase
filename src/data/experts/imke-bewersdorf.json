@@ -1,0 +1,54 @@
+{
+  "id": "exp173",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Imke",
+    "lastName": "Bewersdorf",
+    "fullName": "Imke Bewersdorf",
+    "image": "/experts/imke-bewersdorf.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "BIG PICTURE",
+    "position": "Product Owner and CX Consultant",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Product Owner and CX Consultant",
+    "organization": "BIG PICTURE",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Technologie",
+    "Product Owner and CX Consultant"
+  ],
+  "source": "Teamseite"
+}

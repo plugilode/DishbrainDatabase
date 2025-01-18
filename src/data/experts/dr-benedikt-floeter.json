@@ -1,0 +1,65 @@
+{
+  "id": "exp011",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Benedikt",
+    "lastName": "Flöter",
+    "fullName": "Dr. Benedikt Flöter",
+    "image": "/experts/benedikt-floeter.jpg",
+    "email": "b.floeter@ypog.law",
+    "phone": null,
+    "languages": ["Deutsch", "Englisch"]
+  },
+  "institution": {
+    "name": "YPOG",
+    "department": "Legal",
+    "position": "Rechtsanwalt und Steuerberater",
+    "address": {
+      "city": "Berlin",
+      "country": "Deutschland"
+    },
+    "website": "https://www.ypog.law"
+  },
+  "expertise": {
+    "primary": [
+      "Steuerrecht",
+      "Rechtsberatung",
+      "Legal Tech"
+    ],
+    "secondary": [
+      "Digitalisierung",
+      "Compliance",
+      "Unternehmensrecht"
+    ],
+    "industries": [
+      "Legal",
+      "Tax",
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Rechtsanwalt und Steuerberater",
+    "organization": "YPOG",
+    "focus": "Legal Tech und Steuerrecht"
+  },
+  "profiles": {
+    "linkedin": "https://docs.google.com/spreadsheets/d/1DL9m_t4GxXaWQkly78OkDWB3yUlXNhbyeOjG4jeB3hc/edit?gid=1953086445#gid=1953086445",
+    "company": "https://www.ypog.law"
+  },
+  "tags": [
+    "Legal Tech",
+    "Steuerrecht",
+    "Digitalisierung",
+    "Rechtsberatung"
+  ],
+  "source": "Bitkom"
+} 

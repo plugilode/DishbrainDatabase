@@ -1,0 +1,54 @@
+{
+  "id": "exp366",
+  "personalInfo": {
+    "title": "Prof.",
+    "firstName": "Teemu",
+    "lastName": "Roos",
+    "fullName": "Prof. Teemu Roos",
+    "image": "/experts/prof--teemu-roos.jpg",
+    "email": "https://docs.google.com/document/d/1FzgA-qccRth1JekJoS9HFMLAig9-myZd/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Finnish Center for AI",
+    "position": "Leiter der AI-Bildung",
+    "department": null,
+    "website": "https://www.fcai.fi/"
+  },
+  "expertise": {
+    "primary": [
+      "Forscher",
+      "Zukunftsforscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Leiter der AI-Bildung",
+    "organization": "Finnish Center for AI",
+    "focus": "Forscher, Zukunftsforscher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.fcai.fi/"
+  },
+  "tags": [
+    "Forscher",
+    "Zukunftsforscher",
+    "Leiter der AI-Bildung"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

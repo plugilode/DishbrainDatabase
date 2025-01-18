@@ -1,0 +1,54 @@
+{
+  "id": "exp121",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Deepa",
+    "lastName": "Gautam-Nigge",
+    "fullName": "Deepa Gautam-Nigge",
+    "image": "/experts/deepa-gautam-nigge.jpg",
+    "email": "N/A",
+    "phone": "N/A",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "SAP SE",
+    "position": "VP Corporate Development",
+    "department": null,
+    "website": "gautam-nigge.de"
+  },
+  "expertise": {
+    "primary": [
+      "Innovation Manager",
+      "Diversity Advocate"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "VP Corporate Development",
+    "organization": "SAP SE",
+    "focus": "Innovation Manager, Diversity Advocate"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/deepa-gautam-nigge/",
+    "company": "gautam-nigge.de"
+  },
+  "tags": [
+    "Innovation Manager",
+    "Diversity Advocate",
+    "VP Corporate Development"
+  ],
+  "source": "gautam-nigge.de​ (Gautam-Nigge)​, dotmagazine.online​ (dotmag)​, startupnight.net​ (Startupnight)​, digital-x.eu​ (DIGITAL X-Community)​"
+}

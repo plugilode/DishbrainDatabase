@@ -1,0 +1,54 @@
+{
+  "id": "exp384",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Raquel",
+    "lastName": "Urtasun",
+    "fullName": "Raquel Urtasun",
+    "image": "/experts/raquel-urtasun.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Waabi",
+    "position": "Founder and CEO",
+    "department": null,
+    "website": "https://www.waabi.ai"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Founder and CEO",
+    "organization": "Waabi",
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.waabi.ai"
+  },
+  "tags": [
+    "Tech",
+    "Founder and CEO"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

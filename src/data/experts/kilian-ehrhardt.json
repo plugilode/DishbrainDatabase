@@ -1,0 +1,54 @@
+{
+  "id": "exp171",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Kilian",
+    "lastName": "Ehrhardt",
+    "fullName": "Kilian Ehrhardt",
+    "image": "/experts/kilian-ehrhardt.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Lead Frontend Software Engineer",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Lead Frontend Software Engineer",
+    "organization": null,
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Technologie",
+    "Lead Frontend Software Engineer"
+  ],
+  "source": "Teamseite"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "exp158",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jim",
+    "lastName": "Keller",
+    "fullName": "Jim Keller",
+    "image": "/experts/jim-keller.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Tenstorrent",
+    "position": "CEO und Chipdesigner",
+    "department": null,
+    "website": "https://heise.de/-9692706"
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO und Chipdesigner",
+    "organization": "Tenstorrent",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/jimbkeller/",
+    "company": "https://heise.de/-9692706"
+  },
+  "tags": [
+    "Technologie",
+    "CEO und Chipdesigner"
+  ],
+  "source": "Heise Online"
+}

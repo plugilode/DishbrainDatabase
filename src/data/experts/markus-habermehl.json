@@ -1,0 +1,54 @@
+{
+  "id": "exp113",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Markus",
+    "lastName": "Habermehl",
+    "fullName": "Markus Habermehl",
+    "image": "/experts/markus-habermehl.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ki-Club.org",
+    "position": "Speaker",
+    "department": null,
+    "website": "ogcon.de"
+  },
+  "expertise": {
+    "primary": [
+      "KI Anwendung"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Speaker",
+    "organization": "Ki-Club.org",
+    "focus": "KI Anwendung"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/markushabermehl-28198677/",
+    "company": "ogcon.de"
+  },
+  "tags": [
+    "KI Anwendung",
+    "Speaker"
+  ],
+  "source": "ogcon.de"
+}

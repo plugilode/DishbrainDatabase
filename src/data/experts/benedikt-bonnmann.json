@@ -1,0 +1,56 @@
+{
+  "id": "exp119",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Benedikt",
+    "lastName": "Bonnmann",
+    "fullName": "Benedikt Bonnmann",
+    "image": "/experts/benedikt-bonnmann.jpg",
+    "email": "N/A",
+    "phone": "N/A",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Adesso SE",
+    "position": "Member of the Executive Board",
+    "department": null,
+    "website": "adesso.de"
+  },
+  "expertise": {
+    "primary": [
+      "Executive in IT services with a focus on artificial intelligence"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Member of the Executive Board",
+    "organization": "Adesso SE",
+    "focus": "Executive in IT services with a focus on artificial intelligence"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/benedikt-bonnmann-8389a5115/",
+    "company": "adesso.de"
+  },
+  "tags": [
+    "Executive in IT services with a focus on artificial intelligence",
+    "Member of the Executive Board"
+  ],
+  "source": "adesso.de​ (adessoSE)​​ (adessoSE)​",
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:22:20.064Z"
+}

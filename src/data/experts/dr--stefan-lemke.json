@@ -1,0 +1,54 @@
+{
+  "id": "exp220",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Stefan",
+    "lastName": "Lemke",
+    "fullName": "Dr. Stefan Lemke",
+    "image": "/experts/dr--stefan-lemke.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "SIGNAL IDUNA Gruppe",
+    "position": "Vortragender bei Fachkonferenz",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "IT & KI"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vortragender bei Fachkonferenz",
+    "organization": "SIGNAL IDUNA Gruppe",
+    "focus": "IT & KI"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "IT & KI",
+    "Vortragender bei Fachkonferenz"
+  ],
+  "source": "Bild"
+}

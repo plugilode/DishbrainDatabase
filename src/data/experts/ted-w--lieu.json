@@ -1,0 +1,52 @@
+{
+  "id": "exp397",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Ted",
+    "lastName": "Lieu",
+    "fullName": "Ted W. Lieu",
+    "image": "/experts/ted-w--lieu.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "U.S. House of Representatives",
+    "position": "Representative (D-CA 36th District)",
+    "department": null,
+    "website": "https://lieu.house.gov"
+  },
+  "expertise": {
+    "primary": [
+      "Gov"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Representative (D-CA 36th District)",
+    "organization": "U.S. House of Representatives",
+    "focus": "Gov"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://lieu.house.gov"
+  },
+  "tags": [
+    "Gov",
+    "Representative (D-CA 36th District)"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

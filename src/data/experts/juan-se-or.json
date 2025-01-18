@@ -1,0 +1,52 @@
+{
+  "id": "exp132",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Juan",
+    "lastName": "Señor",
+    "fullName": "Juan Señor",
+    "image": "/experts/juan-se-or.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "INNOVATION Media Consulting",
+    "position": "Vorsitzender",
+    "department": null,
+    "website": "INNOVATION Media Consulting"
+  },
+  "expertise": {
+    "primary": [
+      "Medienberatung"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vorsitzender",
+    "organization": "INNOVATION Media Consulting",
+    "focus": "Medienberatung"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/juansenorinnovation/",
+    "company": "INNOVATION Media Consulting"
+  },
+  "tags": [
+    "Medienberatung",
+    "Vorsitzender"
+  ],
+  "source": "Veranstaltungsankündigung"
+}

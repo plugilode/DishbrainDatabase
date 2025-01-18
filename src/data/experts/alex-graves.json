@@ -1,0 +1,52 @@
+{
+  "id": "exp187",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Alex",
+    "lastName": "Graves",
+    "fullName": "Alex Graves",
+    "image": "/experts/alex-graves.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "AI, Recurrent Neural Networks",
+    "department": null,
+    "website": "Research Scientist"
+  },
+  "expertise": {
+    "primary": [
+      "Website"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "AI, Recurrent Neural Networks",
+    "organization": null,
+    "focus": "Website"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Research Scientist"
+  },
+  "tags": [
+    "Website",
+    "AI, Recurrent Neural Networks"
+  ],
+  "source": null
+}

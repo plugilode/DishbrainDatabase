@@ -1,0 +1,49 @@
+{
+  "id": "exp061",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Arno",
+    "lastName": "Fuhrmann",
+    "fullName": "Arno Fuhrmann",
+    "image": "/experts/arno-fuhrmann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Head of AI Engineering Team",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of AI Engineering Team",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of AI Engineering Team"
+  ],
+  "source": null
+}

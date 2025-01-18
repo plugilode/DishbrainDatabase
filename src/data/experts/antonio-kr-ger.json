@@ -1,0 +1,58 @@
+{
+  "id": "exp145",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Antonio",
+    "lastName": "Krüger",
+    "fullName": "Antonio Krüger",
+    "image": "/experts/antonio-kr-ger.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "position": "CEO und wissenschaftlicher Direktor / Professor für Informatik",
+    "department": null,
+    "website": "DFKI"
+  },
+  "expertise": {
+    "primary": [
+      "Künstliche Intelligenz und Mensch-Maschine-Interaktion"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO und wissenschaftlicher Direktor / Professor für Informatik",
+    "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "focus": "Künstliche Intelligenz und Mensch-Maschine-Interaktion"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/antonio-krüger-3202b46/",
+    "company": "DFKI"
+  },
+  "tags": [
+    "Künstliche Intelligenz und Mensch-Maschine-Interaktion",
+    "CEO und wissenschaftlicher Direktor / Professor für Informatik"
+  ],
+  "source": null,
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:21:59.243Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "exp279",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jürgen",
+    "lastName": "Schnitzmeier",
+    "fullName": "Jürgen Schnitzmeier",
+    "image": "/experts/j-rgen-schnitzmeier.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Zukunftszentrum KI NRW",
+    "position": "Geschäftsführer",
+    "department": null,
+    "website": "https://www.zukunftszentrum-ki.nrw/impressum/"
+  },
+  "expertise": {
+    "primary": [
+      "KI und Digitalisierung"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer",
+    "organization": "Zukunftszentrum KI NRW",
+    "focus": "KI und Digitalisierung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.zukunftszentrum-ki.nrw/impressum/"
+  },
+  "tags": [
+    "KI und Digitalisierung",
+    "Geschäftsführer"
+  ],
+  "source": "Text"
+}

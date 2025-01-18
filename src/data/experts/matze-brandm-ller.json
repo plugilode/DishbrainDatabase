@@ -1,0 +1,54 @@
+{
+  "id": "exp111",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Matze",
+    "lastName": "Brandmüller",
+    "fullName": "Matze Brandmüller",
+    "image": "/experts/matze-brandm-ller.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Not Provided",
+    "position": "Speaker",
+    "department": null,
+    "website": "ogcon.de"
+  },
+  "expertise": {
+    "primary": [
+      "KI Anwendung"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Speaker",
+    "organization": "Not Provided",
+    "focus": "KI Anwendung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "ogcon.de"
+  },
+  "tags": [
+    "KI Anwendung",
+    "Speaker"
+  ],
+  "source": "ogcon.de"
+}

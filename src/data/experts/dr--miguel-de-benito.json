@@ -1,0 +1,49 @@
+{
+  "id": "exp048",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Miguel",
+    "lastName": "Benito",
+    "fullName": "Dr. Miguel de Benito",
+    "image": "/experts/dr--miguel-de-benito.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Head of Innovation Lab (RIL)",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of Innovation Lab (RIL)",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of Innovation Lab (RIL)"
+  ],
+  "source": null
+}

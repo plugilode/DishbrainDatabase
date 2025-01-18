@@ -1,0 +1,51 @@
+{
+  "id": "exp327",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Marc",
+    "lastName": "Forstmann",
+    "fullName": "Marc Forstmann",
+    "image": "/experts/marc-forstmann.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1PS53LleHM7WGomJd2_E3ZiYTwIbk2IWI/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Inside 360",
+    "position": "CEO",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "CEO"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "Inside 360",
+    "focus": "CEO"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/marcforstmann/",
+    "company": null
+  },
+  "tags": [
+    "CEO"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

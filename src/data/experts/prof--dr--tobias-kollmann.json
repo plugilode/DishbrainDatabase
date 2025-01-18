@@ -1,0 +1,52 @@
+{
+  "id": "exp319",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Tobias",
+    "lastName": "Kollmann",
+    "fullName": "Prof. Dr. Tobias Kollmann",
+    "image": "/experts/prof--dr--tobias-kollmann.jpg",
+    "email": "https://drive.google.com/file/d/1FMiDk84CmaGnzzWK09SXUCxO_n6Vtva-/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Hochschulprofessor, Experte, Business Angel, Autor",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Hochschulprofessor, Experte, Business Angel, Autor",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Hochschulprofessor, Experte, Business Angel, Autor"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

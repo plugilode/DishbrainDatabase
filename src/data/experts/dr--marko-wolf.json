@@ -1,0 +1,49 @@
+{
+  "id": "exp027",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Marko",
+    "lastName": "Wolf",
+    "fullName": "Dr. Marko Wolf",
+    "image": "/experts/dr--marko-wolf.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Robert Bosch GmbH",
+    "position": "0",
+    "department": null,
+    "website": "https://www.bosch.com"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "Robert Bosch GmbH",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.bosch.com"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

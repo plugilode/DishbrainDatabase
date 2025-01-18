@@ -1,0 +1,52 @@
+{
+  "id": "exp320",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Oliver",
+    "lastName": "Leisse",
+    "fullName": "Oliver Leisse",
+    "image": "/experts/oliver-leisse.jpg",
+    "email": "https://docs.google.com/document/u/1/d/131Q5-VxxGPZbhzjcICVAjkgY3-Qx7C4n/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Zukunftsforscher",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Forscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Zukunftsforscher",
+    "organization": null,
+    "focus": "Forscher"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/oliver-leisse/",
+    "company": null
+  },
+  "tags": [
+    "Forscher",
+    "Zukunftsforscher"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

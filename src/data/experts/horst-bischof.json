@@ -1,0 +1,52 @@
+{
+  "id": "exp164",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Horst",
+    "lastName": "Bischof",
+    "fullName": "Horst Bischof",
+    "image": "/experts/horst-bischof.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Graz",
+    "position": "Rektor und Vorsitzender des KI-Beirats",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Rektor und Vorsitzender des KI-Beirats",
+    "organization": "Technische Universität Graz",
+    "focus": "Wissenschaft"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Wissenschaft",
+    "Rektor und Vorsitzender des KI-Beirats"
+  ],
+  "source": null
+}

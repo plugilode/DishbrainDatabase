@@ -1,0 +1,52 @@
+{
+  "id": "exp182",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Ole",
+    "lastName": "Reißmann",
+    "fullName": "Ole Reißmann",
+    "image": "/experts/ole-rei-mann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Der Spiegel",
+    "position": "KI-Chef",
+    "department": null,
+    "website": "https://www.spiegel.de/"
+  },
+  "expertise": {
+    "primary": [
+      "Medien"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "KI-Chef",
+    "organization": "Der Spiegel",
+    "focus": "Medien"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.spiegel.de/"
+  },
+  "tags": [
+    "Medien",
+    "KI-Chef"
+  ],
+  "source": "kress.de, presseportal.de"
+}

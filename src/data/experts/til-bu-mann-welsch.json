@@ -1,0 +1,54 @@
+{
+  "id": "exp071",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Til",
+    "lastName": "Bußmann-Welsch",
+    "fullName": "Til Bußmann-Welsch",
+    "image": "/experts/til-bu-mann-welsch.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "0",
+    "position": "0",
+    "department": null,
+    "website": "0"
+  },
+  "expertise": {
+    "primary": [
+      "Legal/Technology"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "0",
+    "focus": "Legal/Technology"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "0"
+  },
+  "tags": [
+    "Legal/Technology",
+    "0"
+  ],
+  "source": "​​​​​​https://www.christina-maria-leeb.de/"
+}

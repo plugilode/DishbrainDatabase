@@ -1,0 +1,54 @@
+{
+  "id": "exp069",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Wilfried",
+    "lastName": "Bernhardt",
+    "fullName": "Wilfried Bernhardt",
+    "image": "/experts/wilfried-bernhardt.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Professor",
+    "department": null,
+    "website": "0"
+  },
+  "expertise": {
+    "primary": [
+      "Legal/Technology"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor",
+    "organization": null,
+    "focus": "Legal/Technology"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "0"
+  },
+  "tags": [
+    "Legal/Technology",
+    "Professor"
+  ],
+  "source": "​​​​​​https://www.christina-maria-leeb.de/"
+}

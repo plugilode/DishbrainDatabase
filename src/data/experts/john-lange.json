@@ -1,0 +1,52 @@
+{
+  "id": "exp300",
+  "personalInfo": {
+    "title": null,
+    "firstName": "John",
+    "lastName": "Lange",
+    "fullName": "John Lange",
+    "image": "/experts/john-lange.jpg",
+    "email": "https://docs.google.com/document/d/1J3p4BCSYqr6n0MMbx_htJT5wdImAVySj/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "AI.Fund",
+    "position": "Beteiligter",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Fonds"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Beteiligter",
+    "organization": "AI.Fund",
+    "focus": "Fonds"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/dr-john-lange/",
+    "company": null
+  },
+  "tags": [
+    "Fonds",
+    "Beteiligter"
+  ],
+  "source": "Künstliche Intelligenz: Diese Investoren finanzieren Deutschlands KI-Hoffnungen (handelsblatt.com)"
+}

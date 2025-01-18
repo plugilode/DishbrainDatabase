@@ -1,0 +1,52 @@
+{
+  "id": "exp249",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Brian",
+    "lastName": "Comiskey",
+    "fullName": "Brian Comiskey",
+    "image": "/experts/brian-comiskey.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Thematic Programs Director",
+    "department": null,
+    "website": "https://www.linkedin.com/in/brian-comiskey-futurist/"
+  },
+  "expertise": {
+    "primary": [
+      "Analyse"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Thematic Programs Director",
+    "organization": null,
+    "focus": "Analyse"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.linkedin.com/in/brian-comiskey-futurist/"
+  },
+  "tags": [
+    "Analyse",
+    "Thematic Programs Director"
+  ],
+  "source": "Text"
+}

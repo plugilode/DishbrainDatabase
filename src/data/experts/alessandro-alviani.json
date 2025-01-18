@@ -1,0 +1,56 @@
+{
+  "id": "exp178",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Alessandro",
+    "lastName": "Alviani",
+    "fullName": "Alessandro Alviani",
+    "image": "/experts/alessandro-alviani.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Süddeutsche Zeitung",
+    "position": "Lead Generative AI",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Medien"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Lead Generative AI",
+    "organization": "Süddeutsche Zeitung",
+    "focus": "Medien"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/alessandro-alviani/",
+    "company": null
+  },
+  "tags": [
+    "Medien",
+    "Lead Generative AI"
+  ],
+  "source": "Medieninsider.com",
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:21:19.105Z"
+}

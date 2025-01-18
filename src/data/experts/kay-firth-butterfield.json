@@ -1,0 +1,52 @@
+{
+  "id": "exp251",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Kay",
+    "lastName": "Firth-Butterfield",
+    "fullName": "Kay Firth-Butterfield",
+    "image": "/experts/kay-firth-butterfield.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/kay-firth-butterfield/"
+  },
+  "expertise": {
+    "primary": [
+      "Keine spezifische Rolle"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": null,
+    "focus": "Keine spezifische Rolle"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/kay-firth-butterfield/",
+    "company": "https://www.linkedin.com/in/kay-firth-butterfield/"
+  },
+  "tags": [
+    "Keine spezifische Rolle",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

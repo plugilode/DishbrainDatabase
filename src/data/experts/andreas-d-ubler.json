@@ -1,0 +1,56 @@
+{
+  "id": "exp227",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Andreas",
+    "lastName": "Däubler",
+    "fullName": "Andreas Däubler",
+    "image": "/experts/andreas-d-ubler.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Robominds",
+    "position": "CTO, Gründer",
+    "department": null,
+    "website": "https://www.robco.de"
+  },
+  "expertise": {
+    "primary": [
+      "Robotik"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CTO, Gründer",
+    "organization": "Robominds",
+    "focus": "Robotik"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/andreas-däubler-45995b12/",
+    "company": "https://www.robco.de"
+  },
+  "tags": [
+    "Robotik",
+    "CTO, Gründer"
+  ],
+  "source": "Text",
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:21:40.021Z"
+}

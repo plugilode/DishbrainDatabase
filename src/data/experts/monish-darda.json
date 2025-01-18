@@ -1,0 +1,54 @@
+{
+  "id": "exp181",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Monish",
+    "lastName": "Darda",
+    "fullName": "Monish Darda",
+    "image": "/experts/monish-darda.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Icertis",
+    "position": "CTO und Mitgründer",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CTO und Mitgründer",
+    "organization": "Icertis",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/monishdarda/",
+    "company": null
+  },
+  "tags": [
+    "Technologie",
+    "CTO und Mitgründer"
+  ],
+  "source": null
+}

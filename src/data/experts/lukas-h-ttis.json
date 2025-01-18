@@ -1,0 +1,54 @@
+{
+  "id": "exp108",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Lukas",
+    "lastName": "Hüttis",
+    "fullName": "Lukas Hüttis",
+    "image": "/experts/lukas-h-ttis.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Web3, AI & Music",
+    "position": "Speaker",
+    "department": null,
+    "website": "ogcon.de"
+  },
+  "expertise": {
+    "primary": [
+      "KI Anwendung"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Speaker",
+    "organization": "Web3, AI & Music",
+    "focus": "KI Anwendung"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/lukas-hüttis-3b7998139/",
+    "company": "ogcon.de"
+  },
+  "tags": [
+    "KI Anwendung",
+    "Speaker"
+  ],
+  "source": "ogcon.de"
+}

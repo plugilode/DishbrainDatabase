@@ -1,0 +1,52 @@
+{
+  "id": "exp245",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Harsh",
+    "lastName": "Singh",
+    "fullName": "Harsh Singh",
+    "image": "/experts/harsh-singh.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "LinkedIn Branding für KI-Leader",
+    "department": null,
+    "website": "https://www.linkedin.com/in/harsh-singh-aerospace/"
+  },
+  "expertise": {
+    "primary": [
+      "AI Branding"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "LinkedIn Branding für KI-Leader",
+    "organization": null,
+    "focus": "AI Branding"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/harshksingh/",
+    "company": "https://www.linkedin.com/in/harsh-singh-aerospace/"
+  },
+  "tags": [
+    "AI Branding",
+    "LinkedIn Branding für KI-Leader"
+  ],
+  "source": "Text"
+}

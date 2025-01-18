@@ -1,0 +1,54 @@
+{
+  "id": "exp090",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Larissa",
+    "lastName": "Holzki",
+    "fullName": "Larissa Holzki",
+    "image": "/experts/larissa-holzki.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Handelsblatt",
+    "position": "KI-Teamleiterin",
+    "department": null,
+    "website": "handelsblatt.com"
+  },
+  "expertise": {
+    "primary": [
+      "KI-Spezial"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "KI-Teamleiterin",
+    "organization": "Handelsblatt",
+    "focus": "KI-Spezial"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/larissa-holzki/",
+    "company": "handelsblatt.com"
+  },
+  "tags": [
+    "KI-Spezial",
+    "KI-Teamleiterin"
+  ],
+  "source": null
+}

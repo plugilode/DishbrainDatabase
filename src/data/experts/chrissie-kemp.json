@@ -1,0 +1,52 @@
+{
+  "id": "exp407",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Chrissie",
+    "lastName": "Kemp",
+    "fullName": "Chrissie Kemp",
+    "image": "/experts/chrissie-kemp.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Jaguar Land Rover (JLR)",
+    "position": "Chief Data & AI Officer",
+    "department": null,
+    "website": "https://www.jaguarlandrover.com"
+  },
+  "expertise": {
+    "primary": [
+      "Auto"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Chief Data & AI Officer",
+    "organization": "Jaguar Land Rover (JLR)",
+    "focus": "Auto"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.jaguarlandrover.com"
+  },
+  "tags": [
+    "Auto",
+    "Chief Data & AI Officer"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

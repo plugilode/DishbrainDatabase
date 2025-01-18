@@ -1,0 +1,52 @@
+{
+  "id": "exp259",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Lars",
+    "lastName": "Wolff",
+    "fullName": "Lars Wolff",
+    "image": "/experts/lars-wolff.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/lars-wolff/?originalSubdomain=de"
+  },
+  "expertise": {
+    "primary": [
+      "Nicht verfügbar"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": null,
+    "focus": "Nicht verfügbar"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/lars-wolff-58470714a/",
+    "company": "https://www.linkedin.com/in/lars-wolff/?originalSubdomain=de"
+  },
+  "tags": [
+    "Nicht verfügbar",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

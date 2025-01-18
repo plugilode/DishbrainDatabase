@@ -1,0 +1,52 @@
+{
+  "id": "exp035",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Armin",
+    "lastName": "Kurrle",
+    "fullName": "Armin Kurrle",
+    "image": "/experts/armin-kurrle.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Porsche AG",
+    "position": "Lead Data & AI Strategy",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [
+      "Data Science"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Lead Data & AI Strategy",
+    "organization": "Porsche AG",
+    "focus": "Data Science"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Data Science",
+    "Lead Data & AI Strategy"
+  ],
+  "source": "Enterprise AI Summit, Porsche Newsroom"
+}

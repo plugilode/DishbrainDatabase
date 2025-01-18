@@ -1,0 +1,54 @@
+{
+  "id": "exp376",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Arthur",
+    "lastName": "Mensch",
+    "fullName": "Arthur Mensch",
+    "image": "/experts/arthur-mensch.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Mistral AI",
+    "position": "Chief Executive Officer",
+    "department": null,
+    "website": "Not Available"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Chief Executive Officer",
+    "organization": "Mistral AI",
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Not Available"
+  },
+  "tags": [
+    "Tech",
+    "Chief Executive Officer"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

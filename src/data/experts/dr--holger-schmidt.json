@@ -1,0 +1,52 @@
+{
+  "id": "exp115",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Holger",
+    "lastName": "Schmidt",
+    "fullName": "Dr. Holger Schmidt",
+    "image": "/experts/dr--holger-schmidt.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "F.A.Z., TU Darmstadt",
+    "position": "Digital Economist & Speaker",
+    "department": null,
+    "website": "www.holger-schmidt.com"
+  },
+  "expertise": {
+    "primary": [
+      "Wirtschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Digital Economist & Speaker",
+    "organization": "F.A.Z., TU Darmstadt",
+    "focus": "Wirtschaft"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "www.holger-schmidt.com"
+  },
+  "tags": [
+    "Wirtschaft",
+    "Digital Economist & Speaker"
+  ],
+  "source": "holger-schmidt.com"
+}

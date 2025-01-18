@@ -1,0 +1,52 @@
+{
+  "id": "exp341",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jürgen",
+    "lastName": "Seitz",
+    "fullName": "Jürgen Seitz",
+    "image": "/experts/j-rgen-seitz.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1U7jWxF-RgGkpe5hLlWAWRqM4HM1jhMJi/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Hochschule der Medien Stuttgart",
+    "position": "Professor, KI-Forscher",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor, KI-Forscher",
+    "organization": "Hochschule der Medien Stuttgart",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/juergenseitz/",
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Professor, KI-Forscher"
+  ],
+  "source": "https://www.handelsblatt.com/technik/ki/insight-innovation-chipmangel-buerokratie-warum-deutsche-ki-forscher-nicht-mithalten-koennen/100011263.html"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "exp373",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Clara",
+    "lastName": "Shih",
+    "fullName": "Clara Shih",
+    "image": "/experts/clara-shih.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Chief Executive Officer",
+    "department": null,
+    "website": "https://www.salesforce.com"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Chief Executive Officer",
+    "organization": null,
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.salesforce.com"
+  },
+  "tags": [
+    "Tech",
+    "Chief Executive Officer"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

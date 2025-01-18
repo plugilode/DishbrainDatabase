@@ -1,0 +1,52 @@
+{
+  "id": "exp168",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Almudena",
+    "lastName": "Pereira",
+    "fullName": "Almudena Pereira",
+    "image": "/experts/almudena-pereira.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Creative Director",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Design"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Creative Director",
+    "organization": null,
+    "focus": "Design"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Design",
+    "Creative Director"
+  ],
+  "source": "Teamseite"
+}

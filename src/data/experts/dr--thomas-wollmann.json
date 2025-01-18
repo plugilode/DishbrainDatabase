@@ -1,0 +1,54 @@
+{
+  "id": "exp136",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Thomas",
+    "lastName": "Wollmann",
+    "fullName": "Dr. Thomas Wollmann",
+    "image": "/experts/dr--thomas-wollmann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Merantix Momentum",
+    "position": "Experte für Maschinelles Lernen und KI-Infrastruktur",
+    "department": null,
+    "website": "Merantix Momentum"
+  },
+  "expertise": {
+    "primary": [
+      "Maschinelles Lernen / KI"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Experte für Maschinelles Lernen und KI-Infrastruktur",
+    "organization": "Merantix Momentum",
+    "focus": "Maschinelles Lernen / KI"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Merantix Momentum"
+  },
+  "tags": [
+    "Maschinelles Lernen / KI",
+    "Experte für Maschinelles Lernen und KI-Infrastruktur"
+  ],
+  "source": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "exp040",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Andreas",
+    "lastName": "Liebl",
+    "fullName": "Dr. Andreas Liebl",
+    "image": "/experts/dr--andreas-liebl.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Managing Director and Founder",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Managing Director and Founder",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Managing Director and Founder"
+  ],
+  "source": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "exp265",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Stefan",
+    "lastName": "Muff",
+    "fullName": "Stefan Muff",
+    "image": "/experts/stefan-muff.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Axon Vibe",
+    "position": "CEO",
+    "department": null,
+    "website": "https://www.linkedin.com/in/stefan-muff-a086a529a/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ch"
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "Axon Vibe",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/stefan-muff-a086a529a/",
+    "company": "https://www.linkedin.com/in/stefan-muff-a086a529a/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ch"
+  },
+  "tags": [
+    "Technologie",
+    "CEO"
+  ],
+  "source": "Text"
+}

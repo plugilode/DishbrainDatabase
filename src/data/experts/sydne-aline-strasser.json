@@ -1,0 +1,49 @@
+{
+  "id": "exp286",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Sydne-Aline",
+    "lastName": "Strasser",
+    "fullName": "Sydne-Aline Strasser",
+    "image": "/experts/sydne-aline-strasser.jpg",
+    "email": "https://drive.google.com/open?id=1OApP02ggHJzWDwI7aZ9_4pTOldE1K08g&authuser=1",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Microsoft Deutschland",
+    "position": "EMEA Data und KI-Spezialistin",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "EMEA Data und KI-Spezialistin",
+    "organization": "Microsoft Deutschland",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "EMEA Data und KI-Spezialistin"
+  ],
+  "source": "https://www.burda.com/de/news/wie-ki-unser-leben-beeinflusst-interdisziplinarer/"
+}

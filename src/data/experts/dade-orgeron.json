@@ -1,0 +1,52 @@
+{
+  "id": "exp408",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Dade",
+    "lastName": "Orgeron",
+    "fullName": "Dade Orgeron",
+    "image": "/experts/dade-orgeron.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Shutterstock",
+    "position": "VP of 3D Strategy",
+    "department": null,
+    "website": "https://www.shutterstock.com"
+  },
+  "expertise": {
+    "primary": [
+      "Media"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "VP of 3D Strategy",
+    "organization": "Shutterstock",
+    "focus": "Media"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.shutterstock.com"
+  },
+  "tags": [
+    "Media",
+    "VP of 3D Strategy"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

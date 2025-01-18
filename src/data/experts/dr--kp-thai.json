@@ -1,0 +1,52 @@
+{
+  "id": "exp363",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "KP",
+    "lastName": "Thai",
+    "fullName": "Dr. KP Thai",
+    "image": "/experts/dr--kp-thai.jpg",
+    "email": "https://drive.google.com/file/d/1ZPz268m-GBvAkfCUPV8CAyMIuIpafKHf/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Squirrel AI Learning",
+    "position": "Data and Learning Scientist",
+    "department": null,
+    "website": "https://www.squirrelai.com/"
+  },
+  "expertise": {
+    "primary": [
+      "Forscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Data and Learning Scientist",
+    "organization": "Squirrel AI Learning",
+    "focus": "Forscher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.squirrelai.com/"
+  },
+  "tags": [
+    "Forscher",
+    "Data and Learning Scientist"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

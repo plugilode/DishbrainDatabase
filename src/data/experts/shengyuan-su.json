@@ -1,0 +1,52 @@
+{
+  "id": "exp219",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Shengyuan",
+    "lastName": "Su",
+    "fullName": "Shengyuan Su",
+    "image": "/experts/shengyuan-su.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Zendesk",
+    "position": "Sustainability Director",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Software Development"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Sustainability Director",
+    "organization": "Zendesk",
+    "focus": "Software Development"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/shengyuan-su-642aa882/",
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Software Development",
+    "Sustainability Director"
+  ],
+  "source": "Bild"
+}

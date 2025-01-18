@@ -1,0 +1,52 @@
+{
+  "id": "exp268",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Burkhard",
+    "lastName": "Sagemüller",
+    "fullName": "Burkhard Sagemüller",
+    "image": "/experts/burkhard-sagem-ller.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Lemken",
+    "position": "Entwicklungsleiter",
+    "department": null,
+    "website": "https://lemken.com/de-de/landmaschinen-hersteller/geschaeftsleitung"
+  },
+  "expertise": {
+    "primary": [
+      "Landwirtschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Entwicklungsleiter",
+    "organization": "Lemken",
+    "focus": "Landwirtschaft"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/burkhard-sagemüller-bb88b016b/",
+    "company": "https://lemken.com/de-de/landmaschinen-hersteller/geschaeftsleitung"
+  },
+  "tags": [
+    "Landwirtschaft",
+    "Entwicklungsleiter"
+  ],
+  "source": "Text"
+}

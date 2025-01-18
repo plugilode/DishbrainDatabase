@@ -1,0 +1,52 @@
+{
+  "id": "exp139",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Oliver",
+    "lastName": "Claas",
+    "fullName": "Oliver Claas",
+    "image": "/experts/oliver-claas.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Heidelberger Druckmaschinen",
+    "position": "Leitender Redakteur für strategischen Content und Pressesprecher",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [
+      "Kommunikation / PR"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Leitender Redakteur für strategischen Content und Pressesprecher",
+    "organization": "Heidelberger Druckmaschinen",
+    "focus": "Kommunikation / PR"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Kommunikation / PR",
+    "Leitender Redakteur für strategischen Content und Pressesprecher"
+  ],
+  "source": null
+}

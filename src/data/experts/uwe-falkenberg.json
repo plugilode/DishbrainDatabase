@@ -1,0 +1,52 @@
+{
+  "id": "exp128",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Uwe",
+    "lastName": "Falkenberg",
+    "fullName": "Uwe Falkenberg",
+    "image": "/experts/uwe-falkenberg.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Microsoft",
+    "position": "Global Account Technology Strategist",
+    "department": null,
+    "website": "Microsoft"
+  },
+  "expertise": {
+    "primary": [
+      "IT-Strategiemanagement"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Global Account Technology Strategist",
+    "organization": "Microsoft",
+    "focus": "IT-Strategiemanagement"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Microsoft"
+  },
+  "tags": [
+    "IT-Strategiemanagement",
+    "Global Account Technology Strategist"
+  ],
+  "source": null
+}

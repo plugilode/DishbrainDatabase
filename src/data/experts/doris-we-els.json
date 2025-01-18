@@ -1,0 +1,52 @@
+{
+  "id": "exp117",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Doris",
+    "lastName": "Weßels",
+    "fullName": "Doris Weßels",
+    "image": "/experts/doris-we-els.jpg",
+    "email": "doris.wessels@fh-kiel.de",
+    "phone": "0049 431 210-3519",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "FH Kiel",
+    "position": "Professorin für Wirtschaftsinformatik",
+    "department": null,
+    "website": "fh-kiel.de"
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professorin für Wirtschaftsinformatik",
+    "organization": "FH Kiel",
+    "focus": "Wissenschaft"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/doris-weßels-66a47711/",
+    "company": "fh-kiel.de"
+  },
+  "tags": [
+    "Wissenschaft",
+    "Professorin für Wirtschaftsinformatik"
+  ],
+  "source": "​ (Fachhochschule Kiel)​​ (Fachhochschule Kiel)​​ (Fachhochschule Kiel)​"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "exp131",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Claire",
+    "lastName": "Quigley",
+    "fullName": "Dr. Claire Quigley",
+    "image": "/experts/dr--claire-quigley.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "N/A",
+    "position": "Informatikerin, Mitwirkende",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [
+      "Informatik / Bildung"
+    ],
+    "secondary": [],
+    "industries": [
+      "Education"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Informatikerin, Mitwirkende",
+    "organization": "N/A",
+    "focus": "Informatik / Bildung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Informatik / Bildung",
+    "Informatikerin, Mitwirkende"
+  ],
+  "source": "Bucheintrag"
+}

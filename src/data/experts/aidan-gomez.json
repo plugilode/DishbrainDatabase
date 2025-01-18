@@ -1,0 +1,54 @@
+{
+  "id": "exp391",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Aidan",
+    "lastName": "Gomez",
+    "fullName": "Aidan Gomez",
+    "image": "/experts/aidan-gomez.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Cohere",
+    "position": "Co-Founder and Chief Executive Officer",
+    "department": null,
+    "website": "https://www.cohere.ai"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Co-Founder and Chief Executive Officer",
+    "organization": "Cohere",
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.cohere.ai"
+  },
+  "tags": [
+    "Tech",
+    "Co-Founder and Chief Executive Officer"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

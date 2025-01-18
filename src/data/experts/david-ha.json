@@ -1,0 +1,54 @@
+{
+  "id": "exp424",
+  "personalInfo": {
+    "title": null,
+    "firstName": "David",
+    "lastName": "Ha",
+    "fullName": "David Ha",
+    "image": "/experts/david-ha.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Sakana AI",
+    "position": "KI-Experte",
+    "department": null,
+    "website": "Sakana AI Homepage"
+  },
+  "expertise": {
+    "primary": [
+      "Tech Industry"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "KI-Experte",
+    "organization": "Sakana AI",
+    "focus": "Tech Industry"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Sakana AI Homepage"
+  },
+  "tags": [
+    "Tech Industry",
+    "KI-Experte"
+  ],
+  "source": "t3n.de"
+}

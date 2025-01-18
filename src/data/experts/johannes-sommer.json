@@ -1,0 +1,54 @@
+{
+  "id": "exp129",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Johannes",
+    "lastName": "Sommer",
+    "fullName": "Johannes Sommer",
+    "image": "/experts/johannes-sommer.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Retresco",
+    "position": "CEO",
+    "department": null,
+    "website": "Retresco"
+  },
+  "expertise": {
+    "primary": [
+      "KI-Spezialist"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "Retresco",
+    "focus": "KI-Spezialist"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Retresco"
+  },
+  "tags": [
+    "KI-Spezialist",
+    "CEO"
+  ],
+  "source": null
+}

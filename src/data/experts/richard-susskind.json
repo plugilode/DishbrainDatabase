@@ -1,0 +1,52 @@
+{
+  "id": "exp036",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Richard",
+    "lastName": "Susskind",
+    "fullName": "Richard Susskind",
+    "image": "/experts/richard-susskind.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Author, speaker on the future of legal professions",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [
+      "Experte"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Author, speaker on the future of legal professions",
+    "organization": null,
+    "focus": "Experte"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Experte",
+    "Author, speaker on the future of legal professions"
+  ],
+  "source": null
+}

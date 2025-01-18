@@ -1,0 +1,52 @@
+{
+  "id": "exp165",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Markus",
+    "lastName": "Fallenböck",
+    "fullName": "Markus Fallenböck",
+    "image": "/experts/markus-fallenb-ck.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Universität Graz",
+    "position": "Vizerektor für Personal und Digitalisierung",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vizerektor für Personal und Digitalisierung",
+    "organization": "Universität Graz",
+    "focus": "Wissenschaft"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Wissenschaft",
+    "Vizerektor für Personal und Digitalisierung"
+  ],
+  "source": null
+}

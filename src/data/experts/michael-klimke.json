@@ -1,0 +1,49 @@
+{
+  "id": "exp284",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Michael",
+    "lastName": "Klimke",
+    "fullName": "Michael Klimke",
+    "image": "/experts/michael-klimke.jpg",
+    "email": "https://drive.google.com/file/u/1/d/19tZ5polMYTtPul7QbjxiPpUi4CFY5dBX/view?usp=drive_open",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Bayerischen KI-Agentur",
+    "position": "Geschäftsführer",
+    "department": null,
+    "website": "https://www.bayern-innovativ.de/de/unternehmen/bayerische-ki-agentur"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer",
+    "organization": "Bayerischen KI-Agentur",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/michaelklimke-baiosphere/",
+    "company": "https://www.bayern-innovativ.de/de/unternehmen/bayerische-ki-agentur"
+  },
+  "tags": [
+    "Geschäftsführer"
+  ],
+  "source": "https://www.burda.com/de/news/wie-ki-unser-leben-beeinflusst-interdisziplinarer/"
+}

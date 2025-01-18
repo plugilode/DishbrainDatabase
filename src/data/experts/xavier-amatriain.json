@@ -1,0 +1,54 @@
+{
+  "id": "exp387",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Xavier",
+    "lastName": "Amatriain",
+    "fullName": "Xavier Amatriain",
+    "image": "/experts/xavier-amatriain.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Core ML/AI at Google",
+    "position": "VP of Product",
+    "department": null,
+    "website": "https://www.google.com"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "VP of Product",
+    "organization": "Core ML/AI at Google",
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.google.com"
+  },
+  "tags": [
+    "Tech",
+    "VP of Product"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

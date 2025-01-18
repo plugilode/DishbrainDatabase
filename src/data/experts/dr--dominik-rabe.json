@@ -1,0 +1,49 @@
+{
+  "id": "exp018",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Dominik",
+    "lastName": "Rabe",
+    "fullName": "Dr. Dominik Rabe",
+    "image": "/experts/dr--dominik-rabe.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Rewe Zentralfinanz e.G.",
+    "position": "0",
+    "department": null,
+    "website": "https://www.rewe-group.com"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "Rewe Zentralfinanz e.G.",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.rewe-group.com"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

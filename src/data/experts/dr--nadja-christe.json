@@ -1,0 +1,49 @@
+{
+  "id": "exp008",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Nadja",
+    "lastName": "Christe",
+    "fullName": "Dr. Nadja Christe",
+    "image": "/experts/dr--nadja-christe.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Bayer AG",
+    "position": "0",
+    "department": null,
+    "website": "https://www.bayer.com"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "Bayer AG",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.bayer.com"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

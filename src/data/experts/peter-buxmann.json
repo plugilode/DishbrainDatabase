@@ -1,0 +1,52 @@
+{
+  "id": "exp311",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Peter",
+    "lastName": "Buxmann",
+    "fullName": "Peter Buxmann",
+    "image": "/experts/peter-buxmann.jpg",
+    "email": "https://drive.google.com/file/d/1JEuYfp7ElMPT6ovqFFlsKhnnnhdvbLrC/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Darmstadt",
+    "position": "Universitätsprofessor für Wirtschaftsinformatik",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Universitätsprofessor für Wirtschaftsinformatik",
+    "organization": "Technische Universität Darmstadt",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Universitätsprofessor für Wirtschaftsinformatik"
+  ],
+  "source": "https://future-shapers.live/prof-peter-buxmann/"
+}

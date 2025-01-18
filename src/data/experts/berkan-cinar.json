@@ -1,0 +1,52 @@
+{
+  "id": "exp290",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Berkan",
+    "lastName": "Cinar",
+    "fullName": "Berkan Cinar",
+    "image": "/experts/berkan-cinar.jpg",
+    "email": "https://docs.google.com/document/d/1pFc_ERPbcGpmcB-ivoUm8iB_IV21AIK7/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "VisionAI",
+    "position": "Mitgründer",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Startup"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Mitgründer",
+    "organization": "VisionAI",
+    "focus": "Startup"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Startup",
+    "Mitgründer"
+  ],
+  "source": "Künstliche Intelligenz: Diese Investoren finanzieren Deutschlands KI-Hoffnungen (handelsblatt.com)"
+}

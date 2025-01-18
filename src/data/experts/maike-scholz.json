@@ -1,0 +1,49 @@
+{
+  "id": "exp021",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Maike",
+    "lastName": "Scholz",
+    "fullName": "Maike Scholz",
+    "image": "/experts/maike-scholz.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsche Telekom AG",
+    "position": "0",
+    "department": null,
+    "website": "https://www.telekom.com"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "Deutsche Telekom AG",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/maike-scholz-64490850/",
+    "company": "https://www.telekom.com"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

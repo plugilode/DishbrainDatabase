@@ -1,0 +1,56 @@
+{
+  "id": "exp088",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Richard",
+    "lastName": "Socher",
+    "fullName": "Richard Socher",
+    "image": "/experts/richard-socher.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "You.com",
+    "position": "Gründer, KI-Experte",
+    "department": null,
+    "website": "you.com"
+  },
+  "expertise": {
+    "primary": [
+      "Künstliche Intelligenz",
+      "Suchmaschine"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Gründer, KI-Experte",
+    "organization": "You.com",
+    "focus": "Künstliche Intelligenz, Suchmaschine"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "you.com"
+  },
+  "tags": [
+    "Künstliche Intelligenz",
+    "Suchmaschine",
+    "Gründer, KI-Experte"
+  ],
+  "source": "Wie KI-Star Richard Socher Google herausfordert (faz.net)"
+}

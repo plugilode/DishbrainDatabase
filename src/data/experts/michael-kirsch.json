@@ -1,0 +1,52 @@
+{
+  "id": "exp239",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Michael",
+    "lastName": "Kirsch",
+    "fullName": "Michael Kirsch",
+    "image": "/experts/michael-kirsch.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Teamlead Kundensupport",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Kundenservice"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Teamlead Kundensupport",
+    "organization": null,
+    "focus": "Kundenservice"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Kundenservice",
+    "Teamlead Kundensupport"
+  ],
+  "source": "Text"
+}

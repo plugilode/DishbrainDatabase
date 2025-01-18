@@ -1,0 +1,58 @@
+{
+  "id": "exp148",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Ankit",
+    "lastName": "Agrawal",
+    "fullName": "Ankit Agrawal",
+    "image": "/experts/ankit-agrawal.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Universität des Saarlandes / DFKI",
+    "position": "Wissenschaftlicher Mitarbeiter",
+    "department": null,
+    "website": "DFKI"
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft / KI und Quantensimulation"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Wissenschaftlicher Mitarbeiter",
+    "organization": "Universität des Saarlandes / DFKI",
+    "focus": "Wissenschaft / KI und Quantensimulation"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/ankitagr01/",
+    "company": "DFKI"
+  },
+  "tags": [
+    "Wissenschaft / KI und Quantensimulation",
+    "Wissenschaftlicher Mitarbeiter"
+  ],
+  "source": null,
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:21:49.406Z"
+}

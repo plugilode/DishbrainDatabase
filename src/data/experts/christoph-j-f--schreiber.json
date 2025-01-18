@@ -1,0 +1,52 @@
+{
+  "id": "exp243",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Christoph",
+    "lastName": "Schreiber",
+    "fullName": "Christoph J.F. Schreiber",
+    "image": "/experts/christoph-j-f--schreiber.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Digital Beat",
+    "position": "CEO",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Geschäftsführung"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "Digital Beat",
+    "focus": "Geschäftsführung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Geschäftsführung",
+    "CEO"
+  ],
+  "source": "Text"
+}

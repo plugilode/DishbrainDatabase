@@ -1,0 +1,55 @@
+{
+  "id": "exp266",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Javaan",
+    "lastName": "Chahl",
+    "fullName": "Javaan Chahl",
+    "image": "/experts/javaan-chahl.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "University of South Australia",
+    "position": "Co-Autor, Forscher",
+    "department": null,
+    "website": "https://people.unisa.edu.au/Javaan.Chahl"
+  },
+  "expertise": {
+    "primary": [
+      "KI und Medizin"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI",
+      "Healthcare"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Co-Autor, Forscher",
+    "organization": "University of South Australia",
+    "focus": "KI und Medizin"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/javaan-chahl-155b695a/",
+    "company": "https://people.unisa.edu.au/Javaan.Chahl"
+  },
+  "tags": [
+    "KI und Medizin",
+    "Co-Autor, Forscher"
+  ],
+  "source": "Text"
+}

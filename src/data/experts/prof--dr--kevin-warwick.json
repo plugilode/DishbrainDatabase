@@ -1,0 +1,54 @@
+{
+  "id": "exp359",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Kevin",
+    "lastName": "Warwick",
+    "fullName": "Prof. Dr. Kevin Warwick",
+    "image": "/experts/prof--dr--kevin-warwick.jpg",
+    "email": "https://drive.google.com/file/d/1bMDyInzkAi8Vkjb-EpyRHsg1opGLhPMn/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "0",
+    "position": "Professor für Kybernetik",
+    "department": null,
+    "website": "0"
+  },
+  "expertise": {
+    "primary": [
+      "Forscher",
+      "Kultfigur"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor für Kybernetik",
+    "organization": "0",
+    "focus": "Forscher, Kultfigur"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "0"
+  },
+  "tags": [
+    "Forscher",
+    "Kultfigur",
+    "Professor für Kybernetik"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "exp020",
+  "personalInfo": {
+    "title": null,
+    "firstName": "René",
+    "lastName": "Schneider",
+    "fullName": "René Schneider",
+    "image": "/experts/ren--schneider.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "DataCo GmbH (DataGuard)",
+    "position": "0",
+    "department": null,
+    "website": "https://www.dataguard.de"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "DataCo GmbH (DataGuard)",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/reneschneiderlaw/",
+    "company": "https://www.dataguard.de"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

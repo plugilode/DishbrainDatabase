@@ -1,0 +1,52 @@
+{
+  "id": "exp232",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Jonas",
+    "lastName": "Brinker",
+    "fullName": "Dr. Jonas Brinker",
+    "image": "/experts/dr--jonas-brinker.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "SUCHHELDEN SCHNACK Podcast",
+    "position": "KI-Experte",
+    "department": null,
+    "website": "https://lnkd.in/eK2nbZfW"
+  },
+  "expertise": {
+    "primary": [
+      "Podcast"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "KI-Experte",
+    "organization": "SUCHHELDEN SCHNACK Podcast",
+    "focus": "Podcast"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://lnkd.in/eK2nbZfW"
+  },
+  "tags": [
+    "Podcast",
+    "KI-Experte"
+  ],
+  "source": "Text"
+}

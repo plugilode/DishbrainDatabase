@@ -1,0 +1,54 @@
+{
+  "id": "exp144",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Kristian",
+    "lastName": "Kersting",
+    "fullName": "Prof. Dr. Kristian Kersting",
+    "image": "/experts/prof--dr--kristian-kersting.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz)",
+    "position": "Leiter des Forschungsbereichs Grundlagen der Systemischen KI",
+    "department": null,
+    "website": "DFKI"
+  },
+  "expertise": {
+    "primary": [
+      "Forschung in Künstlicher Intelligenz"
+    ],
+    "secondary": [],
+    "industries": [
+      "Research"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Leiter des Forschungsbereichs Grundlagen der Systemischen KI",
+    "organization": "DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz)",
+    "focus": "Forschung in Künstlicher Intelligenz"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "DFKI"
+  },
+  "tags": [
+    "Forschung in Künstlicher Intelligenz",
+    "Leiter des Forschungsbereichs Grundlagen der Systemischen KI"
+  ],
+  "source": null
+}

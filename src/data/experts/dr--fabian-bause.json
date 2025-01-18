@@ -1,0 +1,54 @@
+{
+  "id": "exp134",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Fabian",
+    "lastName": "Bause",
+    "fullName": "Dr. Fabian Bause",
+    "image": "/experts/dr--fabian-bause.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Beckhoff Automation",
+    "position": "Produktmanager TwinCAT",
+    "department": null,
+    "website": "Beckhoff Automation"
+  },
+  "expertise": {
+    "primary": [
+      "Automatisierungstechnik"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Produktmanager TwinCAT",
+    "organization": "Beckhoff Automation",
+    "focus": "Automatisierungstechnik"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Beckhoff Automation"
+  },
+  "tags": [
+    "Automatisierungstechnik",
+    "Produktmanager TwinCAT"
+  ],
+  "source": "Beckhoff News"
+}

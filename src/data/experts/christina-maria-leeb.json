@@ -1,0 +1,52 @@
+{
+  "id": "exp068",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Christina-Maria",
+    "lastName": "Leeb",
+    "fullName": "Christina-Maria Leeb",
+    "image": "/experts/christina-maria-leeb.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Bavarian State Ministry of Justice",
+    "position": "Judge",
+    "department": null,
+    "website": "www.christina-maria-leeb.de"
+  },
+  "expertise": {
+    "primary": [
+      "Legal"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Judge",
+    "organization": "Bavarian State Ministry of Justice",
+    "focus": "Legal"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "www.christina-maria-leeb.de"
+  },
+  "tags": [
+    "Legal",
+    "Judge"
+  ],
+  "source": "​​​​​​https://www.christina-maria-leeb.de/"
+}

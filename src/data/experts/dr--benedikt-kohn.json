@@ -1,0 +1,49 @@
+{
+  "id": "exp015",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Benedikt",
+    "lastName": "Kohn",
+    "fullName": "Dr. Benedikt Kohn",
+    "image": "/experts/dr--benedikt-kohn.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Taylor Wessing",
+    "position": "Rechtsanwalt und Steuerberater",
+    "department": null,
+    "website": "https://www.taylorwessing.com"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Rechtsanwalt und Steuerberater",
+    "organization": "Taylor Wessing",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.taylorwessing.com"
+  },
+  "tags": [
+    "Rechtsanwalt und Steuerberater"
+  ],
+  "source": "Bitkom"
+}

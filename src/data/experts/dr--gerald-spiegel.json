@@ -1,0 +1,49 @@
+{
+  "id": "exp023",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Gerald",
+    "lastName": "Spiegel",
+    "fullName": "Dr. Gerald Spiegel",
+    "image": "/experts/dr--gerald-spiegel.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "EnBW Energie Baden-Württemberg AG",
+    "position": "0",
+    "department": null,
+    "website": "https://www.enbw.com"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "EnBW Energie Baden-Württemberg AG",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.enbw.com"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

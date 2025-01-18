@@ -1,0 +1,52 @@
+{
+  "id": "exp303",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Oliver",
+    "lastName": "Schoppe",
+    "fullName": "Oliver Schoppe",
+    "image": "/experts/oliver-schoppe.jpg",
+    "email": "https://docs.google.com/document/d/1U7xPQX0XetY5z6Rk_prXoMRO5AgOECv0/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "UVC Partners",
+    "position": "Investor",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "VC"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Investor",
+    "organization": "UVC Partners",
+    "focus": "VC"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/oschoppe/",
+    "company": null
+  },
+  "tags": [
+    "VC",
+    "Investor"
+  ],
+  "source": "Künstliche Intelligenz: Diese Investoren finanzieren Deutschlands KI-Hoffnungen (handelsblatt.com)"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "exp022",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Marie",
+    "lastName": "Slowioczek",
+    "fullName": "Marie Slowioczek",
+    "image": "/experts/marie-slowioczek.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "0",
+    "department": null,
+    "website": "https://www.element.in"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/marie-slowioczek-abb7537a/",
+    "company": "https://www.element.in"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

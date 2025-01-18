@@ -1,0 +1,54 @@
+{
+  "id": "exp355",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Chris",
+    "lastName": "Boos",
+    "fullName": "Chris Boos",
+    "image": "/experts/chris-boos.jpg",
+    "email": "https://docs.google.com/document/d/17P7zD4taIYxj4jLzGdmIt1nRZIofb8py/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Gründer & CEO, Mitglied 'Digital Council'",
+    "department": null,
+    "website": "https://www.arago.co/"
+  },
+  "expertise": {
+    "primary": [
+      "Unternehmenssprecher",
+      "Zukunftsforscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Gründer & CEO, Mitglied 'Digital Council'",
+    "organization": null,
+    "focus": "Unternehmenssprecher, Zukunftsforscher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.arago.co/"
+  },
+  "tags": [
+    "Unternehmenssprecher",
+    "Zukunftsforscher",
+    "Gründer & CEO, Mitglied 'Digital Council'"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

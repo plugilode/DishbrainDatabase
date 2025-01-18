@@ -1,0 +1,56 @@
+{
+  "id": "exp229",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Barnaby",
+    "lastName": "Skinner",
+    "fullName": "Barnaby Skinner",
+    "image": "/experts/barnaby-skinner.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "NZZ",
+    "position": "Vize-Chefredakteur Technologie & Entwicklung",
+    "department": null,
+    "website": "https://www.barnabyskinner.com/contact"
+  },
+  "expertise": {
+    "primary": [
+      "Medien"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vize-Chefredakteur Technologie & Entwicklung",
+    "organization": "NZZ",
+    "focus": "Medien"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/barnabyskinner/",
+    "company": "https://www.barnabyskinner.com/contact"
+  },
+  "tags": [
+    "Medien",
+    "Vize-Chefredakteur Technologie & Entwicklung"
+  ],
+  "source": "Text",
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:22:15.499Z"
+}

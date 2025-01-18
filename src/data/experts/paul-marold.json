@@ -1,0 +1,52 @@
+{
+  "id": "exp226",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Paul",
+    "lastName": "Marold",
+    "fullName": "Paul Marold",
+    "image": "/experts/paul-marold.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Head of Robot Engineering",
+    "department": null,
+    "website": "https://www.robco.de"
+  },
+  "expertise": {
+    "primary": [
+      "Robotik"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of Robot Engineering",
+    "organization": null,
+    "focus": "Robotik"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.robco.de"
+  },
+  "tags": [
+    "Robotik",
+    "Head of Robot Engineering"
+  ],
+  "source": "Text"
+}

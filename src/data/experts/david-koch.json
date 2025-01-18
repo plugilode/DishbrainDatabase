@@ -1,0 +1,54 @@
+{
+  "id": "exp216",
+  "personalInfo": {
+    "title": null,
+    "firstName": "David",
+    "lastName": "Koch",
+    "fullName": "David Koch",
+    "image": "/experts/david-koch.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IPA",
+    "position": "Wissenschaftlicher Mitarbeiter",
+    "department": null,
+    "website": "https://www.ipa.fraunhofer.de/de/presse/2024/nachhaltigkeit-durch-ki.html"
+  },
+  "expertise": {
+    "primary": [
+      "Forschung"
+    ],
+    "secondary": [],
+    "industries": [
+      "Research"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Wissenschaftlicher Mitarbeiter",
+    "organization": "Fraunhofer IPA",
+    "focus": "Forschung"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/davidkoch-fraunhoferipa-carbonneutralproduction/",
+    "company": "https://www.ipa.fraunhofer.de/de/presse/2024/nachhaltigkeit-durch-ki.html"
+  },
+  "tags": [
+    "Forschung",
+    "Wissenschaftlicher Mitarbeiter"
+  ],
+  "source": "Text"
+}

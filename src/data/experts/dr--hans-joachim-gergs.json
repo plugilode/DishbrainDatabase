@@ -1,0 +1,52 @@
+{
+  "id": "exp317",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Hans-Joachim",
+    "lastName": "Gergs",
+    "fullName": "Dr. Hans-Joachim Gergs",
+    "image": "/experts/dr--hans-joachim-gergs.jpg",
+    "email": "https://drive.google.com/file/d/1ckFzwk01zxNCOwLWggr8afda3g9cwZQI/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Audi Konzern",
+    "position": "Leitender Change Manager, Gründer des Instituts für empirische Organisationsforschung",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Wirtschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Leitender Change Manager, Gründer des Instituts für empirische Organisationsforschung",
+    "organization": "Audi Konzern",
+    "focus": "Wirtschaft"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Wirtschaft",
+    "Leitender Change Manager, Gründer des Instituts für empirische Organisationsforschung"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

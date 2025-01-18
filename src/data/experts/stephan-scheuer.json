@@ -1,0 +1,54 @@
+{
+  "id": "exp091",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Stephan",
+    "lastName": "Scheuer",
+    "fullName": "Stephan Scheuer",
+    "image": "/experts/stephan-scheuer.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Handelsblatt",
+    "position": "Silicon-Valley-Korrespondent",
+    "department": null,
+    "website": "handelsblatt.com"
+  },
+  "expertise": {
+    "primary": [
+      "KI-Spezial"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Silicon-Valley-Korrespondent",
+    "organization": "Handelsblatt",
+    "focus": "KI-Spezial"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/stephan-scheuer/",
+    "company": "handelsblatt.com"
+  },
+  "tags": [
+    "KI-Spezial",
+    "Silicon-Valley-Korrespondent"
+  ],
+  "source": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp200",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Stefanie",
+    "lastName": "Jegelka",
+    "fullName": "Prof. Dr. Stefanie Jegelka",
+    "image": "/experts/prof--dr--stefanie-jegelka.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technical University of Munich (TUM)",
+    "position": "Foundations of Deep Neural Networks, Algorithmic Machine Learning",
+    "department": null,
+    "website": "Humboldt Professor, Associate Professor at MIT"
+  },
+  "expertise": {
+    "primary": [
+      "Visitenkarte in TUMonline"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Foundations of Deep Neural Networks, Algorithmic Machine Learning",
+    "organization": "Technical University of Munich (TUM)",
+    "focus": "Visitenkarte in TUMonline"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Humboldt Professor, Associate Professor at MIT"
+  },
+  "tags": [
+    "Visitenkarte in TUMonline",
+    "Foundations of Deep Neural Networks, Algorithmic Machine Learning"
+  ],
+  "source": null
+}

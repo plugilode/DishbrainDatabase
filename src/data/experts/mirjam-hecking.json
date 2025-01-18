@@ -1,0 +1,52 @@
+{
+  "id": "exp124",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Mirjam",
+    "lastName": "Hecking",
+    "fullName": "Mirjam Hecking",
+    "image": "/experts/mirjam-hecking.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "manager-magazin.de",
+    "position": "Themenredakteurin",
+    "department": null,
+    "website": "manager-magazin.de"
+  },
+  "expertise": {
+    "primary": [
+      "Nachrichten/Redaktion"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Themenredakteurin",
+    "organization": "manager-magazin.de",
+    "focus": "Nachrichten/Redaktion"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/mirjam-hecking-1769623/",
+    "company": "manager-magazin.de"
+  },
+  "tags": [
+    "Nachrichten/Redaktion",
+    "Themenredakteurin"
+  ],
+  "source": "manager-magazin.de"
+}

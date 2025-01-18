@@ -1,0 +1,52 @@
+{
+  "id": "exp365",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Peter",
+    "lastName": "Sarlin",
+    "fullName": "Prof. Dr. Peter Sarlin",
+    "image": "/experts/prof--dr--peter-sarlin.jpg",
+    "email": "https://drive.google.com/file/d/1bSNSA2Q4vhbRvP9OEe3X956x_g0VDLq_/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Silo AI",
+    "position": "CEO & Mitbegründer",
+    "department": null,
+    "website": "https://silo.ai/"
+  },
+  "expertise": {
+    "primary": [
+      "Zukunftsforscher"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO & Mitbegründer",
+    "organization": "Silo AI",
+    "focus": "Zukunftsforscher"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://silo.ai/"
+  },
+  "tags": [
+    "Zukunftsforscher",
+    "CEO & Mitbegründer"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp225",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Vali",
+    "lastName": "Kiefl",
+    "fullName": "Vali und Jakob Kiefl",
+    "image": "/experts/vali-und-jakob-kiefl.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Urban Gardeners",
+    "position": "Gründer",
+    "department": null,
+    "website": "https://urban-gardeners.de/pages/unsere-story"
+  },
+  "expertise": {
+    "primary": [
+      "Start-up"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Gründer",
+    "organization": "Urban Gardeners",
+    "focus": "Start-up"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://urban-gardeners.de/pages/unsere-story"
+  },
+  "tags": [
+    "Start-up",
+    "Gründer"
+  ],
+  "source": "Text"
+}

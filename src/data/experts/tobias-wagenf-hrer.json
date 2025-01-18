@@ -1,0 +1,54 @@
+{
+  "id": "exp159",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Tobias",
+    "lastName": "Wagenführer",
+    "fullName": "Tobias Wagenführer",
+    "image": "/experts/tobias-wagenf-hrer.jpg",
+    "email": "hi@aaron.ai",
+    "phone": "+49 631 20575 0",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Aaron GmbH",
+    "position": "Geschäftsführer",
+    "department": null,
+    "website": "https://aaron.ai"
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer",
+    "organization": "Aaron GmbH",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/tobiaswagenfuehrer/",
+    "company": "https://aaron.ai"
+  },
+  "tags": [
+    "Technologie",
+    "Geschäftsführer"
+  ],
+  "source": "LinkedIn/Impressum"
+}

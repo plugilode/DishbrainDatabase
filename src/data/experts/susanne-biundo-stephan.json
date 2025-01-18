@@ -1,0 +1,52 @@
+{
+  "id": "exp330",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Susanne",
+    "lastName": "Biundo-Stephan",
+    "fullName": "Susanne Biundo-Stephan",
+    "image": "/experts/susanne-biundo-stephan.jpg",
+    "email": "https://drive.google.com/file/d/1Bylz55OlylGzPwmdgMR77YajHJ_zIlFl/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Planen",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Planen",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Planen"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt"
+}

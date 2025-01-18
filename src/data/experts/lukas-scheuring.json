@@ -1,0 +1,52 @@
+{
+  "id": "exp264",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Lukas",
+    "lastName": "Scheuring",
+    "fullName": "Lukas Scheuring",
+    "image": "/experts/lukas-scheuring.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/lucascheuring/?originalSubdomain=ch"
+  },
+  "expertise": {
+    "primary": [
+      "Mobilität"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": null,
+    "focus": "Mobilität"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/lukas-scheuring-903586270/",
+    "company": "https://www.linkedin.com/in/lucascheuring/?originalSubdomain=ch"
+  },
+  "tags": [
+    "Mobilität",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

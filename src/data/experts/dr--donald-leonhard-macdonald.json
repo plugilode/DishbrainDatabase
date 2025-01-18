@@ -1,0 +1,49 @@
+{
+  "id": "exp041",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Donald",
+    "lastName": "Leonhard-MacDonald",
+    "fullName": "Dr. Donald Leonhard-MacDonald",
+    "image": "/experts/dr--donald-leonhard-macdonald.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Director of Technology Expertise",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Director of Technology Expertise",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Director of Technology Expertise"
+  ],
+  "source": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp138",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Mona",
+    "lastName": "Riemenschneider",
+    "fullName": "Mona Riemenschneider",
+    "image": "/experts/mona-riemenschneider.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "BASF",
+    "position": "GenAI und Online Communications Manager, Agricultural Solutions",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [
+      "Corporate Communication"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "GenAI und Online Communications Manager, Agricultural Solutions",
+    "organization": "BASF",
+    "focus": "Corporate Communication"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Corporate Communication",
+    "GenAI und Online Communications Manager, Agricultural Solutions"
+  ],
+  "source": null
+}

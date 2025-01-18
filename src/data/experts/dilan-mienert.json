@@ -1,0 +1,49 @@
+{
+  "id": "exp017",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Dilan",
+    "lastName": "Mienert",
+    "fullName": "Dilan Mienert",
+    "image": "/experts/dilan-mienert.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "GÖRG Partnerschaft von Rechtsanwälten mbB",
+    "position": "0",
+    "department": null,
+    "website": "https://www.goerg.de"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "GÖRG Partnerschaft von Rechtsanwälten mbB",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/dilan-mienert-40711520b/",
+    "company": "https://www.goerg.de"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

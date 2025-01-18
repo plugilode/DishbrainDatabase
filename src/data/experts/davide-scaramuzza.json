@@ -1,0 +1,52 @@
+{
+  "id": "exp409",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Davide",
+    "lastName": "Scaramuzza",
+    "fullName": "Davide Scaramuzza",
+    "image": "/experts/davide-scaramuzza.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "University of Zurich",
+    "position": "Professor & Director, Robotics and Perception Group",
+    "department": null,
+    "website": "https://www.ifi.uzh.ch"
+  },
+  "expertise": {
+    "primary": [
+      "Academia"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor & Director, Robotics and Perception Group",
+    "organization": "University of Zurich",
+    "focus": "Academia"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.ifi.uzh.ch"
+  },
+  "tags": [
+    "Academia",
+    "Professor & Director, Robotics and Perception Group"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

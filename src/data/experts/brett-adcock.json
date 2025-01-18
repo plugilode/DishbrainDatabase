@@ -1,0 +1,54 @@
+{
+  "id": "exp114",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Brett",
+    "lastName": "Adcock",
+    "fullName": "Brett Adcock",
+    "image": "/experts/brett-adcock.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Figure AI",
+    "position": "Founder & CEO",
+    "department": null,
+    "website": "figure.ai"
+  },
+  "expertise": {
+    "primary": [
+      "Technology"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Founder & CEO",
+    "organization": "Figure AI",
+    "focus": "Technology"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "figure.ai"
+  },
+  "tags": [
+    "Technology",
+    "Founder & CEO"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Brett_Adcock;  https://www.figure.ai/about-us; https://www.brettadcock.com/bio"
+}

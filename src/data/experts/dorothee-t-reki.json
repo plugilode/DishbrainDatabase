@@ -1,0 +1,52 @@
+{
+  "id": "exp318",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Dorothee",
+    "lastName": "Töreki",
+    "fullName": "Dorothee Töreki",
+    "image": "/experts/dorothee-t-reki.jpg",
+    "email": "https://docs.google.com/document/d/1Fea6nlJdRpuDaOJuRbO05tkoamqMn-nT/edit",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "IBM",
+    "position": "Digitalisierung & Kollaboration Vordenkerin, LinkedIn Top Voice",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Wirtschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Digitalisierung & Kollaboration Vordenkerin, LinkedIn Top Voice",
+    "organization": "IBM",
+    "focus": "Wirtschaft"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Wirtschaft",
+    "Digitalisierung & Kollaboration Vordenkerin, LinkedIn Top Voice"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp095",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Tamay",
+    "lastName": "Besiroglu",
+    "fullName": "Tamay Besiroglu",
+    "image": "/experts/tamay-besiroglu.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Associate Director",
+    "department": null,
+    "website": "epochai.org/team"
+  },
+  "expertise": {
+    "primary": [
+      "Research"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Associate Director",
+    "organization": null,
+    "focus": "Research"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "epochai.org/team"
+  },
+  "tags": [
+    "Research",
+    "Associate Director"
+  ],
+  "source": "​ (Epoch)​"
+}

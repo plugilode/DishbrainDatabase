@@ -1,0 +1,49 @@
+{
+  "id": "exp012",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Anne",
+    "lastName": "Förster",
+    "fullName": "Dr. Anne Förster",
+    "image": "/experts/dr--anne-f-rster.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Taylor Wessing",
+    "position": "Rechtsanwalt und Steuerberater",
+    "department": null,
+    "website": "https://www.taylorwessing.com"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Rechtsanwalt und Steuerberater",
+    "organization": "Taylor Wessing",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.taylorwessing.com"
+  },
+  "tags": [
+    "Rechtsanwalt und Steuerberater"
+  ],
+  "source": "Bitkom"
+}

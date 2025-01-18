@@ -1,0 +1,54 @@
+{
+  "id": "exp244",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Michael",
+    "lastName": "Connor",
+    "fullName": "Michael Connor",
+    "image": "/experts/michael-connor.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Amazon",
+    "position": "Generative AI Product Development",
+    "department": null,
+    "website": "https://www.linkedin.com/in/michael-connor-605256/"
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Generative AI Product Development",
+    "organization": "Amazon",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/mike-connor-2013/",
+    "company": "https://www.linkedin.com/in/michael-connor-605256/"
+  },
+  "tags": [
+    "Technologie",
+    "Generative AI Product Development"
+  ],
+  "source": "Text"
+}

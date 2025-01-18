@@ -1,0 +1,54 @@
+{
+  "id": "exp184",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Oliver",
+    "lastName": "Fairhurst",
+    "fullName": "Oliver Fairhurst",
+    "image": "/experts/oliver-fairhurst.jpg",
+    "email": "oliver.fairhurst@lewissilkin.com",
+    "phone": "+44 (0)20 7074 8434",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Lewis Silkin LLP",
+    "position": "Partner",
+    "department": null,
+    "website": "https://www.lewissilkin.com/"
+  },
+  "expertise": {
+    "primary": [
+      "Rechtsanwalt"
+    ],
+    "secondary": [],
+    "industries": [
+      "Legal"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Partner",
+    "organization": "Lewis Silkin LLP",
+    "focus": "Rechtsanwalt"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/oliverfairhurst/",
+    "company": "https://www.lewissilkin.com/"
+  },
+  "tags": [
+    "Rechtsanwalt",
+    "Partner"
+  ],
+  "source": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp235",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Rachel",
+    "lastName": "Thomas",
+    "fullName": "Rachel Thomas",
+    "image": "/experts/rachel-thomas.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Nicht verfügbar",
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/rachel-thomas-942a7923/"
+  },
+  "expertise": {
+    "primary": [
+      "Nicht verfügbar"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": "Nicht verfügbar",
+    "focus": "Nicht verfügbar"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/rachel-thomas-942a7923/",
+    "company": "https://www.linkedin.com/in/rachel-thomas-942a7923/"
+  },
+  "tags": [
+    "Nicht verfügbar",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

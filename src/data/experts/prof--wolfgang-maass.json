@@ -1,0 +1,54 @@
+{
+  "id": "exp146",
+  "personalInfo": {
+    "title": "Prof.",
+    "firstName": "Wolfgang",
+    "lastName": "Maass",
+    "fullName": "Prof. Wolfgang Maass",
+    "image": "/experts/prof--wolfgang-maass.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Universität des Saarlandes / Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "position": "Professor / Forschungsprojektleiter",
+    "department": null,
+    "website": "DFKI"
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft / KI und Quantensimulation"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor / Forschungsprojektleiter",
+    "organization": "Universität des Saarlandes / Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "focus": "Wissenschaft / KI und Quantensimulation"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "DFKI"
+  },
+  "tags": [
+    "Wissenschaft / KI und Quantensimulation",
+    "Professor / Forschungsprojektleiter"
+  ],
+  "source": null
+}

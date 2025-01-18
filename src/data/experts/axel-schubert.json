@@ -1,0 +1,52 @@
+{
+  "id": "exp169",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Axel",
+    "lastName": "Schubert",
+    "fullName": "Axel Schubert",
+    "image": "/experts/axel-schubert.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "BIG PICTURE",
+    "position": "Senior Partner",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Management"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Senior Partner",
+    "organization": "BIG PICTURE",
+    "focus": "Management"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Management",
+    "Senior Partner"
+  ],
+  "source": "Teamseite"
+}

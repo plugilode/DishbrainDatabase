@@ -1,0 +1,54 @@
+{
+  "id": "exp278",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Hendrik",
+    "lastName": "Reese",
+    "fullName": "Hendrik Reese",
+    "image": "/experts/hendrik-reese.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "PwC",
+    "position": "Partner",
+    "department": null,
+    "website": "https://www.pwc.de/de/contacts/h/hendrik-reese.html"
+  },
+  "expertise": {
+    "primary": [
+      "KI und Unternehmensberatung"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Partner",
+    "organization": "PwC",
+    "focus": "KI und Unternehmensberatung"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/hendrik-reese/",
+    "company": "https://www.pwc.de/de/contacts/h/hendrik-reese.html"
+  },
+  "tags": [
+    "KI und Unternehmensberatung",
+    "Partner"
+  ],
+  "source": "Text"
+}

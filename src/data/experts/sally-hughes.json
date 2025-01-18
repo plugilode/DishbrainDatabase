@@ -1,0 +1,54 @@
+{
+  "id": "exp185",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Sally",
+    "lastName": "Hughes",
+    "fullName": "Sally Hughes",
+    "image": "/experts/sally-hughes.jpg",
+    "email": "sally.hughes@lewissilkin.com",
+    "phone": "+44 (0) 20 7074 8396",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Lewis Silkin LLP",
+    "position": "Senior Associate",
+    "department": null,
+    "website": "https://www.lewissilkin.com/"
+  },
+  "expertise": {
+    "primary": [
+      "Rechtsanwalt"
+    ],
+    "secondary": [],
+    "industries": [
+      "Legal"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Senior Associate",
+    "organization": "Lewis Silkin LLP",
+    "focus": "Rechtsanwalt"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/sally-hughes-3456a51a0/",
+    "company": "https://www.lewissilkin.com/"
+  },
+  "tags": [
+    "Rechtsanwalt",
+    "Senior Associate"
+  ],
+  "source": null
+}

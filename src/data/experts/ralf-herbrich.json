@@ -1,0 +1,54 @@
+{
+  "id": "exp255",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Ralf",
+    "lastName": "Herbrich",
+    "fullName": "Ralf Herbrich",
+    "image": "/experts/ralf-herbrich.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Hasso-Plattner-Institut",
+    "position": "Geschäftsführer",
+    "department": null,
+    "website": "Ralf.Herbrich@hpi.de"
+  },
+  "expertise": {
+    "primary": [
+      "KI und Nachhaltigkeit"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer",
+    "organization": "Hasso-Plattner-Institut",
+    "focus": "KI und Nachhaltigkeit"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/ralf-herbrich-28a8324/",
+    "company": "Ralf.Herbrich@hpi.de"
+  },
+  "tags": [
+    "KI und Nachhaltigkeit",
+    "Geschäftsführer"
+  ],
+  "source": "Text"
+}

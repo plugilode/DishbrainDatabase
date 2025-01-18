@@ -1,0 +1,52 @@
+{
+  "id": "exp267",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Martin",
+    "lastName": "Giesswein",
+    "fullName": "Martin Giesswein",
+    "image": "/experts/martin-giesswein.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.martingiesswein.com/"
+  },
+  "expertise": {
+    "primary": [
+      "Keine spezifische Rolle"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": null,
+    "focus": "Keine spezifische Rolle"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/giesswein/",
+    "company": "https://www.martingiesswein.com/"
+  },
+  "tags": [
+    "Keine spezifische Rolle",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

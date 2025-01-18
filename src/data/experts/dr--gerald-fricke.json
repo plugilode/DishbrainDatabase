@@ -1,0 +1,52 @@
+{
+  "id": "exp322",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Gerald",
+    "lastName": "Fricke",
+    "fullName": "Dr. Gerald Fricke",
+    "image": "/experts/dr--gerald-fricke.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1QJNWN-lKCRPBtZWuaXJmn9D6RjteTiCS/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Wirtschaftsinformatiker, Politikwissenschaftler, Autor",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Wirtschaftsinformatiker, Politikwissenschaftler, Autor",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Wirtschaftsinformatiker, Politikwissenschaftler, Autor"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

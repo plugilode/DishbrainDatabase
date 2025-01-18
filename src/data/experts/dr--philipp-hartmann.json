@@ -1,0 +1,49 @@
+{
+  "id": "exp042",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Philipp",
+    "lastName": "Hartmann",
+    "fullName": "Dr. Philipp Hartmann",
+    "image": "/experts/dr--philipp-hartmann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Director of AI Strategy & Enablement",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Director of AI Strategy & Enablement",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Director of AI Strategy & Enablement"
+  ],
+  "source": null
+}

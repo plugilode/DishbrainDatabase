@@ -1,0 +1,52 @@
+{
+  "id": "exp308",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Katharina",
+    "lastName": "Zweig",
+    "fullName": "Katharina Zweig",
+    "image": "/experts/katharina-zweig.jpg",
+    "email": "https://drive.google.com/file/d/1ZR_wAEsRbge2w0FcIxv7qGcFa_qBmyyp/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Kaiserslautern",
+    "position": "Professorin",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professorin",
+    "organization": "Technische Universität Kaiserslautern",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Professorin"
+  ],
+  "source": "https://www.deutschland.de/de/topic/wissen/kuenstliche-intelligenz-in-deutschland-fuehrende-forscher"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp183",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Philipp",
+    "lastName": "Gollmer",
+    "fullName": "Philipp Gollmer",
+    "image": "/experts/philipp-gollmer.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "NZZ",
+    "position": "Newsjournalist",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Medien"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Newsjournalist",
+    "organization": "NZZ",
+    "focus": "Medien"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/philipp-gollmer/",
+    "company": null
+  },
+  "tags": [
+    "Medien",
+    "Newsjournalist"
+  ],
+  "source": "LinkedIn"
+}

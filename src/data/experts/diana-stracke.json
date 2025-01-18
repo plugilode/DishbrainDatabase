@@ -1,0 +1,49 @@
+{
+  "id": "exp043",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Diana",
+    "lastName": "Stracke",
+    "fullName": "Diana Stracke",
+    "image": "/experts/diana-stracke.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Director of People & Organization",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Director of People & Organization",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Director of People & Organization"
+  ],
+  "source": null
+}

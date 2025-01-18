@@ -1,0 +1,49 @@
+{
+  "id": "exp019",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Alexandra",
+    "lastName": "Schmidt",
+    "fullName": "Alexandra Schmidt",
+    "image": "/experts/alexandra-schmidt.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "0",
+    "department": null,
+    "website": "https://www.telekom.com"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.telekom.com"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

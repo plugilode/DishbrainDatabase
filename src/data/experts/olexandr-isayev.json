@@ -1,0 +1,52 @@
+{
+  "id": "exp412",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Olexandr",
+    "lastName": "Isayev",
+    "fullName": "Olexandr Isayev",
+    "image": "/experts/olexandr-isayev.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Carnegie Mellon University",
+    "position": "Associate Professor",
+    "department": null,
+    "website": "https://www.cmu.edu"
+  },
+  "expertise": {
+    "primary": [
+      "Academia"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Associate Professor",
+    "organization": "Carnegie Mellon University",
+    "focus": "Academia"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.cmu.edu"
+  },
+  "tags": [
+    "Academia",
+    "Associate Professor"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

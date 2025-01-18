@@ -1,0 +1,52 @@
+{
+  "id": "exp321",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Frank",
+    "lastName": "Eilers",
+    "fullName": "Frank Eilers",
+    "image": "/experts/frank-eilers.jpg",
+    "email": "https://docs.google.com/document/u/1/d/19cLoI6YbWtNsGzDk6KueFnDQUihTZYm7/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Moderator",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Medien"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Moderator",
+    "organization": null,
+    "focus": "Medien"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/frank-eilers/",
+    "company": null
+  },
+  "tags": [
+    "Medien",
+    "Moderator"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp153",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Lorena",
+    "lastName": "Göritz",
+    "fullName": "Lorena Göritz",
+    "image": "/experts/lorena-g-ritz.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "position": "Teamleiterin und Forscherin",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaft"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Teamleiterin und Forscherin",
+    "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "focus": "Wissenschaft"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/lorena-göritz-5bb338200/",
+    "company": null
+  },
+  "tags": [
+    "Wissenschaft",
+    "Teamleiterin und Forscherin"
+  ],
+  "source": null
+}

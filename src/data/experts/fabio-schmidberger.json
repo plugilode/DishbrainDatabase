@@ -1,0 +1,54 @@
+{
+  "id": "exp166",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Fabio",
+    "lastName": "Schmidberger",
+    "fullName": "Fabio Schmidberger",
+    "image": "/experts/fabio-schmidberger.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Voize GmbH",
+    "position": "CEO und Geschäftsführer",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO und Geschäftsführer",
+    "organization": "Voize GmbH",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Technologie",
+    "CEO und Geschäftsführer"
+  ],
+  "source": null
+}

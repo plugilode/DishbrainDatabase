@@ -1,0 +1,49 @@
+{
+  "id": "exp055",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Desiree",
+    "lastName": "Modic",
+    "fullName": "Desiree Modic",
+    "image": "/experts/desiree-modic.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Head of AI Strategy & Transformation",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of AI Strategy & Transformation",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of AI Strategy & Transformation"
+  ],
+  "source": null
+}

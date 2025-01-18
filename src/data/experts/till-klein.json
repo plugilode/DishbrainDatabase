@@ -1,0 +1,49 @@
+{
+  "id": "exp051",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Till",
+    "lastName": "Klein",
+    "fullName": "Till Klein",
+    "image": "/experts/till-klein.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Head of Trustworthy AI",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of Trustworthy AI",
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of Trustworthy AI"
+  ],
+  "source": null
+}

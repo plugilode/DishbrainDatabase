@@ -1,0 +1,56 @@
+{
+  "id": "exp218",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Arnault",
+    "lastName": "Ioualalen",
+    "fullName": "Arnault Ioualalen",
+    "image": "/experts/arnault-ioualalen.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Numalis",
+    "position": "CEO und F&E Direktor",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Unternehmensführung"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO und F&E Direktor",
+    "organization": "Numalis",
+    "focus": "Unternehmensführung"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/arnaultioualalalen/",
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Unternehmensführung",
+    "CEO und F&E Direktor"
+  ],
+  "source": "Bild",
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:22:08.513Z"
+}

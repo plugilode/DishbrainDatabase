@@ -1,0 +1,52 @@
+{
+  "id": "exp343",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jürgen",
+    "lastName": "Pfrommer",
+    "fullName": "Jürgen Pfrommer",
+    "image": "/experts/j-rgen-pfrommer.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1phWetapoxJwosDmGyFYIc1oCeL8QPdQU/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "position": "Lehrender, KI-Forscher",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Lehrender, KI-Forscher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/jürgen-pfrommer-3703881a0/",
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Lehrender, KI-Forscher"
+  ],
+  "source": "https://www.handelsblatt.com/technik/ki/insight-innovation-chipmangel-buerokratie-warum-deutsche-ki-forscher-nicht-mithalten-koennen/100011263.html"
+}

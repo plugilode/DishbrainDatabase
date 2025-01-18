@@ -1,0 +1,54 @@
+{
+  "id": "exp172",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Leonid",
+    "lastName": "Sokolov",
+    "fullName": "Leonid Sokolov",
+    "image": "/experts/leonid-sokolov.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "BIG PICTURE",
+    "position": "Senior Voice User Interface Engineer",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Senior Voice User Interface Engineer",
+    "organization": "BIG PICTURE",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Technologie",
+    "Senior Voice User Interface Engineer"
+  ],
+  "source": "Teamseite"
+}

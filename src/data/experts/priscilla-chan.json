@@ -1,0 +1,52 @@
+{
+  "id": "exp380",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Priscilla",
+    "lastName": "Chan",
+    "fullName": "Priscilla Chan",
+    "image": "/experts/priscilla-chan.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Chan Zuckerberg Initiative",
+    "position": "Co-Founder and co-CEO",
+    "department": null,
+    "website": "https://chanzuckerberg.com"
+  },
+  "expertise": {
+    "primary": [
+      "Non-Profit"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Co-Founder and co-CEO",
+    "organization": "Chan Zuckerberg Initiative",
+    "focus": "Non-Profit"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://chanzuckerberg.com"
+  },
+  "tags": [
+    "Non-Profit",
+    "Co-Founder and co-CEO"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

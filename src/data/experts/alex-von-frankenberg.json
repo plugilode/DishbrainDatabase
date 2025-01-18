@@ -1,0 +1,52 @@
+{
+  "id": "exp294",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Alex",
+    "lastName": "Frankenberg",
+    "fullName": "Alex von Frankenberg",
+    "image": "/experts/alex-von-frankenberg.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1EXiq7eG9uUR5ze5p5eqQV9Azr7T1xZiC/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "High-Tech Gründerfonds",
+    "position": "Geschäftsführer",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "VC"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer",
+    "organization": "High-Tech Gründerfonds",
+    "focus": "VC"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "VC",
+    "Geschäftsführer"
+  ],
+  "source": "Künstliche Intelligenz: Diese Investoren finanzieren Deutschlands KI-Hoffnungen (handelsblatt.com)"
+}

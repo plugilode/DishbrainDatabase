@@ -1,0 +1,54 @@
+{
+  "id": "exp140",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Oliver",
+    "lastName": "Nickel",
+    "fullName": "Oliver Nickel",
+    "image": "/experts/oliver-nickel.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Golem.de",
+    "position": "Redakteur",
+    "department": null,
+    "website": "Golem.de"
+  },
+  "expertise": {
+    "primary": [
+      "Technologiejournalismus"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Redakteur",
+    "organization": "Golem.de",
+    "focus": "Technologiejournalismus"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/oliver-nickel-21723a137/",
+    "company": "Golem.de"
+  },
+  "tags": [
+    "Technologiejournalismus",
+    "Redakteur"
+  ],
+  "source": null
+}

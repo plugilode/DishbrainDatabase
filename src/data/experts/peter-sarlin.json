@@ -1,0 +1,55 @@
+{
+  "id": "exp123",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Peter",
+    "lastName": "Sarlin",
+    "fullName": "Peter Sarlin",
+    "image": "/experts/peter-sarlin.jpg",
+    "email": "peter.sarlin@silo.ai",
+    "phone": "N/A",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Silo AI",
+    "position": "CEO & Mitbegründer",
+    "department": null,
+    "website": "silo.ai"
+  },
+  "expertise": {
+    "primary": [
+      "KI-Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI",
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO & Mitbegründer",
+    "organization": "Silo AI",
+    "focus": "KI-Technologie"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/psarlin/",
+    "company": "silo.ai"
+  },
+  "tags": [
+    "KI-Technologie",
+    "CEO & Mitbegründer"
+  ],
+  "source": "silo.ai, silo.ai, slush.org"
+}

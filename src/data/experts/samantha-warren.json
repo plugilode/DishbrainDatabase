@@ -1,0 +1,49 @@
+{
+  "id": "exp049",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Samantha",
+    "lastName": "Warren",
+    "fullName": "Samantha Warren",
+    "image": "/experts/samantha-warren.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Head of Marketing & Communications",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of Marketing & Communications",
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/samanthaalexandrawarren/",
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of Marketing & Communications"
+  ],
+  "source": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "exp274",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Lukas",
+    "lastName": "Schießer",
+    "fullName": "Lukas Schießer",
+    "image": "/experts/lukas-schie-er.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Green AI-Hub",
+    "position": "Kognitionswissenschaftler",
+    "department": null,
+    "website": "https://www.linkedin.com/in/lukas-schiesser/?originalSubdomain=de"
+  },
+  "expertise": {
+    "primary": [
+      "KI und Nachhaltigkeit"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Kognitionswissenschaftler",
+    "organization": "Green AI-Hub",
+    "focus": "KI und Nachhaltigkeit"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.linkedin.com/in/lukas-schiesser/?originalSubdomain=de"
+  },
+  "tags": [
+    "KI und Nachhaltigkeit",
+    "Kognitionswissenschaftler"
+  ],
+  "source": "Text"
+}

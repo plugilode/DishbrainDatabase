@@ -1,0 +1,52 @@
+{
+  "id": "exp081",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Marc",
+    "lastName": "Maisch",
+    "fullName": "Marc Maisch",
+    "image": "/experts/marc-maisch.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Doctor/Legal Professional",
+    "department": null,
+    "website": "0"
+  },
+  "expertise": {
+    "primary": [
+      "Legal"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Doctor/Legal Professional",
+    "organization": null,
+    "focus": "Legal"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "0"
+  },
+  "tags": [
+    "Legal",
+    "Doctor/Legal Professional"
+  ],
+  "source": "​​​​​​https://www.christina-maria-leeb.de/"
+}

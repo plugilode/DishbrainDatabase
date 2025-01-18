@@ -1,0 +1,49 @@
+{
+  "id": "exp024",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Ilka-Maria",
+    "lastName": "Sühling",
+    "fullName": "Ilka-Maria Sühling",
+    "image": "/experts/ilka-maria-s-hling.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsche Telekom AG",
+    "position": "0",
+    "department": null,
+    "website": "https://www.telekom.com"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "Deutsche Telekom AG",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.telekom.com"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

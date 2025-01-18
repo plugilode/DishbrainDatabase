@@ -1,0 +1,54 @@
+{
+  "id": "exp241",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Moritz",
+    "lastName": "Gielen",
+    "fullName": "Moritz Gielen",
+    "image": "/experts/moritz-gielen.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Rechtsanwalt",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Recht"
+    ],
+    "secondary": [],
+    "industries": [
+      "Legal"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Rechtsanwalt",
+    "organization": null,
+    "focus": "Recht"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Recht",
+    "Rechtsanwalt"
+  ],
+  "source": "Text"
+}

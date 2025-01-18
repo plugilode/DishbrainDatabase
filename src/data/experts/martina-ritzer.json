@@ -1,0 +1,54 @@
+{
+  "id": "exp221",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Martina",
+    "lastName": "Ritzer",
+    "fullName": "Martina Ritzer",
+    "image": "/experts/martina-ritzer.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "CWS International GmbH",
+    "position": "Vortragende bei Fachkonferenz",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "IT & KI"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vortragende bei Fachkonferenz",
+    "organization": "CWS International GmbH",
+    "focus": "IT & KI"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/martina-ritzer-b980806/",
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "IT & KI",
+    "Vortragende bei Fachkonferenz"
+  ],
+  "source": "Bild"
+}

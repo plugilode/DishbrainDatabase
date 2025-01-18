@@ -1,0 +1,52 @@
+{
+  "id": "exp338",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Ingo",
+    "lastName": "Timm",
+    "fullName": "Prof. Dr. Ingo Timm",
+    "image": "/experts/prof--dr--ingo-timm.jpg",
+    "email": "https://drive.google.com/file/d/12RK5Tx4O2Hpd4dpjktSHww6eZN-QPriz/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Vorsitzender der #KI50-Jury",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vorsitzender der #KI50-Jury",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Vorsitzender der #KI50-Jury"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt"
+}

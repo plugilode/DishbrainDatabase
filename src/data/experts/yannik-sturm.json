@@ -1,0 +1,54 @@
+{
+  "id": "exp240",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Yannik",
+    "lastName": "Sturm",
+    "fullName": "Yannik Sturm",
+    "image": "/experts/yannik-sturm.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Teamlead Creative",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Kreative KI"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Teamlead Creative",
+    "organization": null,
+    "focus": "Kreative KI"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Kreative KI",
+    "Teamlead Creative"
+  ],
+  "source": "Text"
+}

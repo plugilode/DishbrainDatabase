@@ -1,0 +1,54 @@
+{
+  "id": "exp089",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Sebastian",
+    "lastName": "Matthes",
+    "fullName": "Sebastian Matthes",
+    "image": "/experts/sebastian-matthes.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Handelsblatt",
+    "position": "Chefredakteur",
+    "department": null,
+    "website": "handelsblatt.com"
+  },
+  "expertise": {
+    "primary": [
+      "KI-Spezial"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Chefredakteur",
+    "organization": "Handelsblatt",
+    "focus": "KI-Spezial"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "handelsblatt.com"
+  },
+  "tags": [
+    "KI-Spezial",
+    "Chefredakteur"
+  ],
+  "source": null
+}

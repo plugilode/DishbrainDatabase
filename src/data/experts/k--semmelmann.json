@@ -1,0 +1,52 @@
+{
+  "id": "exp262",
+  "personalInfo": {
+    "title": null,
+    "firstName": "K.",
+    "lastName": "Semmelmann",
+    "fullName": "K. Semmelmann",
+    "image": "/experts/k--semmelmann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Keine spezifische Firma",
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/ksemmelm/?originalSubdomain=de"
+  },
+  "expertise": {
+    "primary": [
+      "Keine spezifische Rolle"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": "Keine spezifische Firma",
+    "focus": "Keine spezifische Rolle"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.linkedin.com/in/ksemmelm/?originalSubdomain=de"
+  },
+  "tags": [
+    "Keine spezifische Rolle",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

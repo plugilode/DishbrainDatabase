@@ -1,0 +1,54 @@
+{
+  "id": "exp402",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Rodolphe",
+    "lastName": "Katra",
+    "fullName": "Rodolphe Katra",
+    "image": "/experts/rodolphe-katra.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Medtronic",
+    "position": "Vice President of Artificial Intelligence",
+    "department": null,
+    "website": "https://www.medtronic.com"
+  },
+  "expertise": {
+    "primary": [
+      "MedTech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vice President of Artificial Intelligence",
+    "organization": "Medtronic",
+    "focus": "MedTech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.medtronic.com"
+  },
+  "tags": [
+    "MedTech",
+    "Vice President of Artificial Intelligence"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

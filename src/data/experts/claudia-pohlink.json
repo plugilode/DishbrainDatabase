@@ -1,0 +1,52 @@
+{
+  "id": "exp236",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Claudia",
+    "lastName": "Pohlink",
+    "fullName": "Claudia Pohlink",
+    "image": "/experts/claudia-pohlink.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsche Bahn",
+    "position": "Keine spezifische Rolle genannt",
+    "department": null,
+    "website": "https://www.linkedin.com/in/claudia-pohlink/?originalSubdomain=de"
+  },
+  "expertise": {
+    "primary": [
+      "Verkehr"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keine spezifische Rolle genannt",
+    "organization": "Deutsche Bahn",
+    "focus": "Verkehr"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/claudia-pohlink/",
+    "company": "https://www.linkedin.com/in/claudia-pohlink/?originalSubdomain=de"
+  },
+  "tags": [
+    "Verkehr",
+    "Keine spezifische Rolle genannt"
+  ],
+  "source": "Text"
+}

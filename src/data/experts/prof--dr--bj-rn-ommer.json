@@ -1,0 +1,52 @@
+{
+  "id": "exp067",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Björn",
+    "lastName": "Ommer",
+    "fullName": "Prof. Dr. Björn Ommer",
+    "image": "/experts/prof--dr--bj-rn-ommer.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig Maximilian University of Munich",
+    "position": "Head of Computer Vision & Learning Group",
+    "department": null,
+    "website": "https://ommer-lab.com/people/ommer/"
+  },
+  "expertise": {
+    "primary": [
+      "Akademiker"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of Computer Vision & Learning Group",
+    "organization": "Ludwig Maximilian University of Munich",
+    "focus": "Akademiker"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://ommer-lab.com/people/ommer/"
+  },
+  "tags": [
+    "Akademiker",
+    "Head of Computer Vision & Learning Group"
+  ],
+  "source": "https://ommer-lab.com/"
+}

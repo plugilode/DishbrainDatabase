@@ -1,0 +1,52 @@
+{
+  "id": "exp161",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Dennis",
+    "lastName": "Ballwieser",
+    "fullName": "Dennis Ballwieser",
+    "image": "/experts/dennis-ballwieser.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Wort & Bild Verlagsgruppe",
+    "position": "Chefredakteur",
+    "department": null,
+    "website": "https://wortundbildverlag.de"
+  },
+  "expertise": {
+    "primary": [
+      "Medien"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Chefredakteur",
+    "organization": "Wort & Bild Verlagsgruppe",
+    "focus": "Medien"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/ballwieser/",
+    "company": "https://wortundbildverlag.de"
+  },
+  "tags": [
+    "Medien",
+    "Chefredakteur"
+  ],
+  "source": "Wort & Bild Verlag"
+}

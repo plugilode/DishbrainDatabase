@@ -1,0 +1,54 @@
+{
+  "id": "exp400",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Alexandru",
+    "lastName": "Costin",
+    "fullName": "Alexandru Costin",
+    "image": "/experts/alexandru-costin.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Adobe",
+    "position": "Vice President, Generative AI & Sensei",
+    "department": null,
+    "website": "https://www.adobe.com"
+  },
+  "expertise": {
+    "primary": [
+      "Tech"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vice President, Generative AI & Sensei",
+    "organization": "Adobe",
+    "focus": "Tech"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.adobe.com"
+  },
+  "tags": [
+    "Tech",
+    "Vice President, Generative AI & Sensei"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

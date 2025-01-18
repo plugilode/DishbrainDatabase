@@ -1,0 +1,52 @@
+{
+  "id": "exp170",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Hoa",
+    "lastName": "Lessen",
+    "fullName": "Hoa Le van Lessen",
+    "image": "/experts/hoa-le-van-lessen.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "BIG PICTURE",
+    "position": "Lead CX und Strategy",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Strategie"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Lead CX und Strategy",
+    "organization": "BIG PICTURE",
+    "focus": "Strategie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Strategie",
+    "Lead CX und Strategy"
+  ],
+  "source": "Teamseite"
+}

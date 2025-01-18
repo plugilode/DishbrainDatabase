@@ -1,0 +1,49 @@
+{
+  "id": "exp009",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Christoph",
+    "lastName": "Cordes",
+    "fullName": "Dr. Christoph Cordes",
+    "image": "/experts/dr--christoph-cordes.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "YPOG",
+    "position": "Rechtsanwalt und Steuerberater",
+    "department": null,
+    "website": "https://www.ypog.law"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Rechtsanwalt und Steuerberater",
+    "organization": "YPOG",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.ypog.law"
+  },
+  "tags": [
+    "Rechtsanwalt und Steuerberater"
+  ],
+  "source": "Bitkom"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "exp346",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Bettina",
+    "lastName": "Stark-Watzinger",
+    "fullName": "Bettina Stark-Watzinger",
+    "image": "/experts/bettina-stark-watzinger.jpg",
+    "email": "https://drive.google.com/file/d/1X4ypmUyeSREFhfB6S1lhetZdELIQRCZr/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Bundesministerium für Bildung und Forschung (BMBF)",
+    "position": "Ministerin",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Politik"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Ministerin",
+    "organization": "Bundesministerium für Bildung und Forschung (BMBF)",
+    "focus": "Politik"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/starkwatzinger/",
+    "company": null
+  },
+  "tags": [
+    "Politik",
+    "Ministerin"
+  ],
+  "source": "https://the-decoder.de/ki-in-deutschland-bekannte-deutsche-ki-forscherinnen-und-forscher/"
+}

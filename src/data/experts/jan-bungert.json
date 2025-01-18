@@ -1,0 +1,54 @@
+{
+  "id": "exp222",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jan",
+    "lastName": "Bungert",
+    "fullName": "Jan Bungert",
+    "image": "/experts/jan-bungert.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Vortragender bei Fachkonferenz",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "IT & KI"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vortragender bei Fachkonferenz",
+    "organization": null,
+    "focus": "IT & KI"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/janbungert/",
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "IT & KI",
+    "Vortragender bei Fachkonferenz"
+  ],
+  "source": "Bild"
+}

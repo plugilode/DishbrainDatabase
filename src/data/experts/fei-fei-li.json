@@ -1,0 +1,52 @@
+{
+  "id": "exp372",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Fei-Fei",
+    "lastName": "Li",
+    "fullName": "Fei-Fei Li",
+    "image": "/experts/fei-fei-li.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Stanford University",
+    "position": "Sequoia Professor of Computer Science & Co-Director, HAI",
+    "department": null,
+    "website": "https://hai.stanford.edu"
+  },
+  "expertise": {
+    "primary": [
+      "Academia"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Sequoia Professor of Computer Science & Co-Director, HAI",
+    "organization": "Stanford University",
+    "focus": "Academia"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://hai.stanford.edu"
+  },
+  "tags": [
+    "Academia",
+    "Sequoia Professor of Computer Science & Co-Director, HAI"
+  ],
+  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid"
+}

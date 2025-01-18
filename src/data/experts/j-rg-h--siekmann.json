@@ -1,0 +1,52 @@
+{
+  "id": "exp335",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jörg",
+    "lastName": "Siekmann",
+    "fullName": "Jörg H. Siekmann",
+    "image": "/experts/j-rg-h--siekmann.jpg",
+    "email": "https://drive.google.com/file/d/1AUJkddJqaafrAKOSbdnhAW4hFVXT2tMp/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "DFKI",
+    "position": "Wissensrepräsentation und Schlussfolgern",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Wissensrepräsentation und Schlussfolgern",
+    "organization": "DFKI",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Wissensrepräsentation und Schlussfolgern"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt"
+}

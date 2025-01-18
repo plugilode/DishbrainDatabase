@@ -1,0 +1,52 @@
+{
+  "id": "exp130",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Hilary",
+    "lastName": "Lamb",
+    "fullName": "Hilary Lamb",
+    "image": "/experts/hilary-lamb.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Beraterin, Wissenschafts- und Technologiejournalistin",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [
+      "Journalismus / Beratung"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Beraterin, Wissenschafts- und Technologiejournalistin",
+    "organization": null,
+    "focus": "Journalismus / Beratung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Journalismus / Beratung",
+    "Beraterin, Wissenschafts- und Technologiejournalistin"
+  ],
+  "source": "Bucheintrag"
+}

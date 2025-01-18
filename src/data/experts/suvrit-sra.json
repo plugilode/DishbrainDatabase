@@ -1,0 +1,54 @@
+{
+  "id": "exp201",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Suvrit",
+    "lastName": "Sra",
+    "fullName": "Suvrit Sra",
+    "image": "/experts/suvrit-sra.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technical University of Munich (TUM)",
+    "position": "Resource Aware Machine Learning",
+    "department": null,
+    "website": "Humboldt Professor for AI"
+  },
+  "expertise": {
+    "primary": [
+      "Tel: +49 228 833-144",
+      "Email: presse[at]avh.de"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Resource Aware Machine Learning",
+    "organization": "Technical University of Munich (TUM)",
+    "focus": "Tel: +49 228 833-144, Email: presse[at]avh.de"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/suvrit-sra-3668671/",
+    "company": "Humboldt Professor for AI"
+  },
+  "tags": [
+    "Tel: +49 228 833-144",
+    "Email: presse[at]avh.de",
+    "Resource Aware Machine Learning"
+  ],
+  "source": null
+}

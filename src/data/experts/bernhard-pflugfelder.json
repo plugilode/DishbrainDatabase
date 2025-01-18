@@ -1,0 +1,49 @@
+{
+  "id": "exp054",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Bernhard",
+    "lastName": "Pflugfelder",
+    "fullName": "Bernhard Pflugfelder",
+    "image": "/experts/bernhard-pflugfelder.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Head of Innovation Lab (GenAI)",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Head of Innovation Lab (GenAI)",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Head of Innovation Lab (GenAI)"
+  ],
+  "source": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "exp276",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Torben",
+    "lastName": "Jessen",
+    "fullName": "Torben Jessen",
+    "image": "/experts/torben-jessen.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Codin IT / Epic AI",
+    "position": "Gründer",
+    "department": null,
+    "website": "https://www.epic-ai.com/#chatcaptain"
+  },
+  "expertise": {
+    "primary": [
+      "KI für kleine Unternehmen"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Gründer",
+    "organization": "Codin IT / Epic AI",
+    "focus": "KI für kleine Unternehmen"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/torben-jessen-3ba436109/",
+    "company": "https://www.epic-ai.com/#chatcaptain"
+  },
+  "tags": [
+    "KI für kleine Unternehmen",
+    "Gründer"
+  ],
+  "source": "Text"
+}

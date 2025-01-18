@@ -1,0 +1,52 @@
+{
+  "id": "exp306",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Tina",
+    "lastName": "Klüwer",
+    "fullName": "Tina Klüwer",
+    "image": "/experts/tina-kl-wer.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1HP6jpBOTrzq0XNfVf7oc9JFRL1DWNoW5/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "position": "Forscherin",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Forscherin",
+    "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Forscherin"
+  ],
+  "source": "https://www.deutschland.de/de/topic/wissen/kuenstliche-intelligenz-in-deutschland-fuehrende-forscher"
+}

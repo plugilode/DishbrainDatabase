@@ -1,0 +1,54 @@
+{
+  "id": "exp258",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Max",
+    "lastName": "Gerken",
+    "fullName": "Max Frederick Gerken",
+    "image": "/experts/max-frederick-gerken.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Optocycle",
+    "position": "CEO",
+    "department": null,
+    "website": "https://www.linkedin.com/in/maxfrederickgerken/"
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "Optocycle",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.linkedin.com/in/maxfrederickgerken/"
+  },
+  "tags": [
+    "Technologie",
+    "CEO"
+  ],
+  "source": "Text"
+}

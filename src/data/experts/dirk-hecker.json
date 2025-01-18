@@ -1,0 +1,52 @@
+{
+  "id": "exp342",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Dirk",
+    "lastName": "Hecker",
+    "fullName": "Dirk Hecker",
+    "image": "/experts/dirk-hecker.jpg",
+    "email": "https://drive.google.com/file/d/1qC4wF0RbVSJDBEK6Lyom1Em6vQQNniRr/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Geschäftsführer, beteiligt am Projekt Open GPT-X",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Wissenschaftlich"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Geschäftsführer, beteiligt am Projekt Open GPT-X",
+    "organization": null,
+    "focus": "Wissenschaftlich"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/dirk-hecker-5a5b60b2/",
+    "company": null
+  },
+  "tags": [
+    "Wissenschaftlich",
+    "Geschäftsführer, beteiligt am Projekt Open GPT-X"
+  ],
+  "source": "https://www.handelsblatt.com/technik/ki/insight-innovation-chipmangel-buerokratie-warum-deutsche-ki-forscher-nicht-mithalten-koennen/100011263.html"
+}

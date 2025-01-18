@@ -1,0 +1,54 @@
+{
+  "id": "exp253",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Sabina",
+    "lastName": "Jeschke",
+    "fullName": "Sabina Jeschke",
+    "image": "/experts/sabina-jeschke.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Vorstandvorsitzende",
+    "department": null,
+    "website": "https://www.linkedin.com/in/volker-schmirgel-194a196/?originalSubdomain=de"
+  },
+  "expertise": {
+    "primary": [
+      "KI-Start-up"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Vorstandvorsitzende",
+    "organization": null,
+    "focus": "KI-Start-up"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/sabina-jeschke/",
+    "company": "https://www.linkedin.com/in/volker-schmirgel-194a196/?originalSubdomain=de"
+  },
+  "tags": [
+    "KI-Start-up",
+    "Vorstandvorsitzende"
+  ],
+  "source": "Bild (unnamed.png)"
+}

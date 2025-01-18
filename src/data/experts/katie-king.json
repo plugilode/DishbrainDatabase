@@ -1,0 +1,52 @@
+{
+  "id": "exp313",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Katie",
+    "lastName": "King",
+    "fullName": "Katie King",
+    "image": "/experts/katie-king.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1M3xAxk2jPVAlUq1aRTHqZn8A5MKnM3Rv/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Keynote Speakerin, Beraterin, Task Force Mitglied",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Beraterin"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Keynote Speakerin, Beraterin, Task Force Mitglied",
+    "organization": null,
+    "focus": "Beraterin"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Beraterin",
+    "Keynote Speakerin, Beraterin, Task Force Mitglied"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

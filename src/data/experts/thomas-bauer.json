@@ -1,0 +1,49 @@
+{
+  "id": "exp005",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Thomas",
+    "lastName": "Bauer",
+    "fullName": "Thomas Bauer",
+    "image": "/experts/thomas-bauer.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Atruvia AG",
+    "position": "0",
+    "department": null,
+    "website": "https://www.atruvia.de"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "0",
+    "organization": "Atruvia AG",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/thomas-bauer-602b6216/",
+    "company": "https://www.atruvia.de"
+  },
+  "tags": [
+    "0"
+  ],
+  "source": "Bitkom"
+}

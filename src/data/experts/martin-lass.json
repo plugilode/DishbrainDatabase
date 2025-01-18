@@ -1,0 +1,52 @@
+{
+  "id": "exp175",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Martin",
+    "lastName": "Lass",
+    "fullName": "Martin Lass",
+    "image": "/experts/martin-lass.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Kaufmännischer Leiter",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Management"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Kaufmännischer Leiter",
+    "organization": null,
+    "focus": "Management"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Management",
+    "Kaufmännischer Leiter"
+  ],
+  "source": "Teamseite"
+}

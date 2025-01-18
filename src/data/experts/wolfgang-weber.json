@@ -1,0 +1,52 @@
+{
+  "id": "exp217",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Wolfgang",
+    "lastName": "Weber",
+    "fullName": "Wolfgang Weber",
+    "image": "/experts/wolfgang-weber.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Verantwortlicher digitale Transformation, Supply Chain",
+    "department": null,
+    "website": "https://www.henkel.de/spotlight-magazin/automatisierung-braucht-neue-kompetenzen-1183142.htm"
+  },
+  "expertise": {
+    "primary": [
+      "Industrie"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Verantwortlicher digitale Transformation, Supply Chain",
+    "organization": null,
+    "focus": "Industrie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.henkel.de/spotlight-magazin/automatisierung-braucht-neue-kompetenzen-1183142.htm"
+  },
+  "tags": [
+    "Industrie",
+    "Verantwortlicher digitale Transformation, Supply Chain"
+  ],
+  "source": "Text"
+}

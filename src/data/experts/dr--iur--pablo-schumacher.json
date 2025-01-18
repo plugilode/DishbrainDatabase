@@ -1,0 +1,54 @@
+{
+  "id": "exp002",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "iur.",
+    "lastName": "Schumacher",
+    "fullName": "Dr. iur. Pablo Schumacher",
+    "image": "/experts/dr--iur--pablo-schumacher.jpg",
+    "email": "p.schumacher@bitkom.or",
+    "phone": "030 27576-289",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Bitcom",
+    "position": "Referent für Digital Content & Licensing",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Rechtsanwalt"
+    ],
+    "secondary": [],
+    "industries": [
+      "Legal"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Referent für Digital Content & Licensing",
+    "organization": "Bitcom",
+    "focus": "Rechtsanwalt"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Rechtsanwalt",
+    "Referent für Digital Content & Licensing"
+  ],
+  "source": null
+}

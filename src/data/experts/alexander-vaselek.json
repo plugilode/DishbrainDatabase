@@ -1,0 +1,54 @@
+{
+  "id": "exp105",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Alexander",
+    "lastName": "Vaselek",
+    "fullName": "Alexander Vaselek",
+    "image": "/experts/alexander-vaselek.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "CIMEDO",
+    "position": "CEO",
+    "department": null,
+    "website": "ogcon.de"
+  },
+  "expertise": {
+    "primary": [
+      "KI Ecosystem"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "CIMEDO",
+    "focus": "KI Ecosystem"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "ogcon.de"
+  },
+  "tags": [
+    "KI Ecosystem",
+    "CEO"
+  ],
+  "source": "ogcon.de"
+}

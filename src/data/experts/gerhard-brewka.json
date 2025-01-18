@@ -1,0 +1,52 @@
+{
+  "id": "exp331",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Gerhard",
+    "lastName": "Brewka",
+    "fullName": "Gerhard Brewka",
+    "image": "/experts/gerhard-brewka.jpg",
+    "email": "https://drive.google.com/file/d/1fhhO7tEhHLzfOhGrCQ6leT6MDmv4Yxa8/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Wissensrepräsentation und Schlussfolgern",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Wissensrepräsentation und Schlussfolgern",
+    "organization": null,
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Wissensrepräsentation und Schlussfolgern"
+  ],
+  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt"
+}

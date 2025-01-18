@@ -1,0 +1,52 @@
+{
+  "id": "exp314",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Bart",
+    "lastName": "Witte",
+    "fullName": "Bart de Witte",
+    "image": "/experts/bart-de-witte.jpg",
+    "email": "https://drive.google.com/file/d/1I8DzIC7gBf72YLei7Fs9uJcujLJjScf2/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "HIPPO AI Foundation",
+    "position": "Gründer, Beirat im medizinischen Bereich",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Gründer, Beirat im medizinischen Bereich",
+    "organization": "HIPPO AI Foundation",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Gründer, Beirat im medizinischen Bereich"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

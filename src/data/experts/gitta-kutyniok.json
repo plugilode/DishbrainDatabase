@@ -1,0 +1,54 @@
+{
+  "id": "exp285",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Gitta",
+    "lastName": "Kutyniok",
+    "fullName": "Gitta Kutyniok",
+    "image": "/experts/gitta-kutyniok.jpg",
+    "email": "https://docs.google.com/document/u/1/d/195SX0BuMGQNt7detCCmjfrfgDqS22-D9/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität",
+    "position": "Professorin für Mathematik, Informatik und Statistik",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Forschung"
+    ],
+    "secondary": [],
+    "industries": [
+      "Research"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professorin für Mathematik, Informatik und Statistik",
+    "organization": "Ludwig-Maximilians-Universität",
+    "focus": "Forschung"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/gitta-kutyniok-2606b215/",
+    "company": null
+  },
+  "tags": [
+    "Forschung",
+    "Professorin für Mathematik, Informatik und Statistik"
+  ],
+  "source": "https://www.burda.com/de/news/wie-ki-unser-leben-beeinflusst-interdisziplinarer/"
+}

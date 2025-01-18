@@ -1,0 +1,52 @@
+{
+  "id": "exp237",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Max",
+    "lastName": "Seiter",
+    "fullName": "Max Seiter",
+    "image": "/experts/max-seiter.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Digital Beat GmbH",
+    "position": "IT Solutions Manager",
+    "department": null,
+    "website": "Nicht verfügbar"
+  },
+  "expertise": {
+    "primary": [
+      "Marketing"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "IT Solutions Manager",
+    "organization": "Digital Beat GmbH",
+    "focus": "Marketing"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/maxseiter/",
+    "company": "Nicht verfügbar"
+  },
+  "tags": [
+    "Marketing",
+    "IT Solutions Manager"
+  ],
+  "source": "Text"
+}

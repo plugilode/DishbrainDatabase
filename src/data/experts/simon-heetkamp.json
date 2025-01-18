@@ -1,0 +1,52 @@
+{
+  "id": "exp073",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Simon",
+    "lastName": "Heetkamp",
+    "fullName": "Simon Heetkamp",
+    "image": "/experts/simon-heetkamp.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "TH Köln",
+    "position": "Professor",
+    "department": null,
+    "website": "0"
+  },
+  "expertise": {
+    "primary": [
+      "Legal"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Professor",
+    "organization": "TH Köln",
+    "focus": "Legal"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "0"
+  },
+  "tags": [
+    "Legal",
+    "Professor"
+  ],
+  "source": "​​​​​​https://www.christina-maria-leeb.de/"
+}

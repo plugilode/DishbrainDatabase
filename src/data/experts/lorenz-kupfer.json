@@ -1,0 +1,47 @@
+{
+  "id": "exp283",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Lorenz",
+    "lastName": "Kupfer",
+    "fullName": "Lorenz Kupfer",
+    "image": "/experts/lorenz-kupfer.jpg",
+    "email": "https://drive.google.com/file/d/1XyLQ0IzQV4wl5wj42yXIPRHlLbhDBgNA/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Microsoft",
+    "position": null,
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": null,
+    "organization": "Microsoft",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [],
+  "source": "https://www.burda.com/de/news/wie-ki-unser-leben-beeinflusst-interdisziplinarer/"
+}

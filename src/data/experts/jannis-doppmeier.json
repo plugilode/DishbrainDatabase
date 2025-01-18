@@ -1,0 +1,54 @@
+{
+  "id": "exp135",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jannis",
+    "lastName": "Doppmeier",
+    "fullName": "Jannis Doppmeier",
+    "image": "/experts/jannis-doppmeier.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Beckhoff Automation",
+    "position": "Produktmanager TwinCAT",
+    "department": null,
+    "website": "Beckhoff Automation"
+  },
+  "expertise": {
+    "primary": [
+      "Automatisierungstechnik"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Produktmanager TwinCAT",
+    "organization": "Beckhoff Automation",
+    "focus": "Automatisierungstechnik"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/jannis-doppmeier-0b9851226/",
+    "company": "Beckhoff Automation"
+  },
+  "tags": [
+    "Automatisierungstechnik",
+    "Produktmanager TwinCAT"
+  ],
+  "source": "Beckhoff News"
+}

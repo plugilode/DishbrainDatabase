@@ -1,0 +1,53 @@
+{
+  "id": "exp046",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Andrea",
+    "lastName": "Hickethier",
+    "fullName": "Andrea Hickethier",
+    "image": "/experts/andrea-hickethier.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Director of Sales, Marketing & Loyalty",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Director of Sales, Marketing & Loyalty",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/andrea-hickethier-65449aa0/",
+    "company": "N/A"
+  },
+  "tags": [
+    "Director of Sales, Marketing & Loyalty"
+  ],
+  "source": null,
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "lastEnriched": "2025-01-17T09:21:34.499Z"
+}

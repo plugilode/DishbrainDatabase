@@ -1,0 +1,49 @@
+{
+  "id": "exp045",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Johannes",
+    "lastName": "Keller",
+    "fullName": "Johannes Keller",
+    "image": "/experts/johannes-keller.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "appliedAI",
+    "position": "Director of Individual Solutions",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Director of Individual Solutions",
+    "organization": "appliedAI",
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Director of Individual Solutions"
+  ],
+  "source": null
+}

@@ -1,0 +1,57 @@
+{
+  "id": "exp092",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Dor",
+    "lastName": "Skuler",
+    "fullName": "Dor Skuler",
+    "image": "/experts/dor-skuler.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Intuition Robotics",
+    "position": "CEO und Mitbegründer",
+    "department": null,
+    "website": "intuitionrobotics.com"
+  },
+  "expertise": {
+    "primary": [
+      "Künstliche Intelligenz",
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "AI",
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO und Mitbegründer",
+    "organization": "Intuition Robotics",
+    "focus": "Künstliche Intelligenz, Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "intuitionrobotics.com"
+  },
+  "tags": [
+    "Künstliche Intelligenz",
+    "Technologie",
+    "CEO und Mitbegründer"
+  ],
+  "source": "https://www.unite.ai/de/Dor-Skuler%2C-CEO-und-Mitbegr%C3%BCnder-der-Interviewreihe-Intuition-Robotics/"
+}

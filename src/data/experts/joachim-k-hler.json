@@ -1,0 +1,52 @@
+{
+  "id": "exp344",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Joachim",
+    "lastName": "Köhler",
+    "fullName": "Joachim Köhler",
+    "image": "/experts/joachim-k-hler.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1jeabCmGUy-zOK_GBW91Lr2TyqoKz3HlU/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Servicezentrum WestAI, Nordrhein-Westfalen",
+    "position": "Exekutivdirektor",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Exekutivdirektor",
+    "organization": "Servicezentrum WestAI, Nordrhein-Westfalen",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Exekutivdirektor"
+  ],
+  "source": "https://www.handelsblatt.com/technik/ki/insight-innovation-chipmangel-buerokratie-warum-deutsche-ki-forscher-nicht-mithalten-koennen/100011263.html"
+}

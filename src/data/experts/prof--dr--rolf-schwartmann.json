@@ -1,0 +1,52 @@
+{
+  "id": "exp179",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Rolf",
+    "lastName": "Schwartmann",
+    "fullName": "Prof. Dr. Rolf Schwartmann",
+    "image": "/experts/prof--dr--rolf-schwartmann.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "TH Köln",
+    "position": "Leiter der Forschungsstelle für Medienrecht",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Datenschutzexperte"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Leiter der Forschungsstelle für Medienrecht",
+    "organization": "TH Köln",
+    "focus": "Datenschutzexperte"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Datenschutzexperte",
+    "Leiter der Forschungsstelle für Medienrecht"
+  ],
+  "source": null
+}

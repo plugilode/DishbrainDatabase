@@ -1,0 +1,54 @@
+{
+  "id": "exp361",
+  "personalInfo": {
+    "title": "Prof. Dr.",
+    "firstName": "Sabina",
+    "lastName": "Jeschke",
+    "fullName": "Prof. Dr. Sabina Jeschke",
+    "image": "/experts/prof--dr--sabina-jeschke.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1nPG-YxuzVLO6Jwe4eEZJzDN9AX4XBgUn/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "KI Park, Quantagonia",
+    "position": "CEO, CIO",
+    "department": null,
+    "website": "https://www.ki-park.de/, https://www.quantagonia.com/"
+  },
+  "expertise": {
+    "primary": [
+      "Forscherin",
+      "Unternehmenssprecherin"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO, CIO",
+    "organization": "KI Park, Quantagonia",
+    "focus": "Forscherin, Unternehmenssprecherin"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "https://www.ki-park.de/, https://www.quantagonia.com/"
+  },
+  "tags": [
+    "Forscherin",
+    "Unternehmenssprecherin",
+    "CEO, CIO"
+  ],
+  "source": "https://riseof.ai/conference-2024/"
+}

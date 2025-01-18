@@ -1,0 +1,54 @@
+{
+  "id": "exp250",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Brian",
+    "lastName": "Tong",
+    "fullName": "Brian Tong",
+    "image": "/experts/brian-tong.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Host für technische Produkte",
+    "department": null,
+    "website": "https://www.linkedin.com/in/brian-tong-7abb736/"
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Host für technische Produkte",
+    "organization": null,
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/brian-tong-7abb736/",
+    "company": "https://www.linkedin.com/in/brian-tong-7abb736/"
+  },
+  "tags": [
+    "Technologie",
+    "Host für technische Produkte"
+  ],
+  "source": "Text"
+}

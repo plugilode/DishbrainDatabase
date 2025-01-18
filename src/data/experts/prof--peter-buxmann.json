@@ -1,0 +1,52 @@
+{
+  "id": "exp312",
+  "personalInfo": {
+    "title": "Prof.",
+    "firstName": "Peter",
+    "lastName": "Buxmann",
+    "fullName": "Prof. Peter Buxmann",
+    "image": "/experts/prof--peter-buxmann.jpg",
+    "email": "https://drive.google.com/file/d/1JEuYfp7ElMPT6ovqFFlsKhnnnhdvbLrC/view",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Darmstadt",
+    "position": "Universitätsprofessor für Wirtschaftsinformatik, Mitgründer von zwei Unternehmen, Host des FAZ-Podcasts „Künstliche Intelligenz“",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Akademisch"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Universitätsprofessor für Wirtschaftsinformatik, Mitgründer von zwei Unternehmen, Host des FAZ-Podcasts „Künstliche Intelligenz“",
+    "organization": "Technische Universität Darmstadt",
+    "focus": "Akademisch"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Akademisch",
+    "Universitätsprofessor für Wirtschaftsinformatik, Mitgründer von zwei Unternehmen, Host des FAZ-Podcasts „Künstliche Intelligenz“"
+  ],
+  "source": "https://future-shapers.live/keynote-speaker-kuenstliche-intelligenz/"
+}

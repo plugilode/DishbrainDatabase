@@ -1,0 +1,52 @@
+{
+  "id": "exp137",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jennifer",
+    "lastName": "Moore-Braun",
+    "fullName": "Jennifer Moore-Braun",
+    "image": "/experts/jennifer-moore-braun.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "BASF",
+    "position": "Transformation Office, Corporate Communications and Government Relations",
+    "department": null,
+    "website": "N/A"
+  },
+  "expertise": {
+    "primary": [
+      "Corporate Communication"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Transformation Office, Corporate Communications and Government Relations",
+    "organization": "BASF",
+    "focus": "Corporate Communication"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "N/A"
+  },
+  "tags": [
+    "Corporate Communication",
+    "Transformation Office, Corporate Communications and Government Relations"
+  ],
+  "source": null
+}

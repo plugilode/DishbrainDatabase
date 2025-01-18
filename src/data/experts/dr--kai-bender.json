@@ -1,0 +1,52 @@
+{
+  "id": "exp125",
+  "personalInfo": {
+    "title": "Dr.",
+    "firstName": "Kai",
+    "lastName": "Bender",
+    "fullName": "Dr. Kai Bender",
+    "image": "/experts/dr--kai-bender.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Oliver Wyman",
+    "position": "Deutschlandchef der Strategieberatung",
+    "department": null,
+    "website": "Oliver Wyman"
+  },
+  "expertise": {
+    "primary": [
+      "Strategieberatung"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Deutschlandchef der Strategieberatung",
+    "organization": "Oliver Wyman",
+    "focus": "Strategieberatung"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "Oliver Wyman"
+  },
+  "tags": [
+    "Strategieberatung",
+    "Deutschlandchef der Strategieberatung"
+  ],
+  "source": null
+}

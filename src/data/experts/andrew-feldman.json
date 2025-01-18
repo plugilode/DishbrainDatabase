@@ -1,0 +1,54 @@
+{
+  "id": "exp101",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Andrew",
+    "lastName": "Feldman",
+    "fullName": "Andrew Feldman",
+    "image": "/experts/andrew-feldman.jpg",
+    "email": "info@cerebras.net",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Cerebras Systems",
+    "position": "CEO",
+    "department": null,
+    "website": "cerebras.net"
+  },
+  "expertise": {
+    "primary": [
+      "Technologie"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "CEO",
+    "organization": "Cerebras Systems",
+    "focus": "Technologie"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "cerebras.net"
+  },
+  "tags": [
+    "Technologie",
+    "CEO"
+  ],
+  "source": "cerebras.net, Wikipedia"
+}

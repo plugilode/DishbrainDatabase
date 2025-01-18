@@ -1,0 +1,58 @@
+{
+  "id": "exp120",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Nicole",
+    "lastName": "Büttner-Thiel",
+    "fullName": "Nicole Büttner-Thiel",
+    "image": "/experts/nicole-b-ttner-thiel.jpg",
+    "email": "momentum@merantix.com",
+    "phone": "N/A",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Merantix Momentum",
+    "position": "Founder & CEO",
+    "department": null,
+    "website": "merantix-momentum.com"
+  },
+  "expertise": {
+    "primary": [
+      "Tech entrepreneur",
+      "investor",
+      "supervisory board member"
+    ],
+    "secondary": [],
+    "industries": [
+      "Technology"
+    ]
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Founder & CEO",
+    "organization": "Merantix Momentum",
+    "focus": "Tech entrepreneur, investor, supervisory board member"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": "merantix-momentum.com"
+  },
+  "tags": [
+    "Tech entrepreneur",
+    "investor",
+    "supervisory board member",
+    "Founder & CEO"
+  ],
+  "source": "Merantix Momentum​ (Merantix Momentum)​, Digital X​ (DIGITAL X-Community)​"
+}

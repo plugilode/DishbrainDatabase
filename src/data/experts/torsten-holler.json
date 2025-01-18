@@ -1,0 +1,52 @@
+{
+  "id": "exp160",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Torsten",
+    "lastName": "Holler",
+    "fullName": "Torsten Holler",
+    "image": "/experts/torsten-holler.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": "Autor",
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [
+      "Journalismus"
+    ],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Autor",
+    "organization": null,
+    "focus": "Journalismus"
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [
+    "Journalismus",
+    "Autor"
+  ],
+  "source": "Artikelbild"
+}
