@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "cross-env NODE_OPTIONS='--no-warnings' next dev -p 3001",
+    "dev": "cross-env NODE_OPTIONS='--no-warnings' next dev -p 10000",
     "build": "next build",
-    "start": "next start -p 3001",
+    "start": "next start -p 10000",
     "lint": "next lint",
     "clean": "rm -rf .next",
     "dev:clean": "npm run clean && npm run dev"
