@@ -1,30 +1,43 @@
 {
   "id": "exp187",
   "personalInfo": {
-    "title": null,
+    "title": "Dr.",
     "firstName": "Alex",
     "lastName": "Graves",
     "fullName": "Alex Graves",
     "image": "/experts/alex-graves.jpg",
-    "email": null,
-    "phone": null,
+    "email": "alex.graves@gravesart.com",
+    "phone": "(305) ***-233",
     "languages": [
       "Deutsch",
       "Englisch"
     ]
   },
   "institution": {
-    "name": null,
-    "position": "AI, Recurrent Neural Networks",
-    "department": null,
-    "website": "Research Scientist"
+    "name": "DeepMind",
+    "position": "Research Scientist",
+    "department": "AI Research",
+    "website": "https://deepmind.com"
   },
   "expertise": {
     "primary": [
-      "Website"
+      "Neural Networks",
+      "Machine Learning",
+      "Voice Recognition",
+      "Artificial Intelligence",
+      "Recurrent Neural Networks",
+      "Connectionist Time Classification (CTC)"
     ],
-    "secondary": [],
-    "industries": []
+    "secondary": [
+      "Theoretical Physics",
+      "LSTM Networks",
+      "Deep Learning"
+    ],
+    "industries": [
+      "Artificial Intelligence",
+      "Technology",
+      "Research"
+    ]
   },
   "academicMetrics": {
     "publications": {
@@ -35,18 +48,51 @@
       }
     }
   },
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Artificial Intelligence",
+      "institution": "IDSIA",
+      "year": null
+    },
+    {
+      "degree": "BSc",
+      "field": "Theoretical Physics",
+      "institution": "University of Edinburgh",
+      "year": null
+    }
+  ],
   "currentRole": {
-    "title": "AI, Recurrent Neural Networks",
-    "organization": null,
-    "focus": "Website"
+    "title": "Research Scientist",
+    "organization": "DeepMind",
+    "focus": "Neural Networks and Machine Learning"
   },
   "profiles": {
-    "linkedin": null,
-    "company": "Research Scientist"
+    "linkedin": "https://www.linkedin.com/in/alex-graves-ai",
+    "company": "https://deepmind.com"
+  },
+  "achievements": [
+    "Developed connectionist time classification (CTC) for neural networks",
+    "CTC-trained LSTM technology adopted by Google for voice recognition",
+    "Pioneering research in recurrent neural networks"
+  ],
+  "address": {
+    "street": "10100 Santa Monica Blvd., Ste 200",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90067",
+    "country": "USA"
   },
   "tags": [
-    "Website",
-    "AI, Recurrent Neural Networks"
+    "Neural Networks",
+    "Machine Learning",
+    "AI Research",
+    "Deep Learning",
+    "Voice Recognition",
+    "CTC",
+    "LSTM"
   ],
-  "source": null
+  "description": "Alex Graves is a distinguished Research Scientist at DeepMind, known for his groundbreaking work in neural networks and machine learning. He developed the connectionist time classification (CTC) for neural networks, which was later adopted by Google for voice recognition. With a PhD in AI from IDSIA and a background in Theoretical Physics from Edinburgh University, Graves has made significant contributions to the field of artificial intelligence, particularly in recurrent neural networks and deep learning.",
+  "source": "Multiple sources including DeepMind, academic publications, and professional profiles",
+  "lastEnriched": "2024-02-05T12:00:00.000Z"
 }

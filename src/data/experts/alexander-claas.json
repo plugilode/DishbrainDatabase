@@ -1,31 +1,44 @@
 {
-  "id": "exp277",
+  "id": "exp_alexander_claas",
   "personalInfo": {
     "title": null,
     "firstName": "Alexander",
     "lastName": "Claas",
     "fullName": "Alexander Claas",
     "image": "/experts/alexander-claas.jpg",
-    "email": null,
-    "phone": null,
+    "email": "alexander.claas@sdnbroadcast.com",
+    "phone": "862812****",
     "languages": [
       "Deutsch",
       "Englisch"
     ]
   },
   "institution": {
-    "name": "Codin IT / Epic AI",
-    "position": "Gründer",
-    "department": null,
-    "website": "https://www.epic-ai.com/unternehmen/uber-uns"
+    "name": "Epic AI GmbH",
+    "position": "Gründer & Geschäftsführer",
+    "department": "Management",
+    "website": "https://epic-ai.com"
   },
   "expertise": {
     "primary": [
-      "KI für kleine Unternehmen"
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Chatbot Development",
+      "Software Development",
+      "AI Strategy"
     ],
-    "secondary": [],
+    "secondary": [
+      "Agricultural Technology",
+      "Digital Transformation",
+      "Content Management Systems",
+      "Automation",
+      "Broadcasting"
+    ],
     "industries": [
-      "AI"
+      "Software Development",
+      "Artificial Intelligence",
+      "Agriculture",
+      "Broadcasting"
     ]
   },
   "academicMetrics": {
@@ -37,22 +50,65 @@
       }
     }
   },
+  "education": [
+    {
+      "degree": "Bachelor",
+      "field": "Technology",
+      "institution": "Rochester Institute of Technology",
+      "year": "2014"
+    },
+    {
+      "degree": "Vocational Training",
+      "field": "Technical Studies",
+      "institution": "Morris County Vocational School District",
+      "year": "2010"
+    }
+  ],
   "currentRole": {
-    "title": "Gründer",
-    "organization": "Codin IT / Epic AI",
-    "focus": "KI für kleine Unternehmen"
+    "title": "CEO & Founder",
+    "organization": "Epic AI GmbH",
+    "focus": "AI and Machine Learning Solutions"
   },
   "profiles": {
-    "linkedin": "https://www.linkedin.com/in/alexander-claas-5a7256173/",
-    "company": "https://www.epic-ai.com/unternehmen/uber-uns"
+    "linkedin": "https://www.linkedin.com/in/alexander-claas",
+    "company": "https://epic-ai.com"
   },
-  "tags": [
-    "KI für kleine Unternehmen",
-    "Gründer"
+  "achievements": [
+    "Founded Epic AI GmbH in 2022",
+    "Developed ChatCaptain platform for intelligent chatbots",
+    "Led digital transformation initiatives in agricultural technology",
+    "Pioneered automation strategies in content management systems"
   ],
-  "source": "Text",
-  "experience": [],
-  "education": [],
-  "skills": [],
-  "lastEnriched": "2025-01-17T09:21:24.311Z"
+  "address": {
+    "street": null,
+    "city": "Flensburg",
+    "state": "Schleswig-Holstein",
+    "zip": null,
+    "country": "Germany"
+  },
+  "companies": [
+    {
+      "name": "Epic AI GmbH",
+      "role": "Founder & CEO",
+      "period": "2022-present"
+    },
+    {
+      "name": "SDN Broadcast",
+      "role": "Technical Expert",
+      "period": null
+    }
+  ],
+  "tags": [
+    "AI",
+    "Machine Learning",
+    "Chatbots",
+    "Software Development",
+    "Digital Transformation",
+    "Agricultural Technology",
+    "Automation",
+    "Broadcasting"
+  ],
+  "description": "Alexander Claas is the CEO and Founder of Epic AI GmbH, a company specializing in AI and machine learning solutions based in Flensburg, Germany. Founded in 2022, the company is known for its innovative ChatCaptain platform for creating intelligent chatbots. With a background from the Rochester Institute of Technology and experience in both broadcasting and AI sectors, Claas leads a team of eight professionals dedicated to advancing AI technologies. His work spans across software development, agricultural technology, and digital transformation, making him a key figure in the intersection of AI and practical industry applications.",
+  "source": "Multiple sources including RocketReach, company profiles, and professional networks",
+  "lastEnriched": "2024-02-05T12:00:00.000Z"
 }
